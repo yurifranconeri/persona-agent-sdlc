@@ -1,0 +1,240 @@
+{
+  "id": 1117168,
+  "rev": 32,
+  "fields": {
+    "System.Id": 1117168,
+    "System.AreaId": 15876,
+    "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+    "System.TeamProject": "Portfolio Tim TI",
+    "System.NodeName": "Marketing Consumer e SMB",
+    "System.AreaLevel1": "Portfolio Tim TI",
+    "System.AreaLevel2": "Portfolio Tim 2025",
+    "System.AreaLevel3": "CRO",
+    "System.AreaLevel4": "Marketing Consumer e SMB",
+    "System.Rev": 32,
+    "System.AuthorizedDate": "2025-11-26T20:20:10.557Z",
+    "System.RevisedDate": "9999-01-01T00:00:00Z",
+    "System.IterationId": 15548,
+    "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025",
+    "System.IterationLevel1": "Portfolio Tim TI",
+    "System.IterationLevel2": "Portfolio Tim",
+    "System.IterationLevel3": "2025",
+    "System.WorkItemType": "Macro Valoração",
+    "System.State": "Resolved",
+    "System.Reason": "Moved to state Resolved",
+    "System.AssignedTo": {
+      "displayName": "Meire Goncalves Luksaitis",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/e1ab541c-9965-6826-b227-231ea6b30e65",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.ZTFhYjU0MWMtOTk2NS03ODI2LWIyMjctMjMxZWE2YjMwZTY1"
+        }
+      },
+      "id": "e1ab541c-9965-6826-b227-231ea6b30e65",
+      "uniqueName": "mluksaitis@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.ZTFhYjU0MWMtOTk2NS03ODI2LWIyMjctMjMxZWE2YjMwZTY1",
+      "descriptor": "aad.ZTFhYjU0MWMtOTk2NS03ODI2LWIyMjctMjMxZWE2YjMwZTY1"
+    },
+    "System.CreatedDate": "2025-09-09T18:05:13.31Z",
+    "System.CreatedBy": {
+      "displayName": "Fernanda Soares Marelli Leite",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+        }
+      },
+      "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+      "uniqueName": "fleite@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+      "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+    },
+    "System.ChangedDate": "2025-11-26T20:20:10.557Z",
+    "System.ChangedBy": {
+      "displayName": "Fernanda Soares Marelli Leite",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+        }
+      },
+      "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+      "uniqueName": "fleite@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+      "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+    },
+    "System.AuthorizedAs": {
+      "displayName": "Fernanda Soares Marelli Leite",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+        }
+      },
+      "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+      "uniqueName": "fleite@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+      "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+    },
+    "System.PersonId": 177357438,
+    "System.Watermark": 9640902,
+    "System.CommentCount": 5,
+    "System.Title": "251078031 - Melhorias Resgate Senha inFlight - FQA",
+    "System.BoardColumn": "Resolved",
+    "System.BoardColumnDone": false,
+    "Microsoft.VSTS.Common.StateChangeDate": "2025-10-23T17:25:06.58Z",
+    "Microsoft.VSTS.Common.ActivatedDate": "2025-09-09T19:13:45.513Z",
+    "Microsoft.VSTS.Common.ActivatedBy": {
+      "displayName": "Meire Goncalves Luksaitis",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/e1ab541c-9965-6826-b227-231ea6b30e65",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.ZTFhYjU0MWMtOTk2NS03ODI2LWIyMjctMjMxZWE2YjMwZTY1"
+        }
+      },
+      "id": "e1ab541c-9965-6826-b227-231ea6b30e65",
+      "uniqueName": "mluksaitis@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.ZTFhYjU0MWMtOTk2NS03ODI2LWIyMjctMjMxZWE2YjMwZTY1",
+      "descriptor": "aad.ZTFhYjU0MWMtOTk2NS03ODI2LWIyMjctMjMxZWE2YjMwZTY1"
+    },
+    "Microsoft.VSTS.Common.ResolvedDate": "2025-10-23T17:25:06.58Z",
+    "Microsoft.VSTS.Common.ResolvedBy": {
+      "displayName": "Meire Goncalves Luksaitis",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/e1ab541c-9965-6826-b227-231ea6b30e65",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.ZTFhYjU0MWMtOTk2NS03ODI2LWIyMjctMjMxZWE2YjMwZTY1"
+        }
+      },
+      "id": "e1ab541c-9965-6826-b227-231ea6b30e65",
+      "uniqueName": "mluksaitis@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.ZTFhYjU0MWMtOTk2NS03ODI2LWIyMjctMjMxZWE2YjMwZTY1",
+      "descriptor": "aad.ZTFhYjU0MWMtOTk2NS03ODI2LWIyMjctMjMxZWE2YjMwZTY1"
+    },
+    "Microsoft.VSTS.Common.StackRank": 1999955028,
+    "BugVendor.TIMDM": "FQA - ATOS",
+    "TIM20.TFS.Sistemas": "TEST FACTORY",
+    "Custom.NomeAprovador2": {
+      "displayName": "Paulo Ricardo Castellanos Souza",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        }
+      },
+      "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+      "uniqueName": "pcsouza@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+      "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+    },
+    "Custom.EstadoAprovacao2": "Aprovado",
+    "Custom.NumeroBOQ": 832868,
+    "Custom.Macro_Valoracao": 21.16,
+    "Custom.TipoMacroValoracao": "Original",
+    "Custom.DiretoriaTIN2": "IT Planning e Projects",
+    "Custom.DiretoriaTIN3": "IT Quality Tests e Control",
+    "Custom.Valoracao": 21.16,
+    "Custom.TaxaValoracao": 94.56,
+    "WEF_D6D9F91403E1432F842AA09D630BFEFF_System.ExtensionMarker": true,
+    "WEF_D6D9F91403E1432F842AA09D630BFEFF_Kanban.Column": "Resolved",
+    "WEF_D6D9F91403E1432F842AA09D630BFEFF_Kanban.Column.Done": false,
+    "WEF_D6D9F91403E1432F842AA09D630BFEFF_Kanban.Lane": "Outros (ajustar mapeamento)",
+    "WEF_470311787DC74BB5955D7133F1706C9A_System.ExtensionMarker": true,
+    "WEF_470311787DC74BB5955D7133F1706C9A_Kanban.Column": "Resolved",
+    "WEF_470311787DC74BB5955D7133F1706C9A_Kanban.Column.Done": false,
+    "WEF_470311787DC74BB5955D7133F1706C9A_Kanban.Lane": "Outros (Ajustar Mapeamento)",
+    "Custom.IdEpic": 1078031,
+    "Custom.ValorMacroValoracao": 2000.89,
+    "Custom.ListaBI": "250286 - IT GROWTH - IT Planning & Projects - FÁBRICA-CRO-Marketing Consumer & SMB - Manutenção de Portfólio",
+    "Custom.Valorado": true,
+    "Custom.Macrovalorado": true,
+    "Custom.NumeroPO": 4504614557,
+    "Custom.ResponsavelMacrovaloracao": {
+      "displayName": "Meire Goncalves Luksaitis",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/e1ab541c-9965-6826-b227-231ea6b30e65",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.ZTFhYjU0MWMtOTk2NS03ODI2LWIyMjctMjMxZWE2YjMwZTY1"
+        }
+      },
+      "id": "e1ab541c-9965-6826-b227-231ea6b30e65",
+      "uniqueName": "mluksaitis@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.ZTFhYjU0MWMtOTk2NS03ODI2LWIyMjctMjMxZWE2YjMwZTY1",
+      "descriptor": "aad.ZTFhYjU0MWMtOTk2NS03ODI2LWIyMjctMjMxZWE2YjMwZTY1"
+    },
+    "Custom.ResponsavelValoracao": {
+      "displayName": "Meire Goncalves Luksaitis",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/e1ab541c-9965-6826-b227-231ea6b30e65",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.ZTFhYjU0MWMtOTk2NS03ODI2LWIyMjctMjMxZWE2YjMwZTY1"
+        }
+      },
+      "id": "e1ab541c-9965-6826-b227-231ea6b30e65",
+      "uniqueName": "mluksaitis@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.ZTFhYjU0MWMtOTk2NS03ODI2LWIyMjctMjMxZWE2YjMwZTY1",
+      "descriptor": "aad.ZTFhYjU0MWMtOTk2NS03ODI2LWIyMjctMjMxZWE2YjMwZTY1"
+    },
+    "Custom.ValorValoracao": 2000.89,
+    "Custom.FlagAjusteADM": false,
+    "Custom.DataAprovacaoLidTec": "2025-09-30T11:17:00Z",
+    "WEF_633BE54A6711499FB85A45E52A58F4C3_System.ExtensionMarker": true,
+    "WEF_633BE54A6711499FB85A45E52A58F4C3_Kanban.Column": "Resolved",
+    "WEF_633BE54A6711499FB85A45E52A58F4C3_Kanban.Column.Done": false,
+    "System.Parent": 1085522
+  },
+  "multilineFieldsFormat": {
+
+  },
+  "relations": [
+    {
+      "rel": "System.LinkTypes.Hierarchy-Reverse",
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1085522",
+      "attributes": {
+        "isLocked": false,
+        "name": "Parent"
+      }
+    },
+    {
+      "rel": "System.LinkTypes.Related",
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264",
+      "attributes": {
+        "isLocked": false,
+        "name": "Related"
+      }
+    },
+    {
+      "rel": "System.LinkTypes.Related",
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1078031",
+      "attributes": {
+        "isLocked": false,
+        "comment": "Fernanda Soares Marelli Leite mentioned work item #1078031 in #1117168",
+        "name": "Related"
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117168"
+    },
+    "workItemUpdates": {
+      "href": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117168/updates"
+    },
+    "workItemRevisions": {
+      "href": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117168/revisions"
+    },
+    "workItemComments": {
+      "href": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117168/comments"
+    },
+    "html": {
+      "href": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_workitems/edit/1117168"
+    },
+    "workItemType": {
+      "href": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItemTypes/Macro%20Valora%C3%A7%C3%A3o"
+    },
+    "fields": {
+      "href": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/fields"
+    }
+  },
+  "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117168"
+}

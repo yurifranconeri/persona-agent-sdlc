@@ -1,0 +1,74 @@
+{
+  "id": 9,
+  "rev": 1,
+  "fields": {
+    "System.AreaPath": "PersonaAgents",
+    "System.TeamProject": "PersonaAgents",
+    "System.IterationPath": "PersonaAgents",
+    "System.WorkItemType": "Feature",
+    "System.State": "New",
+    "System.Reason": "New",
+    "System.CreatedDate": "2026-04-22T14:53:11.747Z",
+    "System.CreatedBy": {
+      "displayName": "Alex Wilber",
+      "url": "https://spsprodsbr2.vssps.visualstudio.com/A15dff1ec-8d0a-4622-a696-45514319fea2/_apis/Identities/ab931f59-3259-6171-b986-8ce49cd80148",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+        }
+      },
+      "id": "ab931f59-3259-6171-b986-8ce49cd80148",
+      "uniqueName": "AlexW@M365x29712447.OnMicrosoft.com",
+      "imageUrl": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4",
+      "descriptor": "aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+    },
+    "System.ChangedDate": "2026-04-22T14:53:11.747Z",
+    "System.ChangedBy": {
+      "displayName": "Alex Wilber",
+      "url": "https://spsprodsbr2.vssps.visualstudio.com/A15dff1ec-8d0a-4622-a696-45514319fea2/_apis/Identities/ab931f59-3259-6171-b986-8ce49cd80148",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+        }
+      },
+      "id": "ab931f59-3259-6171-b986-8ce49cd80148",
+      "uniqueName": "AlexW@M365x29712447.OnMicrosoft.com",
+      "imageUrl": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4",
+      "descriptor": "aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+    },
+    "System.CommentCount": 0,
+    "System.Title": "Integração Reset de Senha na Jornada Inflight IntelSat",
+    "Microsoft.VSTS.Common.StateChangeDate": "2026-04-22T14:53:11.747Z",
+    "Microsoft.VSTS.Common.Priority": 2,
+    "Microsoft.VSTS.Common.ValueArea": "Business",
+    "System.Description": "## Descrição\n\nFeature que agrupa as alterações necessárias para integrar a funcionalidade de reset de senha do IDM à jornada do produto Inflight TIM (IntelSat). O cenário atual apresenta apenas uma mensagem orientativa quando o cliente seleciona &quot;Esqueci minha senha&quot;. O cenário desejado é a substituição por um botão funcional que redireciona para a Webview de reset de senha da TIM.\n\n## Regra de Negócio Aplicável\n- **RN001**: Utilizar o serviço de Reset de Senha do IDM (mesmo serviço do APP Tim Beta)\n\n## Premissa\n- Utilização do serviço AS IS de reset de senha do IDM\n\n## Requisitos Não Funcionais\n- Resiliência do serviço\n- Alta disponibilidade\n- Rastreabilidade de logs\n\n## Parent Epic\nEpic #8 – DM251078031 – Melhoria Resgate de Senha INFLIGHT (IntelSat)"
+  },
+  "multilineFieldsFormat": {
+    "System.Description": "html"
+  },
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/9"
+    },
+    "workItemUpdates": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/9/updates"
+    },
+    "workItemRevisions": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/9/revisions"
+    },
+    "workItemComments": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/9/comments"
+    },
+    "html": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_workitems/edit/9"
+    },
+    "workItemType": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItemTypes/Feature"
+    },
+    "fields": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/fields"
+    }
+  },
+  "url": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/9"
+}
+

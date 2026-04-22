@@ -1,0 +1,28 @@
+mcs.metadata:
+  componentName: Azure DevOps - Get work item comments
+kind: TaskDialog
+inputs:
+  - kind: ManualTaskInput
+    propertyName: account
+    value: CopilotStudioTests
+
+  - kind: ManualTaskInput
+    propertyName: project
+    value: PersonaAgents
+
+modelDisplayName: Ler os comentários de um Work Item
+modelDescription: Ler os comentários de um Work Item
+outputs:
+  - propertyName: comments
+
+  - propertyName: count
+
+action:
+  kind: InvokeConnectorTaskAction
+  connectionReference: pa_sarah.shared_visualstudioteamservices.a68b400fbef4420aa71de1da58ee2175
+  connectionProperties:
+    mode: Maker
+
+  operationId: GetWorkItemCommentsAsync
+
+outputMode: All

@@ -1,0 +1,82 @@
+mcs.metadata:
+  componentName: Azure DevOps - Create work item comment
+kind: TaskDialog
+inputs:
+  - kind: ManualTaskInput
+    propertyName: account
+    value: CopilotStudioTests
+
+  - kind: ManualTaskInput
+    propertyName: project
+    value: PersonaAgents
+
+modelDisplayName: Criar um comentário no Work Item
+modelDescription: Criar um comentário no Work Item
+outputs:
+  - propertyName: _links
+
+  - propertyName: createdBy.DirectoryAlias
+
+  - propertyName: createdBy.DisplayName
+
+  - propertyName: createdBy.Id
+
+  - propertyName: createdBy.UniqueName
+
+  - propertyName: createdBy.Url
+
+  - propertyName: createdDate
+
+  - propertyName: createdOnBehalfDate
+
+  - propertyName: createdOnBehalfOf.DirectoryAlias
+
+  - propertyName: createdOnBehalfOf.DisplayName
+
+  - propertyName: createdOnBehalfOf.Id
+
+  - propertyName: createdOnBehalfOf.UniqueName
+
+  - propertyName: createdOnBehalfOf.Url
+
+  - propertyName: format
+
+  - propertyName: id
+
+  - propertyName: isDeleted
+
+  - propertyName: mentions
+
+  - propertyName: modifiedBy.DirectoryAlias
+
+  - propertyName: modifiedBy.DisplayName
+
+  - propertyName: modifiedBy.Id
+
+  - propertyName: modifiedBy.UniqueName
+
+  - propertyName: modifiedBy.Url
+
+  - propertyName: modifiedDate
+
+  - propertyName: reactions
+
+  - propertyName: renderedText
+
+  - propertyName: text
+
+  - propertyName: url
+
+  - propertyName: version
+
+  - propertyName: workItemId
+
+action:
+  kind: InvokeConnectorTaskAction
+  connectionReference: pa_sarah.shared_visualstudioteamservices.a68b400fbef4420aa71de1da58ee2175
+  connectionProperties:
+    mode: Maker
+
+  operationId: CreateWorkItemCommentAsync
+
+outputMode: All

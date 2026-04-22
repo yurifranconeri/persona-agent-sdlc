@@ -1,0 +1,2352 @@
+{
+  "count": 24,
+  "value": [
+    {
+      "id": 1,
+      "workItemId": 1171262,
+      "rev": 1,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-12T16:58:34.45Z",
+      "fields": {
+        "System.Id": {
+          "newValue": 1171262
+        },
+        "System.AreaId": {
+          "newValue": 15073
+        },
+        "System.NodeName": {
+          "newValue": "Waterfall"
+        },
+        "System.AreaLevel1": {
+          "newValue": "Projeto_Service_Creation"
+        },
+        "System.AreaLevel2": {
+          "newValue": "Waterfall"
+        },
+        "System.Rev": {
+          "newValue": 1
+        },
+        "System.AuthorizedDate": {
+          "newValue": "2025-10-29T18:48:43.62Z"
+        },
+        "System.RevisedDate": {
+          "newValue": "2025-11-12T16:58:34.45Z"
+        },
+        "System.IterationId": {
+          "newValue": 15074
+        },
+        "System.IterationLevel1": {
+          "newValue": "Projeto_Service_Creation"
+        },
+        "System.IterationLevel2": {
+          "newValue": "Waterfall"
+        },
+        "System.WorkItemType": {
+          "newValue": "Test Case"
+        },
+        "System.State": {
+          "newValue": "Em Revisão (FQA)"
+        },
+        "System.Reason": {
+          "newValue": "Moved to state Em Revisão (FQA)"
+        },
+        "System.AssignedTo": {
+
+        },
+        "System.CreatedDate": {
+          "newValue": "2025-10-29T18:48:43.62Z"
+        },
+        "System.CreatedBy": {
+          "newValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "System.ChangedDate": {
+          "newValue": "2025-10-29T18:48:43.62Z"
+        },
+        "System.ChangedBy": {
+          "newValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "System.AuthorizedAs": {
+          "newValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "System.PersonId": {
+          "newValue": 177626786
+        },
+        "System.Watermark": {
+          "newValue": 9446355
+        },
+        "System.IsDeleted": {
+          "newValue": false
+        },
+        "System.CommentCount": {
+          "newValue": 0
+        },
+        "System.TeamProject": {
+          "newValue": "Projeto_Service_Creation"
+        },
+        "System.AreaPath": {
+          "newValue": "Projeto_Service_Creation\\Waterfall"
+        },
+        "System.IterationPath": {
+          "newValue": "Projeto_Service_Creation\\Waterfall"
+        },
+        "System.Title": {
+          "newValue": "CY0003 - Retornar a pagina do inflight após autenticação"
+        },
+        "System.BoardColumnDone": {
+          "newValue": false
+        },
+        "CodigoDemanda.TIMDM": {
+          "newValue": "251078031"
+        },
+        "CodigoFQA.TIMDM": {
+          "newValue": "TR1164264"
+        },
+        "TesteCase.AreaUsuaria.TIMDM": {
+          "newValue": "VAS"
+        },
+        "TesteCase.LiderResponsavelFQA.TIMDM": {
+          "newValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "TesteCase.Funcionalidade.TIMDM": {
+          "newValue": "Validação de implementação resgate de senha Inflight"
+        },
+        "TesteCase.Tipo.TIMDM": {
+          "newValue": "UAT Delivery"
+        },
+        "TesteCase.MotivoReabrirRejeitadoAuxiliar.TIMDM": {
+          "newValue": "false"
+        },
+        "TesteCase.Prioridade.TIMDM": {
+          "newValue": "Indefinida"
+        },
+        "TesteCase.NomeDemanda.TIMDM": {
+          "newValue": "Alteração da Fraseologia e Criação do Botão - inFlight"
+        },
+        "TesteCase.TestApprover2Add.TIMDM": {
+          "newValue": false
+        },
+        "TesteCase.TestApprover3Add.TIMDM": {
+          "newValue": false
+        },
+        "TesteCase.TestApprover4Add.TIMDM": {
+          "newValue": false
+        },
+        "TesteCase.TestApprover5Add.TIMDM": {
+          "newValue": false
+        },
+        "Custom.EquipeResponsavelFQA": {
+          "newValue": "FQA - Atos"
+        },
+        "Custom.Release": {
+          "newValue": "Extra"
+        },
+        "Custom.TesteCase_TestApprover6Add": {
+          "newValue": false
+        },
+        "Custom.TesteCase_TestApprover7Add": {
+          "newValue": false
+        },
+        "Custom.TesteCase_TestApprover8Add": {
+          "newValue": false
+        },
+        "Custom.TesteCase_TestApprover9Add": {
+          "newValue": false
+        },
+        "Custom.TesteCase_TestApprover10Add": {
+          "newValue": false
+        },
+        "Custom.PercentualAutomacao": {
+          "newValue": "0%"
+        },
+        "Custom.KPIProdutividade": {
+          "newValue": "FQA - Atos"
+        },
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_System.ExtensionMarker": {
+          "newValue": true
+        },
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column.Done": {
+          "newValue": false
+        },
+        "Custom.TestPoint": {
+          "newValue": "Não"
+        },
+        "Custom.TestePosRollout": {
+          "newValue": "Não"
+        },
+        "TesteCase.DadosDeEntrada.TIMDM": {
+          "newValue": "cliente TIM em plano com acesso ao inflight"
+        },
+        "TesteCase.ResultadoEsperado.TIMDM": {
+          "newValue": "1. Cliente executou a jornada de resgate de senha\u003Cbr\u003E2. Cliente recebeu a mensagem de senha enviada\u003Cbr\u003E3. Cliente retorna para aplicação inflight"
+        },
+        "TesteCase.PreCondicao.TIMDM": {
+          "newValue": "Msisdn Válido"
+        },
+        "TesteCase.StatusGeral.TIMDM": {
+          "newValue": "Com FQA"
+        },
+        "System.BoardColumn": {
+          "newValue": "Nova História"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "newValue": "2025-10-29T18:48:43.62Z"
+        },
+        "TesteCase.DataRealizada.TIMDM": {
+          "newValue": "2025-10-29T18:48:43Z"
+        },
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": {
+          "newValue": "Nova História"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/1"
+    },
+    {
+      "id": 2,
+      "workItemId": 1171262,
+      "rev": 2,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-13T14:25:00.497Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 1,
+          "newValue": 2
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-10-29T18:48:43.62Z",
+          "newValue": "2025-11-12T16:58:34.45Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-12T16:58:34.45Z",
+          "newValue": "2025-11-13T14:25:00.497Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-10-29T18:48:43.62Z",
+          "newValue": "2025-11-12T16:58:34.45Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9446355,
+          "newValue": 9547005
+        },
+        "TesteCase.TestApprover1.TIMDM": {
+          "newValue": {
+            "displayName": "Ana Maria Lopes Moreira",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+              }
+            },
+            "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+            "uniqueName": "amlmoreira@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+            "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+          }
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/2"
+    },
+    {
+      "id": 3,
+      "workItemId": 1171262,
+      "rev": 3,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-13T14:25:24.203Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 2,
+          "newValue": 3
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-12T16:58:34.45Z",
+          "newValue": "2025-11-13T14:25:00.497Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-13T14:25:00.497Z",
+          "newValue": "2025-11-13T14:25:24.203Z"
+        },
+        "System.State": {
+          "oldValue": "Em Revisão (FQA)",
+          "newValue": "Aberto"
+        },
+        "System.Reason": {
+          "oldValue": "Moved to state Em Revisão (FQA)",
+          "newValue": "Moved out of state Em Revisão (FQA)"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-12T16:58:34.45Z",
+          "newValue": "2025-11-13T14:25:00.497Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9547005,
+          "newValue": 9556561
+        },
+        "System.BoardColumn": {
+          "oldValue": "Nova História",
+          "newValue": "Aberto"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "oldValue": "2025-10-29T18:48:43.62Z",
+          "newValue": "2025-11-13T14:25:00.497Z"
+        },
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": {
+          "oldValue": "Nova História",
+          "newValue": "Aberto"
+        },
+        "TesteCase.DataRealizada.TIMDM": {
+          "oldValue": "2025-10-29T18:48:43Z",
+          "newValue": "2025-11-13T14:24:49.677Z"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/3"
+    },
+    {
+      "id": 4,
+      "workItemId": 1171262,
+      "rev": 4,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-13T14:25:37.92Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 3,
+          "newValue": 4
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-13T14:25:00.497Z",
+          "newValue": "2025-11-13T14:25:24.203Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-13T14:25:24.203Z",
+          "newValue": "2025-11-13T14:25:37.92Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-13T14:25:00.497Z",
+          "newValue": "2025-11-13T14:25:24.203Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9556561,
+          "newValue": 9556567
+        },
+        "TesteCase.DataRealizada.TIMDM": {
+          "oldValue": "2025-11-13T14:24:49.677Z",
+          "newValue": "2025-11-13T14:25:01.26Z"
+        }
+      },
+      "relations": {
+        "added": [
+          {
+            "rel": "Microsoft.VSTS.Common.TestedBy-Reverse",
+            "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1184452",
+            "attributes": {
+              "isLocked": false,
+              "name": "Tests"
+            }
+          }
+        ]
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/4"
+    },
+    {
+      "id": 5,
+      "workItemId": 1171262,
+      "rev": 5,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-17T15:06:28.723Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 4,
+          "newValue": 5
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-13T14:25:24.203Z",
+          "newValue": "2025-11-13T14:25:37.92Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-13T14:25:37.92Z",
+          "newValue": "2025-11-17T15:06:28.723Z"
+        },
+        "System.State": {
+          "oldValue": "Aberto",
+          "newValue": "Bloqueado"
+        },
+        "System.Reason": {
+          "oldValue": "Moved out of state Em Revisão (FQA)",
+          "newValue": "Moved out of state Aberto"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-13T14:25:24.203Z",
+          "newValue": "2025-11-13T14:25:37.92Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9556567,
+          "newValue": 9556571
+        },
+        "System.BoardColumn": {
+          "oldValue": "Aberto",
+          "newValue": "Bloqueado"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "oldValue": "2025-11-13T14:25:00.497Z",
+          "newValue": "2025-11-13T14:25:37.92Z"
+        },
+        "Microsoft.VSTS.Common.ActivatedDate": {
+          "newValue": "2025-11-13T14:25:37.92Z"
+        },
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "newValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "TesteCase.StatusGeral.TIMDM": {
+          "oldValue": "Com FQA",
+          "newValue": "Bloq/Erro"
+        },
+        "TesteCase.DataRealizada.TIMDM": {
+          "oldValue": "2025-11-13T14:25:01.26Z",
+          "newValue": "2025-11-13T14:25:35.327Z"
+        },
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": {
+          "oldValue": "Aberto",
+          "newValue": "Bloqueado"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/5"
+    },
+    {
+      "id": 6,
+      "workItemId": 1171262,
+      "rev": 6,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-17T17:31:49.417Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 5,
+          "newValue": 6
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-13T14:25:37.92Z",
+          "newValue": "2025-11-17T15:06:28.723Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-17T15:06:28.723Z",
+          "newValue": "2025-11-17T17:31:49.417Z"
+        },
+        "System.State": {
+          "oldValue": "Bloqueado",
+          "newValue": "Aberto"
+        },
+        "System.Reason": {
+          "oldValue": "Moved out of state Aberto",
+          "newValue": "Moved out of state Bloqueado"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-13T14:25:37.92Z",
+          "newValue": "2025-11-17T15:06:28.723Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9556571,
+          "newValue": 9579101
+        },
+        "TesteCase.StatusGeral.TIMDM": {
+          "oldValue": "Bloq/Erro",
+          "newValue": "Com FQA"
+        },
+        "System.BoardColumn": {
+          "oldValue": "Bloqueado",
+          "newValue": "Aberto"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "oldValue": "2025-11-13T14:25:37.92Z",
+          "newValue": "2025-11-17T15:06:28.723Z"
+        },
+        "Microsoft.VSTS.Common.ActivatedDate": {
+          "oldValue": "2025-11-13T14:25:37.92Z"
+        },
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "oldValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "TesteCase.DataRealizada.TIMDM": {
+          "oldValue": "2025-11-13T14:25:35.327Z",
+          "newValue": "2025-11-17T15:06:25.517Z"
+        },
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": {
+          "oldValue": "Bloqueado",
+          "newValue": "Aberto"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/6"
+    },
+    {
+      "id": 7,
+      "workItemId": 1171262,
+      "rev": 7,
+      "revisedBy": {
+        "id": "53f09878-ec6f-6fa3-8cb5-02ff7b452a9f",
+        "name": "Carolina Ribeiro Gomes Sundin \u003Ccsundin@timbrasil.com.br\u003E",
+        "displayName": "Carolina Ribeiro Gomes Sundin",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/53f09878-ec6f-6fa3-8cb5-02ff7b452a9f",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm"
+          }
+        },
+        "uniqueName": "csundin@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm",
+        "descriptor": "aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm"
+      },
+      "revisedDate": "2025-11-17T19:58:52.717Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 6,
+          "newValue": 7
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-17T15:06:28.723Z",
+          "newValue": "2025-11-17T17:31:49.417Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-17T17:31:49.417Z",
+          "newValue": "2025-11-17T19:58:52.717Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-17T15:06:28.723Z",
+          "newValue": "2025-11-17T17:31:49.417Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          },
+          "newValue": {
+            "displayName": "Carolina Ribeiro Gomes Sundin",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/53f09878-ec6f-6fa3-8cb5-02ff7b452a9f",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm"
+              }
+            },
+            "id": "53f09878-ec6f-6fa3-8cb5-02ff7b452a9f",
+            "uniqueName": "csundin@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm",
+            "descriptor": "aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          },
+          "newValue": {
+            "displayName": "Carolina Ribeiro Gomes Sundin",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/53f09878-ec6f-6fa3-8cb5-02ff7b452a9f",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm"
+              }
+            },
+            "id": "53f09878-ec6f-6fa3-8cb5-02ff7b452a9f",
+            "uniqueName": "csundin@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm",
+            "descriptor": "aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 177626786,
+          "newValue": 251013398
+        },
+        "System.Watermark": {
+          "oldValue": 9579101,
+          "newValue": 9580747
+        },
+        "Microsoft.VSTS.Common.StackRank": {
+          "newValue": 1999991591
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/7"
+    },
+    {
+      "id": 8,
+      "workItemId": 1171262,
+      "rev": 8,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-17T20:18:30.913Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 7,
+          "newValue": 8
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-17T17:31:49.417Z",
+          "newValue": "2025-11-17T19:58:52.717Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-17T19:58:52.717Z",
+          "newValue": "2025-11-17T20:18:30.913Z"
+        },
+        "System.State": {
+          "oldValue": "Aberto",
+          "newValue": "Em Andamento"
+        },
+        "System.Reason": {
+          "oldValue": "Moved out of state Bloqueado",
+          "newValue": "Moved out of state Aberto"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-17T17:31:49.417Z",
+          "newValue": "2025-11-17T19:58:52.717Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Carolina Ribeiro Gomes Sundin",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/53f09878-ec6f-6fa3-8cb5-02ff7b452a9f",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm"
+              }
+            },
+            "id": "53f09878-ec6f-6fa3-8cb5-02ff7b452a9f",
+            "uniqueName": "csundin@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm",
+            "descriptor": "aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm"
+          },
+          "newValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Carolina Ribeiro Gomes Sundin",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/53f09878-ec6f-6fa3-8cb5-02ff7b452a9f",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm"
+              }
+            },
+            "id": "53f09878-ec6f-6fa3-8cb5-02ff7b452a9f",
+            "uniqueName": "csundin@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm",
+            "descriptor": "aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm"
+          },
+          "newValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 251013398,
+          "newValue": 177626786
+        },
+        "System.Watermark": {
+          "oldValue": 9580747,
+          "newValue": 9583366
+        },
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "newValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "Custom.Complexidade": {
+          "newValue": 2
+        },
+        "Microsoft.VSTS.Common.ActivatedDate": {
+          "newValue": "2025-11-17T19:58:52.717Z"
+        },
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "newValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "System.BoardColumn": {
+          "oldValue": "Aberto",
+          "newValue": "Em Andamento"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "oldValue": "2025-11-17T15:06:28.723Z",
+          "newValue": "2025-11-17T19:58:52.717Z"
+        },
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": {
+          "oldValue": "Aberto",
+          "newValue": "Em Andamento"
+        },
+        "TesteCase.DataRealizada.TIMDM": {
+          "oldValue": "2025-11-17T15:06:25.517Z",
+          "newValue": "2025-11-17T19:58:45.427Z"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/8"
+    },
+    {
+      "id": 9,
+      "workItemId": 1171262,
+      "rev": 9,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-17T20:18:41.95Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 8,
+          "newValue": 9
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-17T19:58:52.717Z",
+          "newValue": "2025-11-17T20:18:30.913Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-17T20:18:30.913Z",
+          "newValue": "2025-11-17T20:18:41.95Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-17T19:58:52.717Z",
+          "newValue": "2025-11-17T20:18:30.913Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9583366,
+          "newValue": 9583680
+        },
+        "System.CommentCount": {
+          "oldValue": 0,
+          "newValue": 1
+        },
+        "TesteCase.DataRealizada.TIMDM": {
+          "oldValue": "2025-11-17T19:58:45.427Z",
+          "newValue": "2025-11-17T19:58:53Z"
+        }
+      },
+      "relations": {
+        "added": [
+          {
+            "rel": "AttachedFile",
+            "attributes": {
+              "authorizedDate": "2025-11-17T20:18:30.913Z",
+              "id": 28695306,
+              "resourceCreatedDate": "2025-11-17T20:18:29.073Z",
+              "resourceModifiedDate": "2025-11-17T20:18:29.073Z",
+              "revisedDate": "2025-11-19T17:47:38.02Z",
+              "resourceSize": 456317,
+              "name": "Recuperação de senha P2.mp4"
+            }
+          },
+          {
+            "rel": "AttachedFile",
+            "attributes": {
+              "authorizedDate": "2025-11-17T20:18:30.913Z",
+              "id": 28695307,
+              "resourceCreatedDate": "2025-11-17T20:18:29.583Z",
+              "resourceModifiedDate": "2025-11-17T20:18:29.583Z",
+              "revisedDate": "2025-11-19T17:47:38.02Z",
+              "resourceSize": 982880,
+              "name": "Recuperação de senha P1.mp4"
+            }
+          }
+        ]
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/9"
+    },
+    {
+      "id": 10,
+      "workItemId": 1171262,
+      "rev": 10,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-18T11:48:36.453Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 9,
+          "newValue": 10
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-17T20:18:30.913Z",
+          "newValue": "2025-11-17T20:18:41.95Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-17T20:18:41.95Z",
+          "newValue": "2025-11-18T11:48:36.453Z"
+        },
+        "System.State": {
+          "oldValue": "Em Andamento",
+          "newValue": "Enviado para Usuário"
+        },
+        "System.Reason": {
+          "oldValue": "Moved out of state Aberto",
+          "newValue": "Moved out of state Em Andamento"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-17T20:18:30.913Z",
+          "newValue": "2025-11-17T20:18:41.95Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9583680,
+          "newValue": 9583681
+        },
+        "TesteCase.EvidenciaAnexaReqAuxiliar.TIMDM": {
+          "newValue": "Já possui anexo"
+        },
+        "TesteCase.DataDelivery.TIMDM": {
+          "newValue": "2025-11-17T20:18:34.593Z"
+        },
+        "System.BoardColumn": {
+          "oldValue": "Em Andamento",
+          "newValue": "Enviado para Usuário"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "oldValue": "2025-11-17T19:58:52.717Z",
+          "newValue": "2025-11-17T20:18:41.95Z"
+        },
+        "TesteCase.StatusGeral.TIMDM": {
+          "oldValue": "Com FQA",
+          "newValue": "Com Usuário"
+        },
+        "TesteCase.DataRealizada.TIMDM": {
+          "oldValue": "2025-11-17T19:58:53Z",
+          "newValue": "2025-11-17T20:18:34.593Z"
+        },
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": {
+          "oldValue": "Em Andamento",
+          "newValue": "Enviado para Usuário"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/10"
+    },
+    {
+      "id": 11,
+      "workItemId": 1171262,
+      "rev": 11,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-18T14:03:02.71Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 10,
+          "newValue": 11
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-17T20:18:41.95Z",
+          "newValue": "2025-11-18T11:48:36.453Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-18T11:48:36.453Z",
+          "newValue": "2025-11-18T14:03:02.71Z"
+        },
+        "System.State": {
+          "oldValue": "Enviado para Usuário",
+          "newValue": "Em Andamento"
+        },
+        "System.Reason": {
+          "oldValue": "Moved out of state Em Andamento",
+          "newValue": "Moved out of state Enviado para Usuário"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-17T20:18:41.95Z",
+          "newValue": "2025-11-18T11:48:36.453Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9583681,
+          "newValue": 9586225
+        },
+        "System.BoardColumn": {
+          "oldValue": "Enviado para Usuário",
+          "newValue": "Em Andamento"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "oldValue": "2025-11-17T20:18:41.95Z",
+          "newValue": "2025-11-18T11:48:36.453Z"
+        },
+        "TesteCase.StatusGeral.TIMDM": {
+          "oldValue": "Com Usuário",
+          "newValue": "Com FQA"
+        },
+        "TesteCase.DataRealizada.TIMDM": {
+          "oldValue": "2025-11-17T20:18:34.593Z",
+          "newValue": "2025-11-18T11:48:36Z"
+        },
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": {
+          "oldValue": "Enviado para Usuário",
+          "newValue": "Em Andamento"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/11"
+    },
+    {
+      "id": 12,
+      "workItemId": 1171262,
+      "rev": 12,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-18T22:34:33.203Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 11,
+          "newValue": 12
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-18T11:48:36.453Z",
+          "newValue": "2025-11-18T14:03:02.71Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-18T14:03:02.71Z",
+          "newValue": "2025-11-18T22:34:33.203Z"
+        },
+        "System.State": {
+          "oldValue": "Em Andamento",
+          "newValue": "Falhado"
+        },
+        "System.Reason": {
+          "oldValue": "Moved out of state Enviado para Usuário",
+          "newValue": "Moved out of state Em Andamento"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-18T11:48:36.453Z",
+          "newValue": "2025-11-18T14:03:02.71Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9586225,
+          "newValue": 9588068
+        },
+        "TesteCase.DefeitoAssociado.TIMDM": {
+          "newValue": "Sim"
+        },
+        "System.BoardColumn": {
+          "oldValue": "Em Andamento",
+          "newValue": "Falhado"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "oldValue": "2025-11-18T11:48:36.453Z",
+          "newValue": "2025-11-18T14:03:02.71Z"
+        },
+        "TesteCase.StatusGeral.TIMDM": {
+          "oldValue": "Com FQA",
+          "newValue": "Bloq/Erro"
+        },
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": {
+          "oldValue": "Em Andamento",
+          "newValue": "Falhado"
+        },
+        "TesteCase.DataRealizada.TIMDM": {
+          "oldValue": "2025-11-18T11:48:36Z",
+          "newValue": "2025-11-18T14:02:27.413Z"
+        }
+      },
+      "relations": {
+        "added": [
+          {
+            "rel": "Microsoft.VSTS.Common.TestedBy-Reverse",
+            "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1193756",
+            "attributes": {
+              "isLocked": false,
+              "name": "Tests"
+            }
+          }
+        ]
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/12"
+    },
+    {
+      "id": 13,
+      "workItemId": 1171262,
+      "rev": 12,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-18T14:44:27.47Z",
+      "relations": {
+        "added": [
+          {
+            "rel": "System.LinkTypes.Related",
+            "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113040",
+            "attributes": {
+              "isLocked": false,
+              "name": "Related"
+            }
+          }
+        ]
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/13"
+    },
+    {
+      "id": 14,
+      "workItemId": 1171262,
+      "rev": 13,
+      "revisedBy": {
+        "id": "b7d3fe1c-9804-6b8c-b2ea-d856e28b9b78",
+        "name": "Joanna Maria Haslwanter \u003Cjhaslwanter@timbrasil.com.br\u003E",
+        "displayName": "Joanna Maria Haslwanter",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/b7d3fe1c-9804-6b8c-b2ea-d856e28b9b78",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4"
+          }
+        },
+        "uniqueName": "jhaslwanter@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4",
+        "descriptor": "aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4"
+      },
+      "revisedDate": "2025-11-19T17:47:08.793Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 12,
+          "newValue": 13
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-18T14:03:02.71Z",
+          "newValue": "2025-11-18T22:34:33.203Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-18T22:34:33.203Z",
+          "newValue": "2025-11-19T17:47:08.793Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-18T14:03:02.71Z",
+          "newValue": "2025-11-18T22:34:33.203Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          },
+          "newValue": {
+            "displayName": "Joanna Maria Haslwanter",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/b7d3fe1c-9804-6b8c-b2ea-d856e28b9b78",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4"
+              }
+            },
+            "id": "b7d3fe1c-9804-6b8c-b2ea-d856e28b9b78",
+            "uniqueName": "jhaslwanter@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4",
+            "descriptor": "aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          },
+          "newValue": {
+            "displayName": "Joanna Maria Haslwanter",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/b7d3fe1c-9804-6b8c-b2ea-d856e28b9b78",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4"
+              }
+            },
+            "id": "b7d3fe1c-9804-6b8c-b2ea-d856e28b9b78",
+            "uniqueName": "jhaslwanter@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4",
+            "descriptor": "aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 177626786,
+          "newValue": 251062106
+        },
+        "System.Watermark": {
+          "oldValue": 9588068,
+          "newValue": 9595147
+        },
+        "Microsoft.VSTS.Common.StackRank": {
+          "oldValue": 1999991591,
+          "newValue": 1999991292
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/14"
+    },
+    {
+      "id": 15,
+      "workItemId": 1171262,
+      "rev": 14,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-19T17:47:33.387Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 13,
+          "newValue": 14
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-18T22:34:33.203Z",
+          "newValue": "2025-11-19T17:47:08.793Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-19T17:47:08.793Z",
+          "newValue": "2025-11-19T17:47:33.387Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-18T22:34:33.203Z",
+          "newValue": "2025-11-19T17:47:08.793Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Joanna Maria Haslwanter",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/b7d3fe1c-9804-6b8c-b2ea-d856e28b9b78",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4"
+              }
+            },
+            "id": "b7d3fe1c-9804-6b8c-b2ea-d856e28b9b78",
+            "uniqueName": "jhaslwanter@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4",
+            "descriptor": "aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4"
+          },
+          "newValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Joanna Maria Haslwanter",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/b7d3fe1c-9804-6b8c-b2ea-d856e28b9b78",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4"
+              }
+            },
+            "id": "b7d3fe1c-9804-6b8c-b2ea-d856e28b9b78",
+            "uniqueName": "jhaslwanter@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4",
+            "descriptor": "aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4"
+          },
+          "newValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 251062106,
+          "newValue": 177626786
+        },
+        "System.Watermark": {
+          "oldValue": 9595147,
+          "newValue": 9600601
+        },
+        "System.CommentCount": {
+          "oldValue": 1,
+          "newValue": 0
+        },
+        "System.History": {
+          "newValue": ""
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/15"
+    },
+    {
+      "id": 16,
+      "workItemId": 1171262,
+      "rev": 15,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-19T17:47:38.02Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 14,
+          "newValue": 15
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-19T17:47:08.793Z",
+          "newValue": "2025-11-19T17:47:33.387Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-19T17:47:33.387Z",
+          "newValue": "2025-11-19T17:47:38.02Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-19T17:47:08.793Z",
+          "newValue": "2025-11-19T17:47:33.387Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9600601,
+          "newValue": 9600606
+        },
+        "System.CommentCount": {
+          "oldValue": 0,
+          "newValue": 1
+        },
+        "System.History": {
+          "oldValue": "",
+          "newValue": "Teste grado. Anexao vídeo da operação.\n\nNnova senha gerada:\n![image.png](https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/attachments/9b16a293-74a6-42b0-b84b-5a5493b1a69a?fileName=image.png) "
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/16"
+    },
+    {
+      "id": 17,
+      "workItemId": 1171262,
+      "rev": 16,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-19T18:26:20.01Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 15,
+          "newValue": 16
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-19T17:47:33.387Z",
+          "newValue": "2025-11-19T17:47:38.02Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-19T17:47:38.02Z",
+          "newValue": "2025-11-19T18:26:20.01Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-19T17:47:33.387Z",
+          "newValue": "2025-11-19T17:47:38.02Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9600606,
+          "newValue": 9600608
+        },
+        "TesteCase.DataRealizada.TIMDM": {
+          "oldValue": "2025-11-18T14:02:27.413Z",
+          "newValue": "2025-11-19T17:39:47.497Z"
+        }
+      },
+      "relations": {
+        "added": [
+          {
+            "rel": "AttachedFile",
+            "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/attachments/44afccad-f022-4f81-b703-7a707fdb5fdb",
+            "attributes": {
+              "authorizedDate": "2025-11-19T17:47:38.02Z",
+              "id": 28728009,
+              "resourceCreatedDate": "2025-11-19T17:46:52.767Z",
+              "resourceModifiedDate": "2025-11-19T17:46:52.767Z",
+              "revisedDate": "9999-01-01T00:00:00Z",
+              "resourceSize": 1146695,
+              "name": "Recuperaçao de senha retorno a pagina.mp4"
+            }
+          }
+        ],
+        "removed": [
+          {
+            "rel": "AttachedFile",
+            "attributes": {
+              "authorizedDate": "2025-11-17T20:18:30.913Z",
+              "id": 28695306,
+              "resourceCreatedDate": "2025-11-17T20:18:29.073Z",
+              "resourceModifiedDate": "2025-11-17T20:18:29.073Z",
+              "revisedDate": "2025-11-19T17:47:38.02Z",
+              "resourceSize": 456317,
+              "name": "Recuperação de senha P2.mp4"
+            }
+          },
+          {
+            "rel": "AttachedFile",
+            "attributes": {
+              "authorizedDate": "2025-11-17T20:18:30.913Z",
+              "id": 28695307,
+              "resourceCreatedDate": "2025-11-17T20:18:29.583Z",
+              "resourceModifiedDate": "2025-11-17T20:18:29.583Z",
+              "revisedDate": "2025-11-19T17:47:38.02Z",
+              "resourceSize": 982880,
+              "name": "Recuperação de senha P1.mp4"
+            }
+          }
+        ]
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/17"
+    },
+    {
+      "id": 18,
+      "workItemId": 1171262,
+      "rev": 17,
+      "revisedBy": {
+        "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+        "name": "AzDevOpsServ_PRD \u003CAzDevOpsServ_PRD_usr@timbrasil.com.br\u003E",
+        "displayName": "AzDevOpsServ_PRD",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          }
+        },
+        "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+        "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+      },
+      "revisedDate": "2025-11-19T18:27:46.71Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 16,
+          "newValue": 17
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-19T17:47:38.02Z",
+          "newValue": "2025-11-19T18:26:20.01Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-19T18:26:20.01Z",
+          "newValue": "2025-11-19T18:27:46.71Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-19T17:47:38.02Z",
+          "newValue": "2025-11-19T18:26:20.01Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          },
+          "newValue": {
+            "displayName": "AzDevOpsServ_PRD",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+              }
+            },
+            "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+            "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          },
+          "newValue": {
+            "displayName": "AzDevOpsServ_PRD",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+              }
+            },
+            "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+            "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 177626786,
+          "newValue": 124304868
+        },
+        "System.Watermark": {
+          "oldValue": 9600608,
+          "newValue": 9601323
+        },
+        "TesteCase.Liberado.TIMDM": {
+          "newValue": "Não"
+        },
+        "TesteCase.DataRealizada.TIMDM": {
+          "oldValue": "2025-11-19T17:39:47.497Z",
+          "newValue": "2025-11-19T18:26:19.987Z"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/18"
+    },
+    {
+      "id": 19,
+      "workItemId": 1171262,
+      "rev": 18,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-19T18:27:52.26Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 17,
+          "newValue": 18
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-19T18:26:20.01Z",
+          "newValue": "2025-11-19T18:27:46.71Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-19T18:27:46.71Z",
+          "newValue": "2025-11-19T18:27:52.26Z"
+        },
+        "System.State": {
+          "oldValue": "Falhado",
+          "newValue": "Retestar"
+        },
+        "System.Reason": {
+          "oldValue": "Moved out of state Em Andamento",
+          "newValue": "Moved out of state Falhado"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-19T18:26:20.01Z",
+          "newValue": "2025-11-19T18:27:46.71Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "AzDevOpsServ_PRD",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+              }
+            },
+            "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+            "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          },
+          "newValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "AzDevOpsServ_PRD",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+              }
+            },
+            "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+            "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          },
+          "newValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 124304868,
+          "newValue": 177626786
+        },
+        "System.Watermark": {
+          "oldValue": 9601323,
+          "newValue": 9601357
+        },
+        "System.BoardColumn": {
+          "oldValue": "Falhado",
+          "newValue": "Retestar"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "oldValue": "2025-11-18T14:03:02.71Z",
+          "newValue": "2025-11-19T18:27:46.71Z"
+        },
+        "TesteCase.StatusGeral.TIMDM": {
+          "oldValue": "Bloq/Erro",
+          "newValue": "Retestar"
+        },
+        "TesteCase.DataRealizada.TIMDM": {
+          "oldValue": "2025-11-19T18:26:19.987Z",
+          "newValue": "2025-11-19T18:26:29.157Z"
+        },
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": {
+          "oldValue": "Falhado",
+          "newValue": "Retestar"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/19"
+    },
+    {
+      "id": 20,
+      "workItemId": 1171262,
+      "rev": 19,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-19T18:27:55.84Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 18,
+          "newValue": 19
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-19T18:27:46.71Z",
+          "newValue": "2025-11-19T18:27:52.26Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-19T18:27:52.26Z",
+          "newValue": "2025-11-19T18:27:55.84Z"
+        },
+        "System.State": {
+          "oldValue": "Retestar",
+          "newValue": "Aberto"
+        },
+        "System.Reason": {
+          "oldValue": "Moved out of state Falhado",
+          "newValue": "Moved out of state Retestar"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-19T18:27:46.71Z",
+          "newValue": "2025-11-19T18:27:52.26Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9601357,
+          "newValue": 9601363
+        },
+        "TesteCase.DefeitoAssociado.TIMDM": {
+          "oldValue": "Sim"
+        },
+        "TesteCase.StatusGeral.TIMDM": {
+          "oldValue": "Retestar",
+          "newValue": "Com FQA"
+        },
+        "System.BoardColumn": {
+          "oldValue": "Retestar",
+          "newValue": "Aberto"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "oldValue": "2025-11-19T18:27:46.71Z",
+          "newValue": "2025-11-19T18:27:52.26Z"
+        },
+        "Microsoft.VSTS.Common.ActivatedDate": {
+          "oldValue": "2025-11-17T19:58:52.717Z"
+        },
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "oldValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "TesteCase.DataRealizada.TIMDM": {
+          "oldValue": "2025-11-19T18:26:29.157Z",
+          "newValue": "2025-11-19T18:27:50.65Z"
+        },
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": {
+          "oldValue": "Retestar",
+          "newValue": "Aberto"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/20"
+    },
+    {
+      "id": 21,
+      "workItemId": 1171262,
+      "rev": 20,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-19T18:28:20.223Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 19,
+          "newValue": 20
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-19T18:27:52.26Z",
+          "newValue": "2025-11-19T18:27:55.84Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-19T18:27:55.84Z",
+          "newValue": "2025-11-19T18:28:20.223Z"
+        },
+        "System.State": {
+          "oldValue": "Aberto",
+          "newValue": "Em Andamento"
+        },
+        "System.Reason": {
+          "oldValue": "Moved out of state Retestar",
+          "newValue": "Moved out of state Aberto"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-19T18:27:52.26Z",
+          "newValue": "2025-11-19T18:27:55.84Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9601363,
+          "newValue": 9601367
+        },
+        "Microsoft.VSTS.Common.ActivatedDate": {
+          "newValue": "2025-11-19T18:27:55.84Z"
+        },
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "newValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "System.BoardColumn": {
+          "oldValue": "Aberto",
+          "newValue": "Em Andamento"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "oldValue": "2025-11-19T18:27:52.26Z",
+          "newValue": "2025-11-19T18:27:55.84Z"
+        },
+        "TesteCase.DataRealizada.TIMDM": {
+          "oldValue": "2025-11-19T18:27:50.65Z",
+          "newValue": "2025-11-19T18:27:54.677Z"
+        },
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": {
+          "oldValue": "Aberto",
+          "newValue": "Em Andamento"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/21"
+    },
+    {
+      "id": 22,
+      "workItemId": 1171262,
+      "rev": 21,
+      "revisedBy": {
+        "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "name": "Anderson Teixeira Abrantes \u003Caabrantes_atos@timbrasil.com.br\u003E",
+        "displayName": "Anderson Teixeira Abrantes",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "uniqueName": "aabrantes_atos@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+        "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+      },
+      "revisedDate": "2025-11-19T21:29:37.78Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 20,
+          "newValue": 21
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-19T18:27:55.84Z",
+          "newValue": "2025-11-19T18:28:20.223Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-19T18:28:20.223Z",
+          "newValue": "2025-11-19T21:29:37.78Z"
+        },
+        "System.State": {
+          "oldValue": "Em Andamento",
+          "newValue": "Enviado para Usuário"
+        },
+        "System.Reason": {
+          "oldValue": "Moved out of state Aberto",
+          "newValue": "Moved out of state Em Andamento"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-19T18:27:55.84Z",
+          "newValue": "2025-11-19T18:28:20.223Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9601367,
+          "newValue": 9601375
+        },
+        "TesteCase.DataDelivery.TIMDM": {
+          "oldValue": "2025-11-17T20:18:34.593Z",
+          "newValue": "2025-11-19T18:28:18.31Z"
+        },
+        "System.BoardColumn": {
+          "oldValue": "Em Andamento",
+          "newValue": "Enviado para Usuário"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "oldValue": "2025-11-19T18:27:55.84Z",
+          "newValue": "2025-11-19T18:28:20.223Z"
+        },
+        "TesteCase.StatusGeral.TIMDM": {
+          "oldValue": "Com FQA",
+          "newValue": "Com Usuário"
+        },
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": {
+          "oldValue": "Em Andamento",
+          "newValue": "Enviado para Usuário"
+        },
+        "TesteCase.DataRealizada.TIMDM": {
+          "oldValue": "2025-11-19T18:27:54.677Z",
+          "newValue": "2025-11-19T18:28:18.31Z"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/22"
+    },
+    {
+      "id": 23,
+      "workItemId": 1171262,
+      "rev": 22,
+      "revisedBy": {
+        "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+        "name": "Ana Maria Lopes Moreira \u003Camlmoreira@timbrasil.com.br\u003E",
+        "displayName": "Ana Maria Lopes Moreira",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+          }
+        },
+        "uniqueName": "amlmoreira@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+        "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+      },
+      "revisedDate": "2025-11-19T21:30:10.833Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 21,
+          "newValue": 22
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-19T18:28:20.223Z",
+          "newValue": "2025-11-19T21:29:37.78Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-19T21:29:37.78Z",
+          "newValue": "2025-11-19T21:30:10.833Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-19T18:28:20.223Z",
+          "newValue": "2025-11-19T21:29:37.78Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          },
+          "newValue": {
+            "displayName": "Ana Maria Lopes Moreira",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+              }
+            },
+            "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+            "uniqueName": "amlmoreira@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+            "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          },
+          "newValue": {
+            "displayName": "Ana Maria Lopes Moreira",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+              }
+            },
+            "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+            "uniqueName": "amlmoreira@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+            "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 177626786,
+          "newValue": 250962303
+        },
+        "System.Watermark": {
+          "oldValue": 9601375,
+          "newValue": 9604626
+        },
+        "TesteCase.TestApprover1Aprove.TIMDM": {
+          "newValue": "Aprovado"
+        },
+        "TesteCase.DataRealizada.TIMDM": {
+          "oldValue": "2025-11-19T18:28:18.31Z",
+          "newValue": "2025-11-19T21:27:32.823Z"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/23"
+    },
+    {
+      "id": 24,
+      "workItemId": 1171262,
+      "rev": 23,
+      "revisedBy": {
+        "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+        "name": "AzDevOpsServ_PRD \u003CAzDevOpsServ_PRD_usr@timbrasil.com.br\u003E",
+        "displayName": "AzDevOpsServ_PRD",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          }
+        },
+        "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+        "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+      },
+      "revisedDate": "9999-01-01T00:00:00Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 22,
+          "newValue": 23
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-19T21:29:37.78Z",
+          "newValue": "2025-11-19T21:30:10.833Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-19T21:30:10.833Z",
+          "newValue": "9999-01-01T00:00:00Z"
+        },
+        "System.State": {
+          "oldValue": "Enviado para Usuário",
+          "newValue": "Closed"
+        },
+        "System.Reason": {
+          "oldValue": "Moved out of state Em Andamento",
+          "newValue": "Moved out of state Enviado para Usuário"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-19T21:29:37.78Z",
+          "newValue": "2025-11-19T21:30:10.833Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Ana Maria Lopes Moreira",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+              }
+            },
+            "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+            "uniqueName": "amlmoreira@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+            "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+          },
+          "newValue": {
+            "displayName": "AzDevOpsServ_PRD",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+              }
+            },
+            "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+            "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Ana Maria Lopes Moreira",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+              }
+            },
+            "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+            "uniqueName": "amlmoreira@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+            "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+          },
+          "newValue": {
+            "displayName": "AzDevOpsServ_PRD",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+              }
+            },
+            "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+            "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 250962303,
+          "newValue": 124304868
+        },
+        "System.Watermark": {
+          "oldValue": 9604626,
+          "newValue": 9604629
+        },
+        "System.BoardColumn": {
+          "oldValue": "Enviado para Usuário",
+          "newValue": "TIR em Produção"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "oldValue": "2025-11-19T18:28:20.223Z",
+          "newValue": "2025-11-19T21:30:10.833Z"
+        },
+        "Microsoft.VSTS.Common.ClosedDate": {
+          "newValue": "2025-11-19T21:30:10.833Z"
+        },
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "newValue": {
+            "displayName": "AzDevOpsServ_PRD",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+              }
+            },
+            "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+            "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          }
+        },
+        "TesteCase.StatusGeral.TIMDM": {
+          "oldValue": "Com Usuário",
+          "newValue": "Fech/Canc"
+        },
+        "TesteCase.DataRealizada.TIMDM": {
+          "oldValue": "2025-11-19T21:27:32.823Z",
+          "newValue": "2025-11-19T21:30:10.833Z"
+        },
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": {
+          "oldValue": "Enviado para Usuário",
+          "newValue": "TIR em Produção"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262/updates/24"
+    }
+  ]
+}

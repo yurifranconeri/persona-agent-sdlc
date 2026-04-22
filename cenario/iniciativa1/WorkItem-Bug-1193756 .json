@@ -1,0 +1,200 @@
+{
+  "id": 1193756,
+  "rev": 34,
+  "fields": {
+    "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+    "System.TeamProject": "Projeto_Service_Creation",
+    "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+    "System.WorkItemType": "Bug",
+    "System.State": "Closed",
+    "System.Reason": "Moved out of state Em IT/UAT",
+    "System.CreatedDate": "2025-11-18T14:00:40.893Z",
+    "System.CreatedBy": {
+      "displayName": "Anderson Teixeira Abrantes",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        }
+      },
+      "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+      "uniqueName": "aabrantes_atos@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+      "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+    },
+    "System.ChangedDate": "2026-02-10T13:33:07.6Z",
+    "System.ChangedBy": {
+      "displayName": "Marcio Evaristo Souza",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/3a97e2ec-1666-638f-b8cf-625139a98cff",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.M2E5N2UyZWMtMTY2Ni03MzhmLWI4Y2YtNjI1MTM5YTk4Y2Zm"
+        }
+      },
+      "id": "3a97e2ec-1666-638f-b8cf-625139a98cff",
+      "uniqueName": "T3755016@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.M2E5N2UyZWMtMTY2Ni03MzhmLWI4Y2YtNjI1MTM5YTk4Y2Zm",
+      "descriptor": "aad.M2E5N2UyZWMtMTY2Ni03MzhmLWI4Y2YtNjI1MTM5YTk4Y2Zm"
+    },
+    "System.CommentCount": 2,
+    "System.Title": "[Criação do Botão - inFlight] - Erro na página principal do inFlight",
+    "Microsoft.VSTS.Common.StateChangeDate": "2025-11-19T18:27:41.513Z",
+    "Microsoft.VSTS.Common.ActivatedDate": "2025-11-18T14:02:08.35Z",
+    "Microsoft.VSTS.Common.ActivatedBy": {
+      "displayName": "Anderson Teixeira Abrantes",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        }
+      },
+      "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+      "uniqueName": "aabrantes_atos@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+      "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+    },
+    "Microsoft.VSTS.Common.ResolvedDate": "2025-11-19T18:25:50.73Z",
+    "Microsoft.VSTS.Common.ResolvedBy": {
+      "displayName": "Marcio Evaristo Souza",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/3a97e2ec-1666-638f-b8cf-625139a98cff",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.M2E5N2UyZWMtMTY2Ni03MzhmLWI4Y2YtNjI1MTM5YTk4Y2Zm"
+        }
+      },
+      "id": "3a97e2ec-1666-638f-b8cf-625139a98cff",
+      "uniqueName": "T3755016@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.M2E5N2UyZWMtMTY2Ni03MzhmLWI4Y2YtNjI1MTM5YTk4Y2Zm",
+      "descriptor": "aad.M2E5N2UyZWMtMTY2Ni03MzhmLWI4Y2YtNjI1MTM5YTk4Y2Zm"
+    },
+    "Microsoft.VSTS.Common.ClosedDate": "2025-11-19T18:27:41.513Z",
+    "Microsoft.VSTS.Common.ClosedBy": {
+      "displayName": "Anderson Teixeira Abrantes",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        }
+      },
+      "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+      "uniqueName": "aabrantes_atos@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+      "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+    },
+    "Microsoft.VSTS.Common.Priority": 3,
+    "Microsoft.VSTS.Common.Severity": "4 - Low",
+    "Microsoft.VSTS.Common.ValueArea": "Business",
+    "CodigoDemanda.TIMDM": "251078031",
+    "CodigoFQA.TIMDM": "TR1164264",
+    "TestCaseLinkCount.TIMDM": 1,
+    "BugOrigenSDN.TIMDM": "FQA",
+    "BugProject.TIMDM": "CANAIS DIGITAIS",
+    "BugSubProject.TIMDM": "APP Meu TIM",
+    "BugOrigin.TIMDM": "IT FQA",
+    "BugEnviroment.TIMDM": "IT / UAT",
+    "BugTipoDeErro.TIMDM": "Codificação - System Test",
+    "BugSubmitter.TIMDM": {
+      "displayName": "Anderson Teixeira Abrantes",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        }
+      },
+      "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+      "uniqueName": "aabrantes_atos@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+      "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+    },
+    "BugOwnerCCC.TIMDM": {
+      "displayName": "Paulo Ricardo Castellanos Souza",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        }
+      },
+      "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+      "uniqueName": "pcsouza@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+      "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+    },
+    "BugCCCGroup.TIMDM": "WEB",
+    "BugVendor.TIMDM": "ENGINEERING",
+    "CausaRaiz.TIMDM": "AMBIENTE",
+    "EstimatedResolutionDate.TIMDM": "2025-11-19T18:25:00Z",
+    "TesteCase.Liberado.TIMDM": "Sim",
+    "StatusAuxiliar.TIMDM": "Fechado",
+    "ResponsavelDePara.TIMDM": "FECHADA",
+    "QtdMinPerdidosReteste.TIMDM": 120,
+    "SistemaAreaReteste.TIMDM": "VAS",
+    "QtdCenariosReteste.TIMDM": 1,
+    "CreatedByReteste.TIMDM": {
+      "displayName": "Anderson Teixeira Abrantes",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        }
+      },
+      "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+      "uniqueName": "aabrantes_atos@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+      "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+    },
+    "RetesteComputadoAuxiliar.TIMDM": "false",
+    "RejeiteComputadoAuxiliar.TIMDM": "false",
+    "AuxiliarDeParaBug.TIMDM": "FQA",
+    "FlagAnatel.TIMDM": false,
+    "TratarBackLog.TIMDM": "Não",
+    "MotivoReteste.TIMDM": "ENTREGA DE KIT",
+    "FlagWarRoomOCS.TIMDM": false,
+    "BugBusinessImpact.TIMDM": false,
+    "BugClientImpact.TIMDM": false,
+    "FollowUpBugsPRD.TIMDM": "Não",
+    "CausaRaizN2.TIMDM": "TESTES - FALHA OPERACIONAL NA REALIZAÇÃO DOS TESTES",
+    "Custom.VendorGroup": "Engineering - VAS",
+    "Custom.MotivoFechamento": "Corrigido",
+    "Custom.ErroValidacao": "false",
+    "Custom.VendorouVendorGroupInvalido": "Valido",
+    "Custom.KPIProdutividade": "FQA - Atos",
+    "Custom.ExpurgoVendorRating": "Não",
+    "System.History": "\u003Cdiv\u003E\u003Cspan style=\"font-size:15px;display:inline !important;\"\u003EVAS_IMPROCEDENTE\u003C/span\u003E\u003Cbr\u003E\u003C/div\u003E",
+    "Microsoft.VSTS.TCM.SystemInfo": "\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cdiv spellcheck=false style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;background-color:rgb(40, 40, 40);overflow:hidden;margin-bottom:0px;\"\u003E\u003Cdiv style=\"display:flex;box-sizing:border-box;min-width:0px;flex-direction:column !important;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:row !important;overflow:hidden;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex-direction:column;flex:0 0 720px;border-width:0px 0px 0px 1.11111px;border-left-style:solid;border-left-color:rgb(94, 94, 94);\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;\"\u003E\u003Cdiv style=\"display:flex;box-sizing:border-box;min-width:0px;flex-direction:column !important;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;overflow:hidden;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex-direction:column;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex-direction:column !important;flex:1 1 auto;\"\u003E\u003Cdiv tabindex=-1 style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;overflow:auto;flex:1 1 auto;display:flex;flex-direction:column;\"\u003E\u003Cdiv tabindex=-1 style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;overflow:auto;background-color:rgb(40, 40, 40);\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;overflow:hidden;z-index:0;background-color:rgb(40, 40, 40);\"\u003E\u003Cdiv style=\"display:flex;box-sizing:border-box;min-width:0px;flex-direction:column !important;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:row !important;overflow:hidden;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex-direction:column;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;\"\u003E\u003Cdiv style=\"display:flex;box-sizing:border-box;min-width:0px;flex-direction:column !important;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:row !important;overflow:hidden;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex-direction:column;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;display:flex;flex-direction:column !important;flex:1 1 auto;\"\u003E\u003Cdiv tabindex=-1 style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;overflow:auto;flex:1 1 auto;display:flex;flex-direction:column;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;\"\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E\u003Cspan\u003EURL da solicitação\u003Cbr\u003E\u003C/span\u003E\u003Cdiv\u003Ehttps://oamqa.internal.timbrasil.com.br/ms_oauth/oauth2/ui/oauthcaptiveflyservice/showconsent?response_type=code&amp;client_id=intelsat&amp;redirect_uri=https%3A%2f%2fwifi.gogoinflight.com&amp;scope=TIM.offline&amp;oracle_client_name=Intelsat\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EMétodo da solicitação\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EGET\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003ECódigo de status\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E302 Found\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EEndereço remoto\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E10.114.128.35:443\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EPolítica do referenciador\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Estrict-origin-when-cross-origin\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Econnection\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EKeep-Alive\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Econtent-length\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E1303\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Econtent-type\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Etext/html; charset=iso-8859-1\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Edate\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003ETue, 18 Nov 2025 13:50:27 GMT\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Ekeep-alive\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Etimeout=5, max=100\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Elocation\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Ehttps://oamqa.internal.timbrasil.com.br:443/oam/server/obrareq.cgi?encquery%3DKvYa9Kh5e7KDT3bp6Epsek0o6scMoIt2W3yNmCl3v8dcsTOwyP%2BnySsefHNlYfsEmhilHw3Yr%2fB79zmjIsjAXm28UvLINSY10jo80iqXziiqIpHCH9MAzCLD8Svh7Zy%2fIG0amg%2fB1JNnsq2Q9nAYPIrgpfcsrtp5NStx1w9nuzz930YFcRx1y43mVpCLoiB7zFh9KutLFlnk7c3qgS%2fEcMkMMf9LW0c%2BVqVcMjvmEYrbKlAm3YedEbHaRZ3utNz2jkTQN4OLLiHRGPE3jfXboTaryO5dvvRa%2BOR6WWXTXhTUvU%2fPzZrQdYtzfBNlJdNkMVSX16NrUkg83uFddBaO63eCxF8a6yrZvJm2yzLIKAc0p%2fdGFnPBO5IJ%2BsfMoodw9w%2BEDphQQ3kHDWNLnNVBbU%2BsU3rjt3tXopMrQvsr%2fRzUsEp9AOZWD2iuVnI4PXs4L3v3DPN%2BnVqa5CzTDor9VMbU7JYaQRK%2B2ks2agFLQ88cViWx3QtgRRbR79SMquZMJSk42mNlZdGHPJrSZSB6Iwl7MVgKiaP5MhmUUcQWc0e4MvLn4%2fwezkVf0LSD1DY%2Bda9VwZecGs7oSrIJMxMuhUXuq1bTduyJvhNeSS222%2BnDfAf2cYQB%2B3ryq49r3VlvsN4JhNuTbhcILGpn%2Bqv6gQ85zJEr12dhevdkZDf9zlksiql%2BOr28oe8qoQ%2BB0tbcjnN6GqKXMXJIHM8kZiIvcXnMl85rj4FA%2BSGARWvQxYmlusIJkVt%2fSiGoXLbRLJMnmlXWyvCg%2f%2Bod%2BAtuT8273fj2Xs8vJ9%2feLr2Ph5%2fcTmMwmBdCjmbsfnr9MVY2fE2c96tH4CxJnCjSaviKP7ek%2fabfTIzK6hRS7r7%2BAWp%2Bq8g%3D%20agentid%3DWebgateOAM%20ver%3D1%20crmethod%3D2%26cksum%3D30eac3fb2f2c241e62cb6633b1434828e213392f\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Eserver\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EApache\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Eset-cookie\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EOAMAuthnHintCookie=0@1763473827; httponly; secure; samesite=none; path=/; domain=.com.br\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Eset-cookie\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EOAMRequestContext_oamqa.internal.timbrasil.com.br:443_32334d=23MIjC368rDw7dnqNQ/LKQ==;max-age=300; httponly; secure; samesite=none; path=/\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Estrict-transport-security\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Emax-age=31536000; includeSubDomains\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Eaccept\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Etext/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Eaccept-encoding\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Egzip, deflate, br, zstd\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Eaccept-language\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Ept-BR,pt;q=0.9\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Econnection\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Ekeep-alive\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Ehost\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Eoamqa.internal.timbrasil.com.br\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Esec-ch-ua\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E&quot;Chromium&quot;;v=&quot;142&quot;, &quot;Google Chrome&quot;;v=&quot;142&quot;, &quot;Not_A Brand&quot;;v=&quot;99&quot;\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Esec-ch-ua-mobile\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E?1\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Esec-ch-ua-platform\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E&quot;Android&quot;\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Esec-fetch-dest\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Edocument\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Esec-fetch-mode\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Enavigate\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Esec-fetch-site\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Enone\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Esec-fetch-user\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E?1\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Eupgrade-insecure-requests\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E1\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Euser-agent\u003Cbr\u003E \u003C/div\u003E\u003Cspan\u003EMozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan\u003E\u003Cbr\u003E\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan\u003E\u003Cbr\u003E\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan\u003E------------------------------------------------------------------------------------------------------------------------------------------------------------------\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan\u003E\u003Cbr\u003E\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan\u003E\u003Cdiv spellcheck=false style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;background-color:rgb(40, 40, 40);overflow:hidden;margin-bottom:0px;\"\u003E\u003Cdiv style=\"display:flex;box-sizing:border-box;min-width:0px;flex-direction:column !important;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:row !important;overflow:hidden;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex-direction:column;flex:0 0 720px;border-width:0px 0px 0px 1.11111px;border-left-style:solid;border-left-color:rgb(94, 94, 94);\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;\"\u003E\u003Cdiv style=\"display:flex;box-sizing:border-box;min-width:0px;flex-direction:column !important;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;overflow:hidden;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex-direction:column;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex-direction:column !important;flex:1 1 auto;\"\u003E\u003Cdiv tabindex=-1 style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;overflow:auto;flex:1 1 auto;display:flex;flex-direction:column;\"\u003E\u003Cdiv tabindex=-1 style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;overflow:auto;background-color:rgb(40, 40, 40);\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;overflow:hidden;z-index:0;background-color:rgb(40, 40, 40);\"\u003E\u003Cdiv style=\"display:flex;box-sizing:border-box;min-width:0px;flex-direction:column !important;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:row !important;overflow:hidden;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex-direction:column;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;\"\u003E\u003Cdiv style=\"display:flex;box-sizing:border-box;min-width:0px;flex-direction:column !important;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:row !important;overflow:hidden;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex-direction:column;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;display:flex;flex-direction:column !important;flex:1 1 auto;\"\u003E\u003Cdiv tabindex=-1 style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;overflow:auto;flex:1 1 auto;display:flex;flex-direction:column;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;\"\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E\u003Cspan\u003EURL da solicitação\u003Cbr\u003E\u003C/span\u003E\u003Cdiv\u003Ehttps://oamqa.internal.timbrasil.com.br/oam/server/obrareq.cgi?encquery%3DKvYa9Kh5e7KDT3bp6Epsek0o6scMoIt2W3yNmCl3v8dcsTOwyP%2BnySsefHNlYfsEmhilHw3Yr%2fB79zmjIsjAXm28UvLINSY10jo80iqXziiqIpHCH9MAzCLD8Svh7Zy%2fIG0amg%2fB1JNnsq2Q9nAYPIrgpfcsrtp5NStx1w9nuzz930YFcRx1y43mVpCLoiB7zFh9KutLFlnk7c3qgS%2fEcMkMMf9LW0c%2BVqVcMjvmEYrbKlAm3YedEbHaRZ3utNz2jkTQN4OLLiHRGPE3jfXboTaryO5dvvRa%2BOR6WWXTXhTUvU%2fPzZrQdYtzfBNlJdNkMVSX16NrUkg83uFddBaO63eCxF8a6yrZvJm2yzLIKAc0p%2fdGFnPBO5IJ%2BsfMoodw9w%2BEDphQQ3kHDWNLnNVBbU%2BsU3rjt3tXopMrQvsr%2fRzUsEp9AOZWD2iuVnI4PXs4L3v3DPN%2BnVqa5CzTDor9VMbU7JYaQRK%2B2ks2agFLQ88cViWx3QtgRRbR79SMquZMJSk42mNlZdGHPJrSZSB6Iwl7MVgKiaP5MhmUUcQWc0e4MvLn4%2fwezkVf0LSD1DY%2Bda9VwZecGs7oSrIJMxMuhUXuq1bTduyJvhNeSS222%2BnDfAf2cYQB%2B3ryq49r3VlvsN4JhNuTbhcILGpn%2Bqv6gQ85zJEr12dhevdkZDf9zlksiql%2BOr28oe8qoQ%2BB0tbcjnN6GqKXMXJIHM8kZiIvcXnMl85rj4FA%2BSGARWvQxYmlusIJkVt%2fSiGoXLbRLJMnmlXWyvCg%2f%2Bod%2BAtuT8273fj2Xs8vJ9%2feLr2Ph5%2fcTmMwmBdCjmbsfnr9MVY2fE2c96tH4CxJnCjSaviKP7ek%2fabfTIzK6hRS7r7%2BAWp%2Bq8g%3D%20agentid%3DWebgateOAM%20ver%3D1%20crmethod%3D2%26cksum%3D30eac3fb2f2c241e62cb6633b1434828e213392f\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EMétodo da solicitação\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EGET\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003ECódigo de status\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\"color:rgb(200, 38, 19);\"\u003E\u003Cb\u003E302 Moved Temporarily\u003C/b\u003E\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EEndereço remoto\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E10.114.128.35:443\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EPolítica do referenciador\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Estrict-origin-when-cross-origin\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Econnection\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EKeep-Alive\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Econtent-type\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Etext/html;charset=UTF-8\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Edate\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003ETue, 18 Nov 2025 13:50:27 GMT\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Ekeep-alive\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Etimeout=5, max=99\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Elocation\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Ehttps://identitymanagerqa.internal.timbrasil.com.br/captiveflyoauth/login?bmctx=2D5390534DCB2BB911B965D2D60B231C944F4E3CC979AE9AA8388D14DCBBB826&amp;contextType=external&amp;username=string&amp;enablePersistentLogin=true&amp;password=secure_string&amp;challenge_url=https%3A%2f%2fidentitymanagerqa.internal.timbrasil.com.br%2fcaptiveflyoauth%2flogin&amp;request_id=-2190794599722848855&amp;authn_try_count=0&amp;locale=pt_BR&amp;resource_url=https%253A%252F%252Foamqa.internal.timbrasil.com.br%252Fms_oauth%252Foauth2%252Fui%252Foauthcaptiveflyservice%252Fshowconsent%253Fresponse_type%253Dcode%2526client_id%253Dintelsat%2526redirect_uri%253Dhttps%25253A%25252F%25252Fwifi.gogoinflight.com%2526scope%253DTIM.offline%2526oracle_client_name%253DIntelsat\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Eserver\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EApache\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Eset-cookie\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EOAM_REQ_0=VERSION_4~71A%2fHhQXoKuMsELIDWcBP4dq3OpWG9jT%2bjPR3rG3%2fkxz3xAAFk9EPMP7GzHaGUYYPGiXhKEKNU87w1yy1VjCBoznTH%2bqiMd7FVaHrlKruMVup%2bX0eZzqcCqrP8ZEkYEL8GR9zeS3j1Kz8eaQiAX%2f4S49QI20dRM8DvJNr7%2fXVeOluEuH2mOtm9Hy7u%2fGUIQQqxSln1o%2fKTjoynxZxVvwvvHlaBdRjry2XVWow%2fPo5lMwbfO0%2f%2fLgCruNNsdoYBTgQcrz2bdYQdjU2Rf5pdbMTF37JEjTY3Sf1GVxWRFBB%2f3C0GepMdMtScvh4lDFtQEdS8jrkPBJOZb7P7LHadnr30i6Q%2fy95dKh07qV%2bPzcMXbj6FcPouaqfSxOlOw5DvK5fP29QByUpC78MJufXIAS3XvL%2fNJdcXQGhWulDKka934j8%2fSQtPAIdahzktCULhYYg48PJz1JIPFLzGbW%2fGptBYZAuSMDhmZDR4qy8Xg0a6PxvbU291oT5GSH9a3x2EbTFMDR8ZMeeo4ll4CIIPiy85a87kzjrpJ7lmXRpa0bVOT8qxNqDNWUg1ArSQmevoMUp1pwj%2bc8oO6rcqeMzM%2fwcS9670k7ws2MJ6%2bJ84SwARpdm%2bPo%2flMdePkYfp6UU0QuZpsQxSl%2bzmflbcWjl%2bSpOxGy%2fkNTlbz1Vi%2bmaEh1MvrK3f2C0CTLTa9dL7Ptz70%2bg%2fgcc6KOcRHQyMY5tyofC7Ss%2fKCO%2fFK7Qfpr6ZQGmemsP8WYpEhMgFWJ4sXGoTM%2bOXMYUn9TN%2bhgI9KW67up8OAXWdQo0%2bTebUW9rtrjwCm1VNBah1THwc1QzNlt2KxjpziuL1MixRreDXFpoCI7MX7OPdg3KvHoYAV7kvJTdAodRKjKi4tuiH7y9qHvIgIV%2b6eEcJdY%2bE7fQs2K0%2bE4EOqvNSo%2blK8XB8CGvl2fptT29fL1uli7EJCbmIOTVB9XUukL6%2f7JXJPcwyiuAan8C1UZpofTCNUK4r90qhza1L79BUaNieeOf2CITSkzAAK8xCMYGUaa5IQDu%2bF8UN6yi6ESK35w7ihOdgB2IgdYQw1AmaEGhOpn39F6gMM7OwbBbMSalw%2fT6FwV9OrfjKAq9N%2b0%2fNLS5YEzrEAVxyYOykQ6mn0EUVEel8J1n7iMBh05Jb9fBqkLTwvE0Mu4YASQGp0TzN%2b1C%2bPHkW7pffE9iEKpRvKqyZ1b8eRfaz%2bq1QFh%2fPz3jK4BpHYj1qexuhTw7z5j0nS4nDREWjdiqS1BW5Q2KTcqtT2tcHWiJiCrVVUUch0%2boOkMoMRwOoNHMDadxe06W0HKDxdPMPCTW3OWc2lMxxFr8VG7SJN5cgYixYn3sukpGGNaVxXgPEI4wDHjYsoXExkQPQ%2bodCyT0B4k3GXCphFV27NZVkHdCC%2fxPo52LYgJ5GOt3VaeDxl%2fF%2f2fo4b1NiIzOWSZz9q4x1HJdv6BXDEtv4Sx4HnQDosBMjHifLyoPT%2bNGsEkJPEpsMHLUaDF3Vv1WmM929dxbbgMDrGoMohbgT%2btu8O%2fYZ%2bRArVvqF1oWR3c9eaEAJC0j%2b5yPFHNF0nwruuKIaOYRXOAd2SnWxL%2bguzoyvlwOGdJTxWexGotXFFI7TUimtQc%2bwNU2zVvLfnVU%2f0Z8OQXX%2byCa4%2fYF%2bx8aKOl27JTz0VlCb%2fdikxNrsNu6HBnXxDdhyKulDlu4bs2na8tzLhuBKqFGfxG3gSskmXS4LmUYJfuZC7jy36WPd2JAI%2fOlFhepUgj3IE7eAUi5uMje8jGkEB7nMHjcXwtOCqyBUShRRIBGPY1oViBkTGNA5Px%2fZH0booa8cFWkGBfKtD2EMuT7w%2b%2bXIEntWQhoc27lKBbxjXYAQ4YeEtQqFtiHRqI0PAqr9%2begJf3MAZ8pkGvh%2fXCqbl4ojwvTAwFgV2XVesRO25OZ38gA2tRMZSR9%2bAEG319y8hpaAiWG9YI%2fX0xNq7Q0BBSxgkLlmqsnTrhEiXgkUlu7OhvoGgawY8RA0ocMGQouTXrERx3s6mVt6pPts7DDY%2fs4UNloIDz4M4jrogHNAQ92tWIcC2SjSXn%2fB0H0K6YgYVCLgk4SbnXltJCQgl%2fZtf5zZNVbPoajAk1EOfIVQ9PvIJSjG32P3Hf0CsSN2vGWhVTOTG7RurAg2M3GsyLu0XItpGogVzbnvY9ZLzt5fkMl4Jre%2bvqf%2fBuiJSuyp0mM%2fd7xYff%2bGt4N7Bkf%2bqcfVAPmXgMoySUKRYKBYsfA8%2becPXlxYmUUMh3H1GQ2AsAMijdVNRu%2fEzddLOCSBk9PhB5qTn0PfqoKqQ0v1H%2fdloFCUt5ffAfFG57fKaiUqSPRHS7lqgJNEpu%2bWvFVdRB1pBLJdUZpEy5bi6qAOWo%2bDzbrS1wYV1RYgcaApJKZBpU1ZU2CWH74stKnbXVmcKBr%2f9MsaLKFbOopkTxfbqLNusk60%2fMkPVmanPWxsv%2f%2fqd2d%2befQ5qiqx9wNpswigQ7P6afj%2fhb2Qm%2fP9VDcOD89rnJXSNvWNXSiHA%2bvi6vuQB%2fK%2ft7yrCgBsWVO05sMUrM4Uoz1vKBDRP4ViZc1%2bcm4HrusP3vKjJibYlXccP%2fdC8kBQTEf%2fnkQk4HjsxIzE4Ehir3mE8kEF7sWAe0ayeqvkDe6cBc04lvqWcikTsR%2fxzN9KAJ9D4IxcR8GpO1S4a8whEie7pqIbnyLuYdb%2bQL6V62rXlAIjbr%2b9utAOA9JA814uK2uw7UWpy%2f%2bdSOkQ%2bsRjASYq9hVdaql2ej6PTr17wAaR2lT4YQE1AWSC%2f9s1DhKXHhZFX10MfJ7e3n5IuHq0W0I6ADUBzsFEC4yoW8fzdfM9m66LTJkGyWbqYk%2bUlMFktFpIIs2rlSuKKo7M71%2feRUK%2bl2i%2fYnRb43SXFXZtqXO3%2bBYombfiGQ65Y53vLuGvyT9a6ZPf3ioNjD%2fnAWdkcbYKyqTPsCyHU8Y%2biQW9hAMKPQ6GVnOHfm1haIPTQmSMnKMyDCwmIDAYTh2C7ZH9wIB0dC4%2b2geCbAsyBkV19xsQK3lfThpfEAJupz2nW%2bIzSLayTqKNNXbcN8s5%2f4c6tSswAb5EHKclcdoCMBf6c%2fptVk6%2bLo9mIMVaV1vni%2bhVwjecXgbAuj%2bza3KFKg3irprNY%2b3h47rmSFC7UojKFIE3%2b0vDbnGVQysxhjwYs1gFROysuj2nRN%2bQZiq7Y3EVtPgSwqeQlbCD%2be8iDiMDqLla0l31NqgD3W8XcMFtukMdKmuF2xnSHerCWG6cSNoBsMu%2fTh%2f82J%2fxBfOKjuPfH8ghs2nXDAb569Ar%2fjhLeJDooQ9uI4xY0u%2fJzlhoP6F41y%2b8EQtnuEt%2fS%2fewo7kTvQBat5t98pDxC%2bH8lGf814Y604ct12hEChIftn%2fJBnkHJgdCTC8274AO5V5BMKyudjciKN; path=/; secure; SameSite=None; HttpOnly\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Eset-cookie\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EOAM_REQ_COUNT=VERSION_4~1; path=/; secure; SameSite=None; HttpOnly\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Estrict-transport-security\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Emax-age=31536000; includeSubDomains\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Etransfer-encoding\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Echunked\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Ex-oracle-dms-ecid\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E433199f4eda95d0b:5224a477:19a5ed36f18:-8000-0000000000248fc1\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Eaccept\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Etext/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Eaccept-encoding\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Egzip, deflate, br, zstd\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Eaccept-language\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Ept-BR,pt;q=0.9\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Econnection\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Ekeep-alive\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Ecookie\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EOAMRequestContext_oamqa.internal.timbrasil.com.br:443_32334d=23MIjC368rDw7dnqNQ/LKQ==\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Ehost\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Eoamqa.internal.timbrasil.com.br\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Esec-ch-ua\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E&quot;Chromium&quot;;v=&quot;142&quot;, &quot;Google Chrome&quot;;v=&quot;142&quot;, &quot;Not_A Brand&quot;;v=&quot;99&quot;\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Esec-ch-ua-mobile\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E?1\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Esec-ch-ua-platform\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E&quot;Android&quot;\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Esec-fetch-dest\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Edocument\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Esec-fetch-mode\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Enavigate\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Esec-fetch-site\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Enone\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Esec-fetch-user\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E?1\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Eupgrade-insecure-requests\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E1\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003Euser-agent\u003Cbr\u003E \u003C/div\u003E\u003Cspan\u003EMozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36\u003C/span\u003E\u003Cbr\u003E\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cdiv spellcheck=false style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;background-color:rgb(40, 40, 40);overflow:hidden;margin-bottom:0px;\"\u003E\u003Cdiv style=\"display:flex;box-sizing:border-box;min-width:0px;flex-direction:column !important;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:row !important;overflow:hidden;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex-direction:column;flex:0 0 720px;border-width:0px 0px 0px 1.11111px;border-left-style:solid;border-left-color:rgb(94, 94, 94);\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;\"\u003E\u003Cdiv style=\"display:flex;box-sizing:border-box;min-width:0px;flex-direction:column !important;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;overflow:hidden;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex-direction:column;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex-direction:column !important;flex:1 1 auto;\"\u003E\u003Cdiv tabindex=-1 style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;overflow:auto;flex:1 1 auto;display:flex;flex-direction:column;\"\u003E\u003Cdiv tabindex=-1 style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;overflow:auto;background-color:rgb(40, 40, 40);\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;overflow:hidden;z-index:0;background-color:rgb(40, 40, 40);\"\u003E\u003Cdiv style=\"display:flex;box-sizing:border-box;min-width:0px;flex-direction:column !important;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:row !important;overflow:hidden;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex-direction:column;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;\"\u003E\u003Cdiv style=\"display:flex;box-sizing:border-box;min-width:0px;flex-direction:column !important;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:row !important;overflow:hidden;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex-direction:column;flex:1 1 auto;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;display:flex;flex-direction:column !important;flex:1 1 auto;\"\u003E\u003Cdiv tabindex=-1 style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;overflow:auto;flex:1 1 auto;display:flex;flex-direction:column;\"\u003E\u003Cdiv style=\"box-sizing:border-box;min-width:0px;flex:1 1 auto;display:flex;flex-direction:column !important;\"\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E \u003C/div\u003E\u003Cbr\u003E \u003C/div\u003E",
+    "Microsoft.VSTS.TCM.ReproSteps": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003EAo acessar a página do&nbsp;inFlight, ela apresenta erro abaixo: \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cimg src=\"https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/attachments/cebe4927-a693-4191-8cac-3c09c31d8579?fileName=image.png\" alt=Image style=\"box-sizing:border-box;max-width:100%;align-self:center;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003EO erro ocorre nos navegadores: Edge, Chrome e Firefox. \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003EEm modo normal e em modo Anônimo. \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003ELog e Vídeo da operação em anexo. \u003C/div\u003E\u003Cbr\u003E \u003C/div\u003E"
+  },
+  "multilineFieldsFormat": {
+    "System.History": "html",
+    "Microsoft.VSTS.TCM.SystemInfo": "html",
+    "Microsoft.VSTS.TCM.ReproSteps": "html"
+  },
+  "commentVersionRef": {
+    "commentId": 17321260,
+    "version": 1,
+    "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1193756/comments/17321260/versions/1"
+  },
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1193756"
+    },
+    "workItemUpdates": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1193756/updates"
+    },
+    "workItemRevisions": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1193756/revisions"
+    },
+    "workItemComments": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1193756/comments"
+    },
+    "html": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_workitems/edit/1193756"
+    },
+    "workItemType": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItemTypes/Bug"
+    },
+    "fields": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/fields"
+    }
+  },
+  "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1193756"
+}

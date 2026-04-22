@@ -1,0 +1,79 @@
+﻿{
+  "properties": {
+    "connectionReferences": {
+      "shared_visualstudioteamservices": {
+        "runtimeSource": "embedded",
+        "connection": {
+          "name": "a68b400fbef4420aa71de1da58ee2175",
+          "connectionReferenceLogicalName": "pa_sarah.shared_visualstudioteamservices.a68b400fbef4420aa71de1da58ee2175"
+        },
+        "api": {
+          "name": "shared_visualstudioteamservices"
+        }
+      },
+      "shared_microsoftcopilotstudio": {
+        "runtimeSource": "embedded",
+        "connection": {
+          "name": "shared-microsoftcopi-f267964f-a5a2-4a03-a961-c53c39ce8bd8",
+          "connectionReferenceLogicalName": "new_sharedmicrosoftcopilotstudio_23acc"
+        },
+        "api": {
+          "name": "shared_microsoftcopilotstudio"
+        }
+      }
+    },
+    "definition": {
+      "$schema": "https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#",
+      "contentVersion": "1.0.0.0",
+      "parameters": {
+        "$authentication": {
+          "defaultValue": {},
+          "type": "SecureObject"
+        },
+        "$connections": {
+          "defaultValue": {},
+          "type": "Object"
+        }
+      },
+      "triggers": {
+        "When_a_work_item_is_updated": {
+          "recurrence": {
+            "interval": 1,
+            "frequency": "Minute"
+          },
+          "splitOn": "@triggerOutputs()?[\u0027body/value\u0027]",
+          "type": "OpenApiConnection",
+          "inputs": {
+            "parameters": {
+              "account": "CopilotStudioTests",
+              "project": "PersonaAgents"
+            },
+            "host": {
+              "apiId": "/providers/Microsoft.PowerApps/apis/shared_visualstudioteamservices",
+              "operationId": "OnWorkItemUpdatedV2",
+              "connectionName": "shared_visualstudioteamservices"
+            }
+          }
+        }
+      },
+      "actions": {
+        "Sends_a_prompt_to_the_specified_copilot_for_processing": {
+          "runAfter": {},
+          "type": "OpenApiConnection",
+          "inputs": {
+            "parameters": {
+              "Copilot": "pa_sarah",
+              "body/message": "Esse work item foi atualizado devo analisar o Work Item e seus coment\u00E1tios existentes, analise se foi voc\u00EA quem atualizou, comentou e comente novamente somente se necess\u00E1rio @{triggerBody()}"
+            },
+            "host": {
+              "apiId": "/providers/Microsoft.PowerApps/apis/shared_microsoftcopilotstudio",
+              "operationId": "ExecuteCopilot",
+              "connectionName": "shared_microsoftcopilotstudio"
+            }
+          }
+        }
+      }
+    }
+  },
+  "schemaVersion": "1.0.0.0"
+}

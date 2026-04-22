@@ -1,0 +1,22 @@
+mcs.metadata:
+  componentName: AzDo WI Full
+  description: |-
+    Keywords - Work items, Bugs, Tasks, Epic, User Story, Tickets, Backlog, Issue, ADO, Azure DevOps
+
+    This connection to Azure DevOps Work items contains tickets to track software development and business projects. It is used by engineering and product teams to track day to day work, run scrums and track progress on initiatives.
+
+
+    Sample prompts -
+
+    List the work items about project timpocs
+    Fetch all tasks assigned to me due this week
+kind: KnowledgeSourceConfiguration
+source:
+  kind: GraphConnectorSearchSource
+  connectionId:
+    schemaName: pa_sarah.envVar.Hapi2YlGwZ06TTewlfRzd
+
+  connectionName: AzureDevOps2
+  contentSourceDisplayName: AzDo WI Full
+  contentSourceIcon: https://res.sdf.cdn.office.net/admincenter/admin-content/AzureDevOps_Medium.png
+  publisherName: Microsoft

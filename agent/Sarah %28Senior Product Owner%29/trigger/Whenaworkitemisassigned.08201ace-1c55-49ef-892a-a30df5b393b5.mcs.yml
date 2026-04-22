@@ -1,0 +1,12 @@
+mcs.metadata:
+  componentName: When a work item is assigned
+  description: "Trigger your agent with certain message upon event: When a work item is assigned."
+kind: ExternalTriggerConfiguration
+externalTriggerSource:
+  kind: WorkflowExternalTrigger
+  flowId: 14f2a4e5-1634-f111-88b5-000d3a344218
+
+extensionData:
+  flowName: 97106d12-3c36-1caf-2c51-cb7cd23c296f
+  flowUrl: /providers/Microsoft.ProcessSimple/environments/Default-8693e7df-24d2-4905-9f9e-8e0b01d9d8ff/flows/97106d12-3c36-1caf-2c51-cb7cd23c296f
+  triggerConnectionType: Azure DevOps

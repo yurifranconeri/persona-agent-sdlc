@@ -1,0 +1,336 @@
+{
+  "id": 1078031,
+  "rev": 43,
+  "fields": {
+    "System.Id": 1078031,
+    "System.AreaId": 15876,
+    "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+    "System.TeamProject": "Portfolio Tim TI",
+    "System.NodeName": "Marketing Consumer e SMB",
+    "System.AreaLevel1": "Portfolio Tim TI",
+    "System.AreaLevel2": "Portfolio Tim 2025",
+    "System.AreaLevel3": "CRO",
+    "System.AreaLevel4": "Marketing Consumer e SMB",
+    "System.Rev": 43,
+    "System.AuthorizedDate": "2025-12-04T01:07:59.023Z",
+    "System.RevisedDate": "9999-01-01T00:00:00Z",
+    "System.IterationId": 16862,
+    "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+    "System.IterationLevel1": "Portfolio Tim TI",
+    "System.IterationLevel2": "Portfolio Tim",
+    "System.IterationLevel3": "2025",
+    "System.IterationLevel4": "Q3",
+    "System.WorkItemType": "Epic",
+    "System.State": "Resolved",
+    "System.Reason": "Moved out of state Em Desenvolvimento",
+    "System.AssignedTo": {
+      "displayName": "Ana Maria Lopes Moreira",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        }
+      },
+      "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "uniqueName": "amlmoreira@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+      "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+    },
+    "System.CreatedDate": "2025-08-05T16:13:30.163Z",
+    "System.CreatedBy": {
+      "displayName": "Danielle Da Fonseca Aguiar",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/b6dce009-805a-6602-aa34-1504b6cc18b3",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjZkY2UwMDktODA1YS03NjAyLWFhMzQtMTUwNGI2Y2MxOGIz"
+        }
+      },
+      "id": "b6dce009-805a-6602-aa34-1504b6cc18b3",
+      "uniqueName": "dfaguiar@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjZkY2UwMDktODA1YS03NjAyLWFhMzQtMTUwNGI2Y2MxOGIz",
+      "descriptor": "aad.YjZkY2UwMDktODA1YS03NjAyLWFhMzQtMTUwNGI2Y2MxOGIz"
+    },
+    "System.ChangedDate": "2025-12-04T01:07:59.023Z",
+    "System.ChangedBy": {
+      "displayName": "Paulo Ricardo Castellanos Souza",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        }
+      },
+      "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+      "uniqueName": "pcsouza@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+      "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+    },
+    "System.AuthorizedAs": {
+      "displayName": "Paulo Ricardo Castellanos Souza",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        }
+      },
+      "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+      "uniqueName": "pcsouza@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+      "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+    },
+    "System.PersonId": 123661921,
+    "System.Watermark": 9691415,
+    "System.CommentCount": 11,
+    "System.Title": "251078031 - Melhorias Resgate Senha inFlight",
+    "System.BoardColumn": "Resolved",
+    "System.BoardColumnDone": false,
+    "Microsoft.VSTS.Common.StateChangeDate": "2025-12-04T01:07:59.023Z",
+    "Microsoft.VSTS.Common.ActivatedDate": "2025-10-27T10:37:22.49Z",
+    "Microsoft.VSTS.Common.ActivatedBy": {
+      "displayName": "Paulo Ricardo Castellanos Souza",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        }
+      },
+      "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+      "uniqueName": "pcsouza@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+      "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+    },
+    "Microsoft.VSTS.Common.ResolvedDate": "2025-12-04T01:07:59.023Z",
+    "Microsoft.VSTS.Common.ResolvedBy": {
+      "displayName": "Paulo Ricardo Castellanos Souza",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        }
+      },
+      "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+      "uniqueName": "pcsouza@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+      "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+    },
+    "Microsoft.VSTS.Common.Priority": 2,
+    "Microsoft.VSTS.Common.StackRank": 499497016,
+    "Microsoft.VSTS.Common.ValueArea": "Business",
+    "Microsoft.VSTS.Scheduling.TargetDate": "2025-12-02T03:00:00Z",
+    "Microsoft.VSTS.Scheduling.StartDate": "2025-10-30T03:00:00Z",
+    "Microsoft.VSTS.Scheduling.FinishDate": "2025-12-02T03:00:00Z",
+    "CodigoDemanda.TIMDM": "251078031",
+    "TIM20.TFS.Sistemas": "OAM",
+    "Custom.NomeSolicitante": {
+      "displayName": "Danielle Da Fonseca Aguiar",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/b6dce009-805a-6602-aa34-1504b6cc18b3",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjZkY2UwMDktODA1YS03NjAyLWFhMzQtMTUwNGI2Y2MxOGIz"
+        }
+      },
+      "id": "b6dce009-805a-6602-aa34-1504b6cc18b3",
+      "uniqueName": "dfaguiar@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjZkY2UwMDktODA1YS03NjAyLWFhMzQtMTUwNGI2Y2MxOGIz",
+      "descriptor": "aad.YjZkY2UwMDktODA1YS03NjAyLWFhMzQtMTUwNGI2Y2MxOGIz"
+    },
+    "Custom.NomeAprovador1": {
+      "displayName": "PAULO HENRIQUE FERREIRA COSTA",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/4c02ac26-64ac-6a76-84a5-a002181da521",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NGMwMmFjMjYtNjRhYy03YTc2LTg0YTUtYTAwMjE4MWRhNTIx"
+        }
+      },
+      "id": "4c02ac26-64ac-6a76-84a5-a002181da521",
+      "uniqueName": "pfcosta@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NGMwMmFjMjYtNjRhYy03YTc2LTg0YTUtYTAwMjE4MWRhNTIx",
+      "descriptor": "aad.NGMwMmFjMjYtNjRhYy03YTc2LTg0YTUtYTAwMjE4MWRhNTIx"
+    },
+    "Custom.EstadoAprovacao1": "Aprovado",
+    "Custom.NomeAprovador4": {
+      "displayName": "Ana Maria Lopes Moreira",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        }
+      },
+      "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "uniqueName": "amlmoreira@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+      "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+    },
+    "Custom.EstadoAprovacao4": "Aprovado",
+    "Custom.ModeloGestao": "Waterfall",
+    "Custom.LiderTecnicoResponsavel": {
+      "displayName": "Paulo Ricardo Castellanos Souza",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        }
+      },
+      "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+      "uniqueName": "pcsouza@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+      "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+    },
+    "Custom.Macro_Valoracao": 14000,
+    "Custom.ClassificacaoIniciativa": "Wishlist",
+    "Custom.StatusIniciativa": "Não iniciado",
+    "Custom.DiretoriaN2": "Marketing Consumer e SMB",
+    "Custom.BriefingNecessario": false,
+    "Custom.DiretoriaTIN2": "IT Service Creation Solutions",
+    "Custom.DiretoriaTIN3": "Services e Offers Portfolio Delivery",
+    "WEF_D6D9F91403E1432F842AA09D630BFEFF_System.ExtensionMarker": true,
+    "WEF_D6D9F91403E1432F842AA09D630BFEFF_Kanban.Column": "Resolved",
+    "WEF_D6D9F91403E1432F842AA09D630BFEFF_Kanban.Column.Done": false,
+    "WEF_D6D9F91403E1432F842AA09D630BFEFF_Kanban.Lane": "Outros (ajustar mapeamento)",
+    "WEF_470311787DC74BB5955D7133F1706C9A_System.ExtensionMarker": true,
+    "WEF_470311787DC74BB5955D7133F1706C9A_Kanban.Column": "Resolved",
+    "WEF_470311787DC74BB5955D7133F1706C9A_Kanban.Column.Done": false,
+    "WEF_470311787DC74BB5955D7133F1706C9A_Kanban.Lane": "Marketing Consumer & SMB",
+    "Custom.ImpactoArquitetura": false,
+    "Custom.DataAprovacaoNegDev": "2025-10-17T13:20:00Z",
+    "Custom.QuestionarioSecutiry1": "Sim",
+    "WEF_F9BB761AD351483A86D6A26C99F47EAD_System.ExtensionMarker": false,
+    "WEF_F9BB761AD351483A86D6A26C99F47EAD_Kanban.Column": "New",
+    "WEF_F9BB761AD351483A86D6A26C99F47EAD_Kanban.Column.Done": false,
+    "Custom.DataAprovacaoGerLidTec": "2025-10-08T13:27:00Z",
+    "Custom.QuestionarioSecutiry2": "Não",
+    "Custom.QuestionarioSecutiry3": "Não",
+    "Custom.ValorEpic": 13790.89,
+    "Custom.TipoEpic": "Funcional",
+    "WEF_633BE54A6711499FB85A45E52A58F4C3_System.ExtensionMarker": true,
+    "WEF_633BE54A6711499FB85A45E52A58F4C3_Kanban.Column": "Resolved",
+    "WEF_633BE54A6711499FB85A45E52A58F4C3_Kanban.Column.Done": false,
+    "Custom.TipologiadaNecessidade": "Demandas Técnicas",
+    "Custom.FlagBloqueio": false,
+    "Custom.CustoAfundado": false,
+    "System.Description": "\u003Cdiv\u003E\u003Cb\u003ECenário Atual:\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan\u003EAtualmente os clientes TIM não conseguem resetar a senha diretamente pela página da companhia aérea, pois é exibido uma mensagem orientativa para realizar um passo a passo através do MEU TIM, Desta forma, a jornada inicial é interrompida p/ o cliente iniciar uma nova jornada através do MeuTIM, resultando em uma experiência ruim p/ o cliente.\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan\u003E\u003Cb\u003ECenário Desejado:\u003C/b\u003E\u003Cbr\u003E\u003C/span\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EDesejamos alterar a atual mensagem e direcionar o cliente para a página de reset de senha, sem precisar acessar o APP Meu TIM (à exemplo da Jornada informada nesse briefing - não é jornada definitiva). \u003Cu\u003E\u003Cb\u003EPrecisamos que TI defina a melhor solução.\u003C/b\u003E\u003C/u\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cspan\u003E\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb style=\"box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;\"\u003EFeature 1 - Alteração da Fraseologia e Criação do Botão&nbsp;\u003C/b\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb style=\"box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;\"\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\"box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;\"\u003E\u003Cb\u003ECenário atual: \u003C/b\u003Ea parte de “Esqueci minha senha” está apenas orientativo.\u003Cbr\u003E\u003Cdiv\u003E\u003Cspan style=\"font-weight:bold;\"\u003ECenário desejado: \u003C/span\u003EQue seja inserido um \u003Cb\u003Ebotão que leve para a página de reset de senha da TIM (Webview)\u003C/b\u003E \u003C/div\u003E\u003Cb\u003E\u003Cspan\u003E\u003C/span\u003E\u003C/b\u003E\u003Cbr\u003E\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb style=\"box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;\"\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb style=\"box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;\"\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb style=\"box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;\"\u003E\u003Cimg src=\"https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/attachments/563d291a-5871-47d5-83f0-8dc0e0e7db9d?fileName=%7bE3213CC4-16A4-4247-ABCB-25AC79F077C5%7d.png\" alt=Image style=\"width:1132px;\" width=1132 height=402\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb style=\"box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;\"\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb style=\"box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;\"\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb style=\"box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;\"\u003E\u003Cb style=\"box-sizing:border-box;\"\u003EFeature 2 - Integração\u003C/b\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb style=\"box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;\"\u003E\u003Cb style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E\u003C/b\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\"box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;\"\u003E\u003Cspan style=\"box-sizing:border-box;\"\u003EPrecisamos que a página de de reset de senha seja integrada ao sistema da Intelsat, e que seja possível trafegar e resetar a senha através da Webview.\u003Cbr\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003EAbaixo segue a URL utilizada pelo APP Beta para Reset de senha, porém, \u003Cb\u003E\u003Cu\u003ETI precisa nos informar qual será o melhor caminho\u003C/u\u003E\u003C/b\u003E.:&nbsp;&nbsp; \u003C/div\u003E\u003Cdiv\u003Ehttps://auth3.tim.com.br/webapp-resetSenha/forgotPassword?layout=meutimapp&amp;loginType=USER&amp;channel=4&amp;msisdn=\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EDD\u003C/span\u003E%”\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EMSISDN\u003C/span\u003E” \u003C/div\u003E\u003Cb\u003E\u003Cspan\u003E\u003C/span\u003E\u003C/b\u003E\u003Cbr\u003E\u003C/span\u003E\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb style=\"box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;\"\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb style=\"box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;\"\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb style=\"box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;\"\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E",
+    "Custom.SumarioExecutivo": "\u003Cdiv\u003E\u003Cspan style=\"display:inline !important;\"\u003EDirecionar o cliente para a página de reset de senha, sem precisar acessar o APP Meu TIM (à exemplo da Jornada informada nesse briefing - não é jornada definitiva)\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E",
+    "System.Parent": 1085522
+  },
+  "multilineFieldsFormat": {
+    "System.Description": "html",
+    "Custom.SumarioExecutivo": "html"
+  },
+  "relations": [
+    {
+      "rel": "System.LinkTypes.Related",
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156",
+      "attributes": {
+        "isLocked": false,
+        "comment": "Fernanda Soares Marelli Leite mentioned work item #1078031 in #1117156",
+        "name": "Related"
+      }
+    },
+    {
+      "rel": "System.LinkTypes.Hierarchy-Forward",
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113128",
+      "attributes": {
+        "isLocked": false,
+        "name": "Child"
+      }
+    },
+    {
+      "rel": "System.LinkTypes.Hierarchy-Reverse",
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1085522",
+      "attributes": {
+        "isLocked": false,
+        "name": "Parent"
+      }
+    },
+    {
+      "rel": "System.LinkTypes.Related",
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117168",
+      "attributes": {
+        "isLocked": false,
+        "comment": "Fernanda Soares Marelli Leite mentioned work item #1078031 in #1117168",
+        "name": "Related"
+      }
+    },
+    {
+      "rel": "System.LinkTypes.Related",
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264",
+      "attributes": {
+        "isLocked": false,
+        "name": "Related"
+      }
+    },
+    {
+      "rel": "System.LinkTypes.Hierarchy-Forward",
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113105",
+      "attributes": {
+        "isLocked": false,
+        "name": "Child"
+      }
+    },
+    {
+      "rel": "System.LinkTypes.Hierarchy-Forward",
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113005",
+      "attributes": {
+        "isLocked": false,
+        "name": "Child"
+      }
+    },
+    {
+      "rel": "System.LinkTypes.Hierarchy-Forward",
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1183520",
+      "attributes": {
+        "isLocked": false,
+        "name": "Child"
+      }
+    },
+    {
+      "rel": "AttachedFile",
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/attachments/d3629e6b-ab0e-43e2-8ce5-7dd3aa0edbcf",
+      "attributes": {
+        "authorizedDate": "2025-12-03T14:20:51.247Z",
+        "id": 28958880,
+        "resourceCreatedDate": "2025-12-03T14:20:49.763Z",
+        "resourceModifiedDate": "2025-12-03T14:20:49.763Z",
+        "revisedDate": "9999-01-01T00:00:00Z",
+        "resourceSize": 1018368,
+        "name": "RE_ DM 251078031 – Melhorias Resgate Senha inFlight - Cronograma.msg"
+      }
+    },
+    {
+      "rel": "AttachedFile",
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/attachments/bfb7c4d5-6a03-47fe-bcab-bacd26267b10",
+      "attributes": {
+        "authorizedDate": "2025-10-17T13:28:22.04Z",
+        "id": 28251334,
+        "resourceCreatedDate": "2025-10-17T13:28:18.85Z",
+        "resourceModifiedDate": "2025-10-17T13:28:18.85Z",
+        "revisedDate": "9999-01-01T00:00:00Z",
+        "resourceSize": 226816,
+        "name": "RES_ IT Business Agility - Epic 1078031_ 251078031 - Melhorias Resgate Senha inFlight - Aprovação de Negócio para Desenvolvimento.msg"
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1078031"
+    },
+    "workItemUpdates": {
+      "href": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1078031/updates"
+    },
+    "workItemRevisions": {
+      "href": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1078031/revisions"
+    },
+    "workItemComments": {
+      "href": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1078031/comments"
+    },
+    "html": {
+      "href": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_workitems/edit/1078031"
+    },
+    "workItemType": {
+      "href": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItemTypes/Epic"
+    },
+    "fields": {
+      "href": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/fields"
+    }
+  },
+  "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1078031"
+}

@@ -1,0 +1,22 @@
+mcs.metadata:
+  componentName: Contingência
+  description: Este tópico de sistema é acionado quando a expressão do utilizador não encontra correspondência com nenhum tópico existente.
+kind: AdaptiveDialog
+beginDialog:
+  kind: OnUnknownIntent
+  id: main
+  actions:
+    - kind: ConditionGroup
+      id: conditionGroup_LktzXw
+      conditions:
+        - id: conditionItem_tlGIVo
+          condition: =System.FallbackCount < 3
+          actions:
+            - kind: SendActivity
+              id: sendMessage_QZreqo
+              activity: Desculpe, não sei como ajudar com isso. Pode tentar reformular?
+
+      elseActions:
+        - kind: BeginDialog
+          id: 5aXj5M
+          dialog: pa_sarah.topic.Escalate

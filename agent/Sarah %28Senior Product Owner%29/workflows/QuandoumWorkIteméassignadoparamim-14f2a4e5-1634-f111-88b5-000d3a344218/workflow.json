@@ -1,0 +1,81 @@
+﻿{
+  "properties": {
+    "connectionReferences": {
+      "shared_visualstudioteamservices": {
+        "runtimeSource": "embedded",
+        "connection": {
+          "name": "a68b400fbef4420aa71de1da58ee2175",
+          "connectionReferenceLogicalName": "pa_sarah.shared_visualstudioteamservices.a68b400fbef4420aa71de1da58ee2175"
+        },
+        "api": {
+          "name": "shared_visualstudioteamservices"
+        }
+      },
+      "shared_microsoftcopilotstudio": {
+        "runtimeSource": "embedded",
+        "connection": {
+          "name": "shared-microsoftcopi-f267964f-a5a2-4a03-a961-c53c39ce8bd8",
+          "connectionReferenceLogicalName": "new_sharedmicrosoftcopilotstudio_23acc"
+        },
+        "api": {
+          "name": "shared_microsoftcopilotstudio"
+        }
+      }
+    },
+    "definition": {
+      "$schema": "https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#",
+      "contentVersion": "1.0.0.0",
+      "parameters": {
+        "$authentication": {
+          "defaultValue": {},
+          "type": "SecureObject"
+        },
+        "$connections": {
+          "defaultValue": {},
+          "type": "Object"
+        }
+      },
+      "triggers": {
+        "When_a_work_item_is_assigned": {
+          "recurrence": {
+            "interval": 1,
+            "frequency": "Minute"
+          },
+          "splitOn": "@triggerOutputs()?[\u0027body/value\u0027]",
+          "type": "OpenApiConnection",
+          "inputs": {
+            "parameters": {
+              "account": "CopilotStudioTests",
+              "project": "PersonaAgents",
+              "team": "PersonaAgents Team",
+              "wiql__System_AssignedTo": "AlexW@M365x29712447.OnMicrosoft.com"
+            },
+            "host": {
+              "apiId": "/providers/Microsoft.PowerApps/apis/shared_visualstudioteamservices",
+              "operationId": "OnWorkItemAssignedV2",
+              "connectionName": "shared_visualstudioteamservices"
+            }
+          }
+        }
+      },
+      "actions": {
+        "Sends_a_prompt_to_the_specified_copilot_for_processing": {
+          "runAfter": {},
+          "type": "OpenApiConnection",
+          "inputs": {
+            "parameters": {
+              "Copilot": "pa_sarah",
+              "body/message": "Esse work item foi assignado para mim, devo avaliar, editar, comentar com base no @{triggerBody()} e depois pedir para quebrar as Features"
+            },
+            "host": {
+              "apiId": "/providers/Microsoft.PowerApps/apis/shared_microsoftcopilotstudio",
+              "operationId": "ExecuteCopilot",
+              "connectionName": "shared_microsoftcopilotstudio"
+            }
+          }
+        }
+      }
+    }
+  },
+  "schemaVersion": "1.0.0.0"
+}

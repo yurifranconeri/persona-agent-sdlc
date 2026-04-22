@@ -1,0 +1,73 @@
+{
+  "id": 12,
+  "rev": 1,
+  "fields": {
+    "System.AreaPath": "PersonaAgents",
+    "System.TeamProject": "PersonaAgents",
+    "System.IterationPath": "PersonaAgents",
+    "System.WorkItemType": "User Story",
+    "System.State": "New",
+    "System.Reason": "New",
+    "System.CreatedDate": "2026-04-22T14:53:50.52Z",
+    "System.CreatedBy": {
+      "displayName": "Alex Wilber",
+      "url": "https://spsprodsbr2.vssps.visualstudio.com/A15dff1ec-8d0a-4622-a696-45514319fea2/_apis/Identities/ab931f59-3259-6171-b986-8ce49cd80148",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+        }
+      },
+      "id": "ab931f59-3259-6171-b986-8ce49cd80148",
+      "uniqueName": "AlexW@M365x29712447.OnMicrosoft.com",
+      "imageUrl": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4",
+      "descriptor": "aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+    },
+    "System.ChangedDate": "2026-04-22T14:53:50.52Z",
+    "System.ChangedBy": {
+      "displayName": "Alex Wilber",
+      "url": "https://spsprodsbr2.vssps.visualstudio.com/A15dff1ec-8d0a-4622-a696-45514319fea2/_apis/Identities/ab931f59-3259-6171-b986-8ce49cd80148",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+        }
+      },
+      "id": "ab931f59-3259-6171-b986-8ce49cd80148",
+      "uniqueName": "AlexW@M365x29712447.OnMicrosoft.com",
+      "imageUrl": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4",
+      "descriptor": "aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+    },
+    "System.CommentCount": 0,
+    "System.Title": "RF003 – Retornar para a Aplicação Inflight Após Reset de Senha",
+    "Microsoft.VSTS.Common.StateChangeDate": "2026-04-22T14:53:50.52Z",
+    "Microsoft.VSTS.Common.Priority": 2,
+    "Microsoft.VSTS.Common.ValueArea": "Business",
+    "System.Description": "## User Story\n\n**Como** cliente TIM que acabou de realizar o reset de senha na jornada Inflight,\n**Quero** poder retornar à aplicação Inflight após o envio da nova senha,\n**Para que** eu consiga prosseguir com a autenticação e utilizar o serviço de internet no avião.\n\n## Detalhamento (RF003)\n\nApós o envio da senha por SMS, o botão &quot;Voltar para o aplicativo&quot; deverá retornar o utilizador para a aplicação Inflight que chamou a execução de reset de senha.\n\n### Comportamento Esperado\n1. Após a conclusão do reset de senha, é exibido o botão &quot;Voltar para o aplicativo&quot;\n2. Ao clicar, o utilizador é redirecionado de volta à página principal do fluxo de autenticação Inflight\n3. O utilizador pode então autenticar-se com a nova senha\n\n### Integração Técnica\n- A URI de redirect deve retornar o utilizador ao contexto IntelSat\n- URL de referência OAM: `https://oamqa.internal.timbrasil.com.br:443/ms_oauth/oauth2/ui/oauthcaptiveflyservice/showconsent?response_type=code&amp;client_id=intelsat&amp;redirect_uri=https%3A%2f%2fwifi.gogoinflight.com&amp;scope=TIM.offline&amp;oracle_client_name=Intelsat`\n\n## Critérios de Aceitação\n1. Após envio do SMS de reset, o botão &quot;Voltar para o aplicativo&quot; deve estar visível\n2. O clique no botão deve retornar o utilizador à página principal de autenticação Inflight\n3. O utilizador deve conseguir autenticar-se com a nova senha recebida por SMS\n\n## Parent Feature\nFeature #9 – Integração Reset de Senha na Jornada Inflight IntelSat"
+  },
+  "multilineFieldsFormat": {
+    "System.Description": "html"
+  },
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/12"
+    },
+    "workItemUpdates": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/12/updates"
+    },
+    "workItemRevisions": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/12/revisions"
+    },
+    "workItemComments": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/12/comments"
+    },
+    "html": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_workitems/edit/12"
+    },
+    "workItemType": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItemTypes/User%20Story"
+    },
+    "fields": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/fields"
+    }
+  },
+  "url": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/12"
+}

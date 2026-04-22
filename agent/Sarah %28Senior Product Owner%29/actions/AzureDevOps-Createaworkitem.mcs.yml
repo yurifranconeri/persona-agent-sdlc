@@ -1,0 +1,676 @@
+mcs.metadata:
+  componentName: Azure DevOps - Create a work item
+kind: TaskDialog
+inputs:
+  - kind: ManualTaskInput
+    propertyName: account
+    value: CopilotStudioTests
+
+  - kind: ManualTaskInput
+    propertyName: project
+    value: PersonaAgents
+
+  - kind: AutomaticTaskInput
+    propertyName: type
+
+  - kind: AutomaticTaskInput
+    propertyName: description
+    description: Descrição formatada em Markdown com quebra de linha e legível
+
+modelDisplayName: Criar um Work Item
+modelDescription: Criar um Work Item
+outputs:
+  - propertyName: fields
+    name: fields
+
+  - propertyName: id
+    name: Id
+    description: The unique id of the work item.
+
+  - propertyName: rev
+    name: Revision Count
+    description: The revision count of the work item.
+
+  - propertyName: url
+    name: URL
+    description: The URL of the work item.
+
+action:
+  kind: InvokeConnectorTaskAction
+  connectionReference: pa_sarah.shared_visualstudioteamservices.a68b400fbef4420aa71de1da58ee2175
+  connectionProperties:
+    mode: Maker
+
+  operationId: CreateWorkItem
+  dynamicInputSchema:
+    properties:
+      account:
+        displayName: Organization Name
+        description: The name of the Organization. This can be found in the instance URL i.e. {Organization}.visualstudio.com. The Organization should have "Third-party application access via OAuth" enabled to prevent errors in the operation.
+        isRequired: true
+        order: 0
+        dynamicValuesConfig:
+          capability: List
+
+        type: String
+
+      area:
+        displayName: Area Path
+        description: The area path of the work item.
+        visibility: Advanced
+        order: 8
+        type: String
+
+      description:
+        displayName: Description
+        description: The description of the work item.
+        order: 5
+        type: String
+
+      dynamicFields:
+        displayName: Work Item Details
+        description: Information to include in the new work item
+        order: 12
+        type:
+          kind: Record
+          properties:
+            Microsoft.VSTS.Build.IntegrationBuild:
+              displayName: Integration Build
+              description: The build in which the bug was fixed
+              visibility: Advanced
+              order: 29
+              type: String
+
+            Microsoft.VSTS.Common.ActivatedBy:
+              displayName: Activated By
+              visibility: Advanced
+              order: 0
+              type: String
+
+            Microsoft.VSTS.Common.ActivatedDate:
+              displayName: Activated Date
+              visibility: Advanced
+              order: 1
+              type: DateTime
+
+            Microsoft.VSTS.Common.BusinessValue:
+              displayName: Business Value
+              description: The business value for the customer when the epic is released
+              visibility: Advanced
+              order: 16
+              type: Number
+
+            Microsoft.VSTS.Common.ClosedBy:
+              displayName: Closed By
+              visibility: Advanced
+              order: 19
+              type: String
+
+            Microsoft.VSTS.Common.ClosedDate:
+              displayName: Closed Date
+              visibility: Advanced
+              order: 20
+              type: DateTime
+
+            Microsoft.VSTS.Common.ResolvedBy:
+              displayName: Resolved By
+              visibility: Advanced
+              order: 42
+              type: String
+
+            Microsoft.VSTS.Common.ResolvedDate:
+              displayName: Resolved Date
+              visibility: Advanced
+              order: 43
+              type: DateTime
+
+            Microsoft.VSTS.Common.ResolvedReason:
+              displayName: Resolved Reason
+              description: The reason why the bug was resolved
+              visibility: Advanced
+              order: 44
+              type: String
+
+            Microsoft.VSTS.Common.Risk:
+              displayName: Risk
+              description: Uncertainty in epic
+              visibility: Advanced
+              order: 47
+              type: String
+
+            Microsoft.VSTS.Common.StackRank:
+              displayName: Stack Rank
+              description: Work first on items with lower-valued stack rank. Set in triage.
+              visibility: Advanced
+              order: 48
+              type: Number
+
+            Microsoft.VSTS.Common.StateChangeDate:
+              displayName: State Change Date
+              visibility: Advanced
+              order: 51
+              type: DateTime
+
+            Microsoft.VSTS.Common.TimeCriticality:
+              displayName: Time Criticality
+              description: How does the business value decay over time. Higher values make the epic more time critical
+              visibility: Advanced
+              order: 55
+              type: Number
+
+            Microsoft.VSTS.Common.ValueArea:
+              displayName: Value Area
+              description: The type should be set to Business primarily to represent customer-facing issues. Work to change the architecture should be added as a User Story
+              visibility: Advanced
+              order: 56
+              type: String
+
+            Microsoft.VSTS.Scheduling.Effort:
+              displayName: Effort
+              description: The estimated effort to implemented the epic
+              visibility: Advanced
+              order: 24
+              type: Number
+
+            Microsoft.VSTS.Scheduling.StartDate:
+              displayName: Start Date
+              description: The date to start the task
+              visibility: Advanced
+              order: 49
+              type: DateTime
+
+            Microsoft.VSTS.Scheduling.TargetDate:
+              displayName: Target Date
+              description: The target date for completing the epic
+              visibility: Advanced
+              order: 53
+              type: DateTime
+
+            System.AreaLevel1:
+              displayName: Area Level 1
+              visibility: Advanced
+              order: 2
+              type: String
+
+            System.AreaLevel2:
+              displayName: Area Level 2
+              visibility: Advanced
+              order: 3
+              type: String
+
+            System.AreaLevel3:
+              displayName: Area Level 3
+              visibility: Advanced
+              order: 4
+              type: String
+
+            System.AreaLevel4:
+              displayName: Area Level 4
+              visibility: Advanced
+              order: 5
+              type: String
+
+            System.AreaLevel5:
+              displayName: Area Level 5
+              visibility: Advanced
+              order: 6
+              type: String
+
+            System.AreaLevel6:
+              displayName: Area Level 6
+              visibility: Advanced
+              order: 7
+              type: String
+
+            System.AreaLevel7:
+              displayName: Area Level 7
+              visibility: Advanced
+              order: 8
+              type: String
+
+            System.AssignedTo:
+              displayName: Assigned To
+              description: The name and email address of the person currently working on this work item.
+              visibility: Advanced
+              order: 9
+              type: String
+
+            System.AttachedFileCount:
+              displayName: Attached File Count
+              visibility: Advanced
+              order: 10
+              type: Number
+
+            System.AuthorizedAs:
+              displayName: Authorized As
+              visibility: Advanced
+              order: 11
+              type: String
+
+            System.AuthorizedDate:
+              displayName: Authorized Date
+              visibility: Advanced
+              order: 12
+              type: DateTime
+
+            System.BoardColumn:
+              displayName: Board Column
+              visibility: Advanced
+              order: 13
+              type: String
+
+            System.BoardColumnDone:
+              displayName: Board Column Done
+              visibility: Advanced
+              order: 14
+              type: Boolean
+
+            System.BoardLane:
+              displayName: Board Lane
+              visibility: Advanced
+              order: 15
+              type: String
+
+            System.ChangedBy:
+              displayName: Changed By
+              visibility: Advanced
+              order: 17
+              type: String
+
+            System.ChangedDate:
+              displayName: Changed Date
+              visibility: Advanced
+              order: 18
+              type: DateTime
+
+            System.CommentCount:
+              displayName: Comment Count
+              visibility: Advanced
+              order: 21
+              type: Number
+
+            System.CreatedBy:
+              displayName: Created By
+              visibility: Advanced
+              order: 22
+              type: String
+
+            System.CreatedDate:
+              displayName: Created Date
+              order: 23
+              type: DateTime
+
+            System.ExternalLinkCount:
+              displayName: External Link Count
+              visibility: Advanced
+              order: 25
+              type: Number
+
+            System.History:
+              displayName: History
+              description: Discussion thread plus automatic record of changes
+              visibility: Advanced
+              order: 26
+              type: String
+
+            System.HyperLinkCount:
+              displayName: Hyperlink Count
+              visibility: Advanced
+              order: 27
+              type: Number
+
+            System.Id:
+              displayName: ID
+              order: 28
+              type: Number
+
+            System.IterationLevel1:
+              displayName: Iteration Level 1
+              visibility: Advanced
+              order: 30
+              type: String
+
+            System.IterationLevel2:
+              displayName: Iteration Level 2
+              visibility: Advanced
+              order: 31
+              type: String
+
+            System.IterationLevel3:
+              displayName: Iteration Level 3
+              visibility: Advanced
+              order: 32
+              type: String
+
+            System.IterationLevel4:
+              displayName: Iteration Level 4
+              visibility: Advanced
+              order: 33
+              type: String
+
+            System.IterationLevel5:
+              displayName: Iteration Level 5
+              visibility: Advanced
+              order: 34
+              type: String
+
+            System.IterationLevel6:
+              displayName: Iteration Level 6
+              visibility: Advanced
+              order: 35
+              type: String
+
+            System.IterationLevel7:
+              displayName: Iteration Level 7
+              visibility: Advanced
+              order: 36
+              type: String
+
+            System.NodeName:
+              displayName: Node Name
+              visibility: Advanced
+              order: 37
+              type: String
+
+            System.Parent:
+              displayName: Parent
+              visibility: Advanced
+              order: 38
+              type: Number
+
+            System.Reason:
+              displayName: Reason
+              description: The reason why the bug is in the current state
+              visibility: Advanced
+              order: 39
+              type: String
+
+            System.RelatedLinkCount:
+              displayName: Related Link Count
+              visibility: Advanced
+              order: 40
+              type: Number
+
+            System.RemoteLinkCount:
+              displayName: Remote Link Count
+              visibility: Advanced
+              order: 41
+              type: Number
+
+            System.Rev:
+              displayName: Rev
+              visibility: Advanced
+              order: 45
+              type: Number
+
+            System.RevisedDate:
+              displayName: Revised Date
+              visibility: Advanced
+              order: 46
+              type: DateTime
+
+            System.State:
+              displayName: State
+              description: New = for triage; Active = not yet fixed; Resolved = fixed not yet verified; Closed = fix verified.
+              visibility: Advanced
+              order: 50
+              type: String
+
+            System.Tags:
+              displayName: Tags
+              description: Enter the tags separated by ';'.
+              visibility: Advanced
+              order: 52
+              type: String
+
+            System.TeamProject:
+              displayName: Team Project
+              visibility: Advanced
+              order: 54
+              type: String
+
+            System.Watermark:
+              displayName: Watermark
+              visibility: Advanced
+              order: 57
+              type: Number
+
+            System.WorkItemType:
+              displayName: Work Item Type
+              visibility: Advanced
+              order: 58
+              type: String
+
+      iteration:
+        displayName: Iteration Path
+        description: The iteration path of the work item.
+        visibility: Advanced
+        order: 7
+        type: String
+
+      linkComment:
+        displayName: Link Comment
+        description: The comment for the link.
+        visibility: Advanced
+        order: 11
+        type: String
+
+      linkType:
+        displayName: Link Type
+        description: The type of the link to between the work items.
+        visibility: Advanced
+        order: 10
+        enumValues:
+          - Dependency-forward
+          - Dependency-reverse
+          - Hierarchy-forward
+          - Hierarchy-reverse
+          - Related
+        type: String
+
+      linkUrl:
+        displayName: Link URL
+        description: The URL of the work item to link with this one.
+        visibility: Advanced
+        order: 9
+        type: String
+
+      priority:
+        displayName: Priority
+        description: The priority of the work item.
+        visibility: Advanced
+        order: 6
+        type: Number
+
+      project:
+        displayName: Project Name
+        description: The name of the project within the specified Organization.
+        isRequired: true
+        order: 1
+        dynamicValuesConfig:
+          capability: List
+
+        type: String
+
+      shouldReturnAllFields:
+        displayName: Return all fields
+        description: When setting the value to 'No', only the work item ID will be returned. If the value is 'Yes', all fields of the created Item along with the ID will be returned. The default value is 'Yes'
+        visibility: Advanced
+        order: 4
+        type: Boolean
+
+      title:
+        displayName: Title
+        description: The title of the work item.
+        isRequired: true
+        order: 3
+        type: String
+
+      type:
+        displayName: Work Item Type
+        description: Type of this work item
+        isRequired: true
+        order: 2
+        dynamicValuesConfig:
+          capability: List
+
+        type: String
+
+      userEnteredFields:
+        displayName: Other Fields
+        description: Other work item fields, including custom fields. 'Key' is field name and 'Value' is field value.
+        visibility: Advanced
+        order: 13
+        type: Any
+
+  dynamicOutputSchema:
+    kind: Record
+    properties:
+      fields:
+        order: 3
+        type:
+          kind: Record
+          properties:
+            Microsoft_VSTS_Common_Priority:
+              displayName: Priority
+              description: The priority of the work item.
+              visibility: Advanced
+              order: 12
+              type: Number
+
+            Microsoft_VSTS_Common_Severity:
+              displayName: Severity
+              description: The severity of the work item.
+              visibility: Advanced
+              order: 13
+              type: String
+
+            Microsoft_VSTS_Common_StateChangeDate:
+              displayName: State Changed Date
+              description: The datetime the work item state was changed.
+              visibility: Advanced
+              order: 11
+              type: String
+
+            Microsoft_VSTS_Common_ValueArea:
+              displayName: Value Area
+              description: The value area of the work item.
+              visibility: Advanced
+              order: 14
+              type: String
+
+            System_AreaPath:
+              displayName: Area Path
+              description: The area path of the work item.
+              visibility: Advanced
+              order: 0
+              type: String
+
+            System_ChangedBy:
+              displayName: Changed By
+              description: The name of the team member who changed the work item.
+              visibility: Advanced
+              order: 9
+              type: String
+
+            System_ChangedDate:
+              displayName: Changed Date
+              description: The datetime the work item was changed.
+              visibility: Advanced
+              order: 8
+              type: String
+
+            System_CreatedBy:
+              displayName: Created By
+              description: The name of the team member who created the work item.
+              visibility: Advanced
+              order: 7
+              type: String
+
+            System_CreatedDate:
+              displayName: Created Date
+              description: The datetime the work item was created.
+              visibility: Advanced
+              order: 6
+              type: String
+
+            System_Description:
+              displayName: Description
+              description: The description of the work item.
+              order: 15
+              type: String
+
+            System_IterationPath:
+              displayName: Iteration Path
+              description: The iteration path of the work item.
+              visibility: Advanced
+              order: 2
+              type: String
+
+            System_Reason:
+              displayName: Reason
+              description: The reason entered for the work item.
+              visibility: Advanced
+              order: 5
+              type: String
+
+            System_State:
+              displayName: State
+              description: The state of the work item.
+              visibility: Advanced
+              order: 4
+              type: String
+
+            System_Tags:
+              displayName: Tags
+              description: The tags of the work item.
+              order: 16
+              type: String
+
+            System_TeamProject:
+              displayName: Team Project
+              description: The team project to which the work item belongs.
+              visibility: Advanced
+              order: 1
+              type: String
+
+            System_Title:
+              displayName: Title
+              description: The title of the work item.
+              order: 10
+              type: String
+
+            System_WorkItemType:
+              displayName: Work Item Type
+              description: The type of the work item.
+              order: 3
+              type: String
+
+            Vsts_WorkItemUrl:
+              displayName: URL
+              description: The URL of the work item.
+              visibility: Advanced
+              order: 17
+              type: String
+
+      id:
+        displayName: Id
+        description: The unique id of the work item.
+        order: 0
+        type: Number
+
+      rev:
+        displayName: Revision Count
+        description: The revision count of the work item.
+        visibility: Advanced
+        order: 1
+        type: Number
+
+      url:
+        displayName: URL
+        description: The URL of the work item.
+        visibility: Advanced
+        order: 2
+        type: String
+
+outputMode: All

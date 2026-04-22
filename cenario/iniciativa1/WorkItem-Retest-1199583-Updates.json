@@ -1,0 +1,250 @@
+{
+  "count": 2,
+  "value": [
+    {
+      "id": 1,
+      "workItemId": 1199583,
+      "rev": 1,
+      "revisedBy": {
+        "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+        "name": "AzDevOpsServ_PRD \u003CAzDevOpsServ_PRD_usr@timbrasil.com.br\u003E",
+        "displayName": "AzDevOpsServ_PRD",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          }
+        },
+        "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+        "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+      },
+      "revisedDate": "9999-01-01T00:00:00Z",
+      "fields": {
+        "System.Id": {
+          "newValue": 1199583
+        },
+        "System.AreaId": {
+          "newValue": 15073
+        },
+        "System.AreaPath": {
+          "newValue": "Projeto_Service_Creation\\Waterfall"
+        },
+        "System.TeamProject": {
+          "newValue": "Projeto_Service_Creation"
+        },
+        "System.NodeName": {
+          "newValue": "Waterfall"
+        },
+        "System.AreaLevel1": {
+          "newValue": "Projeto_Service_Creation"
+        },
+        "System.AreaLevel2": {
+          "newValue": "Waterfall"
+        },
+        "System.Rev": {
+          "newValue": 1
+        },
+        "System.AuthorizedDate": {
+          "newValue": "2025-11-24T13:14:48.63Z"
+        },
+        "System.RevisedDate": {
+          "newValue": "9999-01-01T00:00:00Z"
+        },
+        "System.IterationId": {
+          "newValue": 15074
+        },
+        "System.IterationPath": {
+          "newValue": "Projeto_Service_Creation\\Waterfall"
+        },
+        "System.IterationLevel1": {
+          "newValue": "Projeto_Service_Creation"
+        },
+        "System.IterationLevel2": {
+          "newValue": "Waterfall"
+        },
+        "System.WorkItemType": {
+          "newValue": "Reteste"
+        },
+        "System.State": {
+          "newValue": "Válido"
+        },
+        "System.Reason": {
+          "newValue": "Moved to state Válido"
+        },
+        "System.AssignedTo": {
+
+        },
+        "System.CreatedDate": {
+          "newValue": "2025-11-24T13:14:48.63Z"
+        },
+        "System.CreatedBy": {
+          "newValue": {
+            "displayName": "AzDevOpsServ_PRD",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+              }
+            },
+            "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+            "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          }
+        },
+        "System.ChangedDate": {
+          "newValue": "2025-11-24T13:14:48.63Z"
+        },
+        "System.ChangedBy": {
+          "newValue": {
+            "displayName": "AzDevOpsServ_PRD",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+              }
+            },
+            "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+            "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          }
+        },
+        "System.AuthorizedAs": {
+          "newValue": {
+            "displayName": "AzDevOpsServ_PRD",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+              }
+            },
+            "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+            "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          }
+        },
+        "System.PersonId": {
+          "newValue": 124304868
+        },
+        "System.Watermark": {
+          "newValue": 9614595
+        },
+        "System.IsDeleted": {
+          "newValue": false
+        },
+        "System.CommentCount": {
+          "newValue": 0
+        },
+        "System.Title": {
+          "newValue": "Reteste do Bug #1184452"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "newValue": "2025-11-24T13:14:48.63Z"
+        },
+        "CodigoDemanda.TIMDM": {
+          "newValue": "251078031"
+        },
+        "CodigoFQA.TIMDM": {
+          "newValue": "TR1164264"
+        },
+        "BugProject.TIMDM": {
+          "newValue": "VAS"
+        },
+        "BugSubProject.TIMDM": {
+          "newValue": "VAS"
+        },
+        "BugEnviroment.TIMDM": {
+          "newValue": "IT / UAT"
+        },
+        "BugVendor.TIMDM": {
+          "newValue": "ENGINEERING"
+        },
+        "QtdMinPerdidosReteste.TIMDM": {
+          "newValue": 120
+        },
+        "SistemaAreaReteste.TIMDM": {
+          "newValue": "APP_MeuTim"
+        },
+        "QtdCenariosReteste.TIMDM": {
+          "newValue": 3
+        },
+        "CreatedByReteste.TIMDM": {
+          "newValue": {
+            "displayName": "Anderson Teixeira Abrantes",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+              }
+            },
+            "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+            "uniqueName": "aabrantes_atos@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+            "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+          }
+        },
+        "MotivoReteste.TIMDM": {
+          "newValue": "ENTREGA DE KIT"
+        },
+        "TipoReteste.TIMDM": {
+          "newValue": "Reteste OK"
+        },
+        "WorkItemOrigemReteste.TIMDM": {
+          "newValue": "Bug"
+        },
+        "IdOrigemReteste.TIMDM": {
+          "newValue": 1184452
+        },
+        "Custom.VendorGroup": {
+          "newValue": "Engineering - VAS"
+        },
+        "Custom.59bfa7e3-23eb-496f-9a9a-f4299caf5e79": {
+          "newValue": "2025-11-24T13:14:48.63Z"
+        },
+        "Custom.KPIProdutividade": {
+          "newValue": "FQA - Atos"
+        },
+        "System.Parent": {
+          "newValue": 1184452
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1199583/updates/1"
+    },
+    {
+      "id": 2,
+      "workItemId": 1199583,
+      "rev": 1,
+      "revisedBy": {
+        "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+        "name": "AzDevOpsServ_PRD \u003CAzDevOpsServ_PRD_usr@timbrasil.com.br\u003E",
+        "displayName": "AzDevOpsServ_PRD",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          }
+        },
+        "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+        "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+      },
+      "revisedDate": "2025-11-24T13:14:48.973Z",
+      "relations": {
+        "added": [
+          {
+            "rel": "System.LinkTypes.Hierarchy-Reverse",
+            "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1184452",
+            "attributes": {
+              "isLocked": false,
+              "name": "Parent"
+            }
+          }
+        ]
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1199583/updates/2"
+    }
+  ]
+}

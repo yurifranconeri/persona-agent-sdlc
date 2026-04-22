@@ -1,0 +1,12 @@
+mcs.metadata:
+  componentName: Quando um work item é atualizado
+  description: "Trigger your agent with certain message upon event: When a work item is updated."
+kind: ExternalTriggerConfiguration
+externalTriggerSource:
+  kind: WorkflowExternalTrigger
+  flowId: 270f08af-1634-f111-88b5-000d3a344218
+
+extensionData:
+  flowName: 558f2b67-4a09-1816-b357-2d3b78b1294f
+  flowUrl: /providers/Microsoft.ProcessSimple/environments/Default-8693e7df-24d2-4905-9f9e-8e0b01d9d8ff/flows/558f2b67-4a09-1816-b357-2d3b78b1294f
+  triggerConnectionType: Azure DevOps

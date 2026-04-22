@@ -1,0 +1,100 @@
+{
+  "id": 15,
+  "rev": 1,
+  "fields": {
+    "System.AreaPath": "PersonaAgents",
+    "System.TeamProject": "PersonaAgents",
+    "System.IterationPath": "PersonaAgents",
+    "System.WorkItemType": "Test Case",
+    "System.State": "Design",
+    "System.Reason": "New",
+    "System.AssignedTo": {
+      "displayName": "Alex Wilber",
+      "url": "https://spsprodsbr2.vssps.visualstudio.com/A15dff1ec-8d0a-4622-a696-45514319fea2/_apis/Identities/ab931f59-3259-6171-b986-8ce49cd80148",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+        }
+      },
+      "id": "ab931f59-3259-6171-b986-8ce49cd80148",
+      "uniqueName": "AlexW@M365x29712447.OnMicrosoft.com",
+      "imageUrl": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4",
+      "descriptor": "aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+    },
+    "System.CreatedDate": "2026-04-22T14:54:26.347Z",
+    "System.CreatedBy": {
+      "displayName": "Alex Wilber",
+      "url": "https://spsprodsbr2.vssps.visualstudio.com/A15dff1ec-8d0a-4622-a696-45514319fea2/_apis/Identities/ab931f59-3259-6171-b986-8ce49cd80148",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+        }
+      },
+      "id": "ab931f59-3259-6171-b986-8ce49cd80148",
+      "uniqueName": "AlexW@M365x29712447.OnMicrosoft.com",
+      "imageUrl": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4",
+      "descriptor": "aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+    },
+    "System.ChangedDate": "2026-04-22T14:54:26.347Z",
+    "System.ChangedBy": {
+      "displayName": "Alex Wilber",
+      "url": "https://spsprodsbr2.vssps.visualstudio.com/A15dff1ec-8d0a-4622-a696-45514319fea2/_apis/Identities/ab931f59-3259-6171-b986-8ce49cd80148",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+        }
+      },
+      "id": "ab931f59-3259-6171-b986-8ce49cd80148",
+      "uniqueName": "AlexW@M365x29712447.OnMicrosoft.com",
+      "imageUrl": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4",
+      "descriptor": "aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+    },
+    "System.CommentCount": 0,
+    "System.Title": "TC003 – Teste Fluxo de Autenticação Utilizador e Senha Inflight IntelSat",
+    "Microsoft.VSTS.Common.StateChangeDate": "2026-04-22T14:54:26.347Z",
+    "Microsoft.VSTS.Common.ActivatedDate": "2026-04-22T14:54:26.347Z",
+    "Microsoft.VSTS.Common.ActivatedBy": {
+      "displayName": "Alex Wilber",
+      "url": "https://spsprodsbr2.vssps.visualstudio.com/A15dff1ec-8d0a-4622-a696-45514319fea2/_apis/Identities/ab931f59-3259-6171-b986-8ce49cd80148",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+        }
+      },
+      "id": "ab931f59-3259-6171-b986-8ce49cd80148",
+      "uniqueName": "AlexW@M365x29712447.OnMicrosoft.com",
+      "imageUrl": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4",
+      "descriptor": "aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+    },
+    "Microsoft.VSTS.Common.Priority": 2,
+    "Microsoft.VSTS.TCM.AutomationStatus": "Not Automated",
+    "System.Description": "## Objetivo do Teste\n\nValidar o fluxo completo de autenticação com utilizador e senha na jornada Inflight IntelSat, após o reset de senha ter sido realizado com sucesso.\n\n## Ambiente de Teste (FQA)\n**URL**: `https://oamqa.internal.timbrasil.com.br:443/ms_oauth/oauth2/ui/oauthcaptiveflyservice/showconsent?response_type=code&amp;client_id=intelsat&amp;redirect_uri=https%3A%2f%2fwifi.gogoinflight.com&amp;scope=TIM.offline&amp;oracle_client_name=Intelsat`\n\n## Pré-condição\n- Utilizador já realizou o reset de senha e recebeu a nova senha por SMS\n\n## Passos do Teste\n1. Aceder à URL do ambiente FQA (chamada pelo Front End do projeto)\n2. Digitar o MSISDN do utilizador\n3. Digitar a respectiva senha (recebida por SMS)\n4. Submeter a autenticação\n5. Verificar que a autenticação é realizada com sucesso\n6. Verificar que o Access Code é retornado para a URI de redirect\n\n## Resultado Esperado\n- O utilizador é autenticado com sucesso\n- O Access Code é retornado para a URI de redirect informada (wifi.gogoinflight.com)\n- O Access Code será utilizado pelo parceiro IntelSat na troca do Token para utilização nos acessos às APIs\n\n## Referência\n- Caderno de Testes FQA – Cenário 3.3 (Fluxo de Autenticação Utilizador e Senha)\n- Validação IDM AUTH3 / OAM WEB\n\n## Parent Feature\nFeature #9 – Integração Reset de Senha na Jornada Inflight IntelSat"
+  },
+  "multilineFieldsFormat": {
+    "System.Description": "html"
+  },
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/15"
+    },
+    "workItemUpdates": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/15/updates"
+    },
+    "workItemRevisions": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/15/revisions"
+    },
+    "workItemComments": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/15/comments"
+    },
+    "html": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_workitems/edit/15"
+    },
+    "workItemType": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItemTypes/Test%20Case"
+    },
+    "fields": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/fields"
+    }
+  },
+  "url": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/15"
+}

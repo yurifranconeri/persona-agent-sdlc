@@ -1,0 +1,81 @@
+{
+  "count": 1,
+  "value": [
+    {
+      "id": 1196133,
+      "rev": 1,
+      "fields": {
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.WorkItemType": "Reteste",
+        "System.State": "Válido",
+        "System.Reason": "Moved to state Válido",
+        "System.CreatedDate": "2025-11-19T18:27:53.48Z",
+        "System.CreatedBy": {
+          "displayName": "AzDevOpsServ_PRD",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+            }
+          },
+          "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+          "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+          "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+        },
+        "System.ChangedDate": "2025-11-19T18:27:53.48Z",
+        "System.ChangedBy": {
+          "displayName": "AzDevOpsServ_PRD",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+            }
+          },
+          "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+          "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+          "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "Reteste do Bug #1193756",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-11-19T18:27:53.48Z",
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugProject.TIMDM": "CANAIS DIGITAIS",
+        "BugSubProject.TIMDM": "APP Meu TIM",
+        "BugEnviroment.TIMDM": "IT / UAT",
+        "BugVendor.TIMDM": "ENGINEERING",
+        "QtdMinPerdidosReteste.TIMDM": 120,
+        "SistemaAreaReteste.TIMDM": "VAS",
+        "QtdCenariosReteste.TIMDM": 1,
+        "CreatedByReteste.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "MotivoReteste.TIMDM": "ENTREGA DE KIT",
+        "TipoReteste.TIMDM": "Reteste OK",
+        "WorkItemOrigemReteste.TIMDM": "Bug",
+        "IdOrigemReteste.TIMDM": 1193756,
+        "Custom.VendorGroup": "Engineering - VAS",
+        "Custom.59bfa7e3-23eb-496f-9a9a-f4299caf5e79": "2025-11-19T18:27:53.483Z",
+        "Custom.KPIProdutividade": "FQA - Atos"
+      },
+      "multilineFieldsFormat": {
+
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1196133/revisions/1"
+    }
+  ]
+}

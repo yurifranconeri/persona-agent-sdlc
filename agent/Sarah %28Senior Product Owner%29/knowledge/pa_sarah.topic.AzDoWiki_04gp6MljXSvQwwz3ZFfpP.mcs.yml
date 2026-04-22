@@ -1,0 +1,22 @@
+mcs.metadata:
+  componentName: AzDoWiki
+  description: |-
+    Keywords - Wiki, Article, Documentation, Docs, Knowledge base, Azure DevOps, ADO
+
+    This connection to Azure DevOps contains wikis and documentations related to software development, engineering or support articles, product details or notes for meetings etc. These are reference guides used by teams.
+
+
+    Sample prompts -
+
+    Search for the wiki about Contoso
+    Find the documentation regarding project fabrikam
+kind: KnowledgeSourceConfiguration
+source:
+  kind: GraphConnectorSearchSource
+  connectionId:
+    schemaName: pa_sarah.envVar.FManJ1pi-zGkIPpP7p5Ez
+
+  connectionName: AzureDevOpsWiki1
+  contentSourceDisplayName: AzDoWiki
+  contentSourceIcon: https://res.sdf.cdn.office.net/admincenter/admin-content/AzureDevOps_Medium.png
+  publisherName: Microsoft

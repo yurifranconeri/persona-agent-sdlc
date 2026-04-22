@@ -1,0 +1,152 @@
+{
+  "id": 1113005,
+  "rev": 6,
+  "fields": {
+    "System.Id": 1113005,
+    "System.AreaId": 15073,
+    "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+    "System.TeamProject": "Projeto_Service_Creation",
+    "System.NodeName": "Waterfall",
+    "System.AreaLevel1": "Projeto_Service_Creation",
+    "System.AreaLevel2": "Waterfall",
+    "System.Rev": 6,
+    "System.AuthorizedDate": "2026-03-23T21:57:04.247Z",
+    "System.RevisedDate": "9999-01-01T00:00:00Z",
+    "System.IterationId": 15074,
+    "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+    "System.IterationLevel1": "Projeto_Service_Creation",
+    "System.IterationLevel2": "Waterfall",
+    "System.WorkItemType": "Feature",
+    "System.State": "New",
+    "System.Reason": "New",
+    "System.AssignedTo": {
+      "displayName": "Ana Maria Lopes Moreira",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        }
+      },
+      "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "uniqueName": "amlmoreira@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+      "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+    },
+    "System.CreatedDate": "2025-09-05T20:25:38.977Z",
+    "System.CreatedBy": {
+      "displayName": "Ana Maria Lopes Moreira",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        }
+      },
+      "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "uniqueName": "amlmoreira@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+      "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+    },
+    "System.ChangedDate": "2026-03-23T21:57:04.247Z",
+    "System.ChangedBy": {
+      "displayName": "Ana Maria Lopes Moreira",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        }
+      },
+      "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "uniqueName": "amlmoreira@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+      "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+    },
+    "System.AuthorizedAs": {
+      "displayName": "Ana Maria Lopes Moreira",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        }
+      },
+      "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "uniqueName": "amlmoreira@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+      "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+    },
+    "System.PersonId": 250962303,
+    "System.Watermark": 10391184,
+    "System.CommentCount": 0,
+    "System.Title": "Alteração da Fraseologia e Criação do Botão",
+    "System.BoardColumn": "New",
+    "System.BoardColumnDone": false,
+    "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T20:25:38.977Z",
+    "Microsoft.VSTS.Common.StackRank": 1999986786,
+    "Microsoft.VSTS.Common.ValueArea": "Business",
+    "CodigoDemanda.TIMDM": "251078031",
+    "Custom.INFORMATIVO": "https://dev.azure.com/timbrasil/Wiki%20Catalogo%20Interfaces%20e%20Sistemas/_wiki/wikis/Wiki-Catalogo-Interfaces-e-Sistemas.wiki/2268/EPIC ",
+    "WEF_4571FFBD67634147B081151003F23373_System.ExtensionMarker": true,
+    "WEF_4571FFBD67634147B081151003F23373_Kanban.Column": "New",
+    "WEF_4571FFBD67634147B081151003F23373_Kanban.Column.Done": false,
+    "Custom.TipoFeature": "Funcional",
+    "WEF_CD05847C690443888275C1D860331760_System.ExtensionMarker": false,
+    "WEF_CD05847C690443888275C1D860331760_Kanban.Column": "New",
+    "WEF_CD05847C690443888275C1D860331760_Kanban.Column.Done": false,
+    "WEF_A0C8F7A79DC64CB1AADDCE913B50C359_System.ExtensionMarker": false,
+    "WEF_A0C8F7A79DC64CB1AADDCE913B50C359_Kanban.Column": "New",
+    "WEF_A0C8F7A79DC64CB1AADDCE913B50C359_Kanban.Column.Done": false,
+    "System.Parent": 1078031
+  },
+  "multilineFieldsFormat": {
+
+  },
+  "relations": [
+    {
+      "rel": "System.LinkTypes.Hierarchy-Forward",
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113040",
+      "attributes": {
+        "isLocked": false,
+        "name": "Child"
+      }
+    },
+    {
+      "rel": "System.LinkTypes.Hierarchy-Forward",
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1136722",
+      "attributes": {
+        "isLocked": false,
+        "name": "Child"
+      }
+    },
+    {
+      "rel": "System.LinkTypes.Hierarchy-Reverse",
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1078031",
+      "attributes": {
+        "isLocked": false,
+        "name": "Parent"
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113005"
+    },
+    "workItemUpdates": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113005/updates"
+    },
+    "workItemRevisions": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113005/revisions"
+    },
+    "workItemComments": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113005/comments"
+    },
+    "html": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_workitems/edit/1113005"
+    },
+    "workItemType": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItemTypes/Feature"
+    },
+    "fields": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/fields"
+    }
+  },
+  "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113005"
+}

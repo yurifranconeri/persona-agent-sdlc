@@ -1,0 +1,2501 @@
+{
+  "count": 30,
+  "value": [
+    {
+      "id": 1,
+      "workItemId": 1117156,
+      "rev": 1,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-09-09T18:01:22.403Z",
+      "fields": {
+        "System.Id": {
+          "newValue": 1117156
+        },
+        "System.AreaId": {
+          "newValue": 15876
+        },
+        "System.NodeName": {
+          "newValue": "Marketing Consumer e SMB"
+        },
+        "System.AreaLevel1": {
+          "newValue": "Portfolio Tim TI"
+        },
+        "System.AreaLevel2": {
+          "newValue": "Portfolio Tim 2025"
+        },
+        "System.AreaLevel3": {
+          "newValue": "CRO"
+        },
+        "System.AreaLevel4": {
+          "newValue": "Marketing Consumer e SMB"
+        },
+        "System.Rev": {
+          "newValue": 1
+        },
+        "System.AuthorizedDate": {
+          "newValue": "2025-09-09T18:01:13.39Z"
+        },
+        "System.RevisedDate": {
+          "newValue": "2025-09-09T18:01:22.403Z"
+        },
+        "System.IterationId": {
+          "newValue": 15548
+        },
+        "System.IterationLevel1": {
+          "newValue": "Portfolio Tim TI"
+        },
+        "System.IterationLevel2": {
+          "newValue": "Portfolio Tim"
+        },
+        "System.IterationLevel3": {
+          "newValue": "2025"
+        },
+        "System.WorkItemType": {
+          "newValue": "Macro Valoração"
+        },
+        "System.State": {
+          "newValue": "New"
+        },
+        "System.Reason": {
+          "newValue": "Moved to state New"
+        },
+        "System.AssignedTo": {
+
+        },
+        "System.CreatedDate": {
+          "newValue": "2025-09-09T18:01:13.39Z"
+        },
+        "System.CreatedBy": {
+          "newValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "System.ChangedDate": {
+          "newValue": "2025-09-09T18:01:13.39Z"
+        },
+        "System.ChangedBy": {
+          "newValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "System.AuthorizedAs": {
+          "newValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "System.PersonId": {
+          "newValue": 177357438
+        },
+        "System.Watermark": {
+          "newValue": 9094515
+        },
+        "System.IsDeleted": {
+          "newValue": false
+        },
+        "System.CommentCount": {
+          "newValue": 0
+        },
+        "System.TeamProject": {
+          "newValue": "Portfolio Tim TI"
+        },
+        "System.AreaPath": {
+          "newValue": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB"
+        },
+        "System.IterationPath": {
+          "newValue": "Portfolio Tim TI\\Portfolio Tim\\2025"
+        },
+        "System.Title": {
+          "newValue": "251078031 - Melhorias Resgate Senha inFlight - VAS"
+        },
+        "System.BoardColumnDone": {
+          "newValue": false
+        },
+        "BugVendor.TIMDM": {
+          "newValue": "ENGINEERING"
+        },
+        "TIM20.TFS.Sistemas": {
+          "newValue": "VAS"
+        },
+        "Custom.TipoMacroValoracao": {
+          "newValue": "Original"
+        },
+        "Custom.DiretoriaTIN2": {
+          "newValue": "IT Service Creation Solutions"
+        },
+        "Custom.DiretoriaTIN3": {
+          "newValue": "VAS e Partnership Integration"
+        },
+        "WEF_D6D9F91403E1432F842AA09D630BFEFF_System.ExtensionMarker": {
+          "newValue": true
+        },
+        "WEF_D6D9F91403E1432F842AA09D630BFEFF_Kanban.Column.Done": {
+          "newValue": false
+        },
+        "WEF_470311787DC74BB5955D7133F1706C9A_System.ExtensionMarker": {
+          "newValue": true
+        },
+        "WEF_470311787DC74BB5955D7133F1706C9A_Kanban.Column.Done": {
+          "newValue": false
+        },
+        "Custom.IdEpic": {
+          "newValue": 1078031
+        },
+        "WEF_633BE54A6711499FB85A45E52A58F4C3_System.ExtensionMarker": {
+          "newValue": true
+        },
+        "WEF_633BE54A6711499FB85A45E52A58F4C3_Kanban.Column.Done": {
+          "newValue": false
+        },
+        "Custom.FlagAjusteADM": {
+          "newValue": false
+        },
+        "Custom.Valorado": {
+          "newValue": false
+        },
+        "Custom.Macrovalorado": {
+          "newValue": false
+        },
+        "System.BoardColumn": {
+          "newValue": "New"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "newValue": "2025-09-09T18:01:13.39Z"
+        },
+        "WEF_D6D9F91403E1432F842AA09D630BFEFF_Kanban.Column": {
+          "newValue": "New"
+        },
+        "WEF_470311787DC74BB5955D7133F1706C9A_Kanban.Column": {
+          "newValue": "New"
+        },
+        "WEF_633BE54A6711499FB85A45E52A58F4C3_Kanban.Column": {
+          "newValue": "New"
+        },
+        "System.Parent": {
+          "newValue": 1085522
+        }
+      },
+      "relations": {
+        "added": [
+          {
+            "rel": "System.LinkTypes.Hierarchy-Reverse",
+            "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1085522",
+            "attributes": {
+              "isLocked": false,
+              "name": "Parent"
+            }
+          }
+        ]
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/1"
+    },
+    {
+      "id": 2,
+      "workItemId": 1117156,
+      "rev": 2,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-09-09T18:01:27.92Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 1,
+          "newValue": 2
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-09-09T18:01:13.39Z",
+          "newValue": "2025-09-09T18:01:22.403Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-09-09T18:01:22.403Z",
+          "newValue": "2025-09-09T18:01:27.92Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-09-09T18:01:13.39Z",
+          "newValue": "2025-09-09T18:01:22.403Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9094515,
+          "newValue": 9094520
+        },
+        "System.CommentCount": {
+          "oldValue": 0,
+          "newValue": 1
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/2"
+    },
+    {
+      "id": 3,
+      "workItemId": 1117156,
+      "rev": 3,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-09-09T18:01:35.05Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 2,
+          "newValue": 3
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-09-09T18:01:22.403Z",
+          "newValue": "2025-09-09T18:01:27.92Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-09-09T18:01:27.92Z",
+          "newValue": "2025-09-09T18:01:35.05Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-09-09T18:01:22.403Z",
+          "newValue": "2025-09-09T18:01:27.92Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9094520,
+          "newValue": 9094521
+        },
+        "System.CommentCount": {
+          "oldValue": 1,
+          "newValue": 0
+        },
+        "System.History": {
+          "newValue": ""
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/3"
+    },
+    {
+      "id": 4,
+      "workItemId": 1117156,
+      "rev": 4,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-09-09T18:01:43.127Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 3,
+          "newValue": 4
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-09-09T18:01:27.92Z",
+          "newValue": "2025-09-09T18:01:35.05Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-09-09T18:01:35.05Z",
+          "newValue": "2025-09-09T18:01:43.127Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-09-09T18:01:27.92Z",
+          "newValue": "2025-09-09T18:01:35.05Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9094521,
+          "newValue": 9094524
+        },
+        "System.CommentCount": {
+          "oldValue": 0,
+          "newValue": 1
+        },
+        "System.History": {
+          "oldValue": "",
+          "newValue": "\u003Cdiv\u003E\u003Ca href=\"https://dev.azure.com/timbrasil/IT%20Business%20Agility/_workitems/edit/1078031/\" data-vss-mention=\"version:1.0\"\u003E#1078031\u003C/a\u003E \u003C/div\u003E"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/4"
+    },
+    {
+      "id": 5,
+      "workItemId": 1117156,
+      "rev": 4,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-09-09T18:01:35.21Z",
+      "relations": {
+        "added": [
+          {
+            "rel": "System.LinkTypes.Related",
+            "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1078031",
+            "attributes": {
+              "isLocked": false,
+              "comment": "Fernanda Soares Marelli Leite mentioned work item #1078031 in #1117156",
+              "name": "Related"
+            }
+          }
+        ]
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/5"
+    },
+    {
+      "id": 6,
+      "workItemId": 1117156,
+      "rev": 5,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-09-09T18:09:06.447Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 4,
+          "newValue": 5
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-09-09T18:01:35.05Z",
+          "newValue": "2025-09-09T18:01:43.127Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-09-09T18:01:43.127Z",
+          "newValue": "2025-09-09T18:09:06.447Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-09-09T18:01:35.05Z",
+          "newValue": "2025-09-09T18:01:43.127Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9094524,
+          "newValue": 9094527
+        },
+        "Custom.DiretoriaTIN4": {
+          "newValue": "Billing IT Solutions"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/6"
+    },
+    {
+      "id": 7,
+      "workItemId": 1117156,
+      "rev": 6,
+      "revisedBy": {
+        "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+        "name": "Paulo Ricardo Castellanos Souza \u003Cpcsouza@timbrasil.com.br\u003E",
+        "displayName": "Paulo Ricardo Castellanos Souza",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          }
+        },
+        "uniqueName": "pcsouza@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+        "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+      },
+      "revisedDate": "2025-09-09T18:10:10.14Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 5,
+          "newValue": 6
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-09-09T18:01:43.127Z",
+          "newValue": "2025-09-09T18:09:06.447Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-09-09T18:09:06.447Z",
+          "newValue": "2025-09-09T18:10:10.14Z"
+        },
+        "System.State": {
+          "oldValue": "New",
+          "newValue": "Macrovaloração"
+        },
+        "System.Reason": {
+          "oldValue": "Moved to state New",
+          "newValue": "Moved to state Macrovaloração"
+        },
+        "System.AssignedTo": {
+          "newValue": {
+            "displayName": "Paulo Ricardo Castellanos Souza",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+              }
+            },
+            "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "uniqueName": "pcsouza@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+            "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          }
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-09-09T18:01:43.127Z",
+          "newValue": "2025-09-09T18:09:06.447Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          },
+          "newValue": {
+            "displayName": "Paulo Ricardo Castellanos Souza",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+              }
+            },
+            "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "uniqueName": "pcsouza@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+            "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          },
+          "newValue": {
+            "displayName": "Paulo Ricardo Castellanos Souza",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+              }
+            },
+            "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "uniqueName": "pcsouza@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+            "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 177357438,
+          "newValue": 123661921
+        },
+        "System.Watermark": {
+          "oldValue": 9094527,
+          "newValue": 9094634
+        },
+        "Microsoft.VSTS.Common.ActivatedDate": {
+          "newValue": "2025-09-09T18:09:06.447Z"
+        },
+        "Microsoft.VSTS.Common.ActivatedBy": {
+          "newValue": {
+            "displayName": "Paulo Ricardo Castellanos Souza",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+              }
+            },
+            "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "uniqueName": "pcsouza@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+            "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          }
+        },
+        "Custom.Macro_Valoracao": {
+          "newValue": 10
+        },
+        "Custom.TaxaValoracao": {
+          "newValue": 1179
+        },
+        "WEF_D6D9F91403E1432F842AA09D630BFEFF_Kanban.Lane": {
+          "newValue": "Outros (ajustar mapeamento)"
+        },
+        "WEF_470311787DC74BB5955D7133F1706C9A_Kanban.Lane": {
+          "newValue": "Outros (Ajustar Mapeamento)"
+        },
+        "Custom.ValorMacroValoracao": {
+          "newValue": 11790
+        },
+        "Custom.ResponsavelMacrovaloracao": {
+          "newValue": {
+            "displayName": "Paulo Ricardo Castellanos Souza",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+              }
+            },
+            "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "uniqueName": "pcsouza@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+            "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          }
+        },
+        "System.BoardColumn": {
+          "oldValue": "New",
+          "newValue": "Macrovaloração"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "oldValue": "2025-09-09T18:01:13.39Z",
+          "newValue": "2025-09-09T18:09:06.447Z"
+        },
+        "WEF_D6D9F91403E1432F842AA09D630BFEFF_Kanban.Column": {
+          "oldValue": "New",
+          "newValue": "Estimativa"
+        },
+        "WEF_470311787DC74BB5955D7133F1706C9A_Kanban.Column": {
+          "oldValue": "New",
+          "newValue": "Macro Valoração"
+        },
+        "WEF_633BE54A6711499FB85A45E52A58F4C3_Kanban.Column": {
+          "oldValue": "New",
+          "newValue": "Macrovaloração"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/7"
+    },
+    {
+      "id": 8,
+      "workItemId": 1117156,
+      "rev": 7,
+      "revisedBy": {
+        "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+        "name": "Paulo Ricardo Castellanos Souza \u003Cpcsouza@timbrasil.com.br\u003E",
+        "displayName": "Paulo Ricardo Castellanos Souza",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          }
+        },
+        "uniqueName": "pcsouza@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+        "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+      },
+      "revisedDate": "2025-09-10T01:17:49.387Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 6,
+          "newValue": 7
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-09-09T18:09:06.447Z",
+          "newValue": "2025-09-09T18:10:10.14Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-09-09T18:10:10.14Z",
+          "newValue": "2025-09-10T01:17:49.387Z"
+        },
+        "System.State": {
+          "oldValue": "Macrovaloração",
+          "newValue": "Valoração"
+        },
+        "System.Reason": {
+          "oldValue": "Moved to state Macrovaloração",
+          "newValue": "Moved to state Valoração"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-09-09T18:09:06.447Z",
+          "newValue": "2025-09-09T18:10:10.14Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9094634,
+          "newValue": 9094664
+        },
+        "Custom.Valoracao": {
+          "newValue": 10
+        },
+        "Custom.ListaBI": {
+          "newValue": "250026 - IT GROWTH -  IT Service Creation Solutions - FÁBRICA-CRO-Marketing Consumer & SMB - Manutenção de Portfólio"
+        },
+        "Custom.ResponsavelValoracao": {
+          "newValue": {
+            "displayName": "Paulo Ricardo Castellanos Souza",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+              }
+            },
+            "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "uniqueName": "pcsouza@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+            "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          }
+        },
+        "Custom.ValorValoracao": {
+          "newValue": 11790
+        },
+        "System.BoardColumn": {
+          "oldValue": "Macrovaloração",
+          "newValue": "Valoração"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "oldValue": "2025-09-09T18:09:06.447Z",
+          "newValue": "2025-09-09T18:10:10.14Z"
+        },
+        "WEF_D6D9F91403E1432F842AA09D630BFEFF_Kanban.Column": {
+          "oldValue": "Estimativa",
+          "newValue": "Valoração"
+        },
+        "WEF_470311787DC74BB5955D7133F1706C9A_Kanban.Column": {
+          "oldValue": "Macro Valoração",
+          "newValue": "Valoração"
+        },
+        "WEF_633BE54A6711499FB85A45E52A58F4C3_Kanban.Column": {
+          "oldValue": "Macrovaloração",
+          "newValue": "Valoração"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/8"
+    },
+    {
+      "id": 9,
+      "workItemId": 1117156,
+      "rev": 8,
+      "revisedBy": {
+        "id": "6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+        "name": "Camilla Alves Da Silva \u003Ccsilva@timbrasil.com.br\u003E",
+        "displayName": "Camilla Alves Da Silva",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+          }
+        },
+        "uniqueName": "csilva@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3",
+        "descriptor": "aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+      },
+      "revisedDate": "2025-09-12T00:19:57.49Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 7,
+          "newValue": 8
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-09-09T18:10:10.14Z",
+          "newValue": "2025-09-10T01:17:49.387Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-09-10T01:17:49.387Z",
+          "newValue": "2025-09-12T00:19:57.49Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-09-09T18:10:10.14Z",
+          "newValue": "2025-09-10T01:17:49.387Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Paulo Ricardo Castellanos Souza",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+              }
+            },
+            "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "uniqueName": "pcsouza@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+            "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          },
+          "newValue": {
+            "displayName": "Camilla Alves Da Silva",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+              }
+            },
+            "id": "6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+            "uniqueName": "csilva@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3",
+            "descriptor": "aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Paulo Ricardo Castellanos Souza",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+              }
+            },
+            "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "uniqueName": "pcsouza@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+            "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          },
+          "newValue": {
+            "displayName": "Camilla Alves Da Silva",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+              }
+            },
+            "id": "6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+            "uniqueName": "csilva@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3",
+            "descriptor": "aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 123661921,
+          "newValue": 123641503
+        },
+        "System.Watermark": {
+          "oldValue": 9094664,
+          "newValue": 9098887
+        },
+        "Microsoft.VSTS.Common.StackRank": {
+          "newValue": 1999998857
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/9"
+    },
+    {
+      "id": 10,
+      "workItemId": 1117156,
+      "rev": 9,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-09-16T02:50:34.673Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 8,
+          "newValue": 9
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-09-10T01:17:49.387Z",
+          "newValue": "2025-09-12T00:19:57.49Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-09-12T00:19:57.49Z",
+          "newValue": "2025-09-16T02:50:34.673Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-09-10T01:17:49.387Z",
+          "newValue": "2025-09-12T00:19:57.49Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Camilla Alves Da Silva",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+              }
+            },
+            "id": "6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+            "uniqueName": "csilva@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3",
+            "descriptor": "aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+          },
+          "newValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Camilla Alves Da Silva",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+              }
+            },
+            "id": "6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+            "uniqueName": "csilva@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3",
+            "descriptor": "aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+          },
+          "newValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 123641503,
+          "newValue": 177357438
+        },
+        "System.Watermark": {
+          "oldValue": 9098887,
+          "newValue": 9117870
+        },
+        "Microsoft.VSTS.Common.StackRank": {
+          "oldValue": 1999998857,
+          "newValue": 1999993031
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/10"
+    },
+    {
+      "id": 11,
+      "workItemId": 1117156,
+      "rev": 10,
+      "revisedBy": {
+        "id": "6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+        "name": "Camilla Alves Da Silva \u003Ccsilva@timbrasil.com.br\u003E",
+        "displayName": "Camilla Alves Da Silva",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+          }
+        },
+        "uniqueName": "csilva@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3",
+        "descriptor": "aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+      },
+      "revisedDate": "2025-09-17T14:21:33.237Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 9,
+          "newValue": 10
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-09-12T00:19:57.49Z",
+          "newValue": "2025-09-16T02:50:34.673Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-09-16T02:50:34.673Z",
+          "newValue": "2025-09-17T14:21:33.237Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-09-12T00:19:57.49Z",
+          "newValue": "2025-09-16T02:50:34.673Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          },
+          "newValue": {
+            "displayName": "Camilla Alves Da Silva",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+              }
+            },
+            "id": "6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+            "uniqueName": "csilva@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3",
+            "descriptor": "aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          },
+          "newValue": {
+            "displayName": "Camilla Alves Da Silva",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+              }
+            },
+            "id": "6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+            "uniqueName": "csilva@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3",
+            "descriptor": "aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 177357438,
+          "newValue": 123641503
+        },
+        "System.Watermark": {
+          "oldValue": 9117870,
+          "newValue": 9137627
+        },
+        "Microsoft.VSTS.Common.StackRank": {
+          "oldValue": 1999993031,
+          "newValue": 1999986181
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/11"
+    },
+    {
+      "id": 12,
+      "workItemId": 1117156,
+      "rev": 11,
+      "revisedBy": {
+        "id": "6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+        "name": "Camilla Alves Da Silva \u003Ccsilva@timbrasil.com.br\u003E",
+        "displayName": "Camilla Alves Da Silva",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+          }
+        },
+        "uniqueName": "csilva@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3",
+        "descriptor": "aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+      },
+      "revisedDate": "2025-09-22T17:03:54.943Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 10,
+          "newValue": 11
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-09-16T02:50:34.673Z",
+          "newValue": "2025-09-17T14:21:33.237Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-09-17T14:21:33.237Z",
+          "newValue": "2025-09-22T17:03:54.943Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-09-16T02:50:34.673Z",
+          "newValue": "2025-09-17T14:21:33.237Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9137627,
+          "newValue": 9148682
+        },
+        "Microsoft.VSTS.Common.StackRank": {
+          "oldValue": 1999986181,
+          "newValue": 1999985085
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/12"
+    },
+    {
+      "id": 13,
+      "workItemId": 1117156,
+      "rev": 12,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-09-23T13:34:54.547Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 11,
+          "newValue": 12
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-09-17T14:21:33.237Z",
+          "newValue": "2025-09-22T17:03:54.943Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-09-22T17:03:54.943Z",
+          "newValue": "2025-09-23T13:34:54.547Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-09-17T14:21:33.237Z",
+          "newValue": "2025-09-22T17:03:54.943Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Camilla Alves Da Silva",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+              }
+            },
+            "id": "6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+            "uniqueName": "csilva@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3",
+            "descriptor": "aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+          },
+          "newValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Camilla Alves Da Silva",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+              }
+            },
+            "id": "6e16b8c7-c41d-6715-8e89-cacfe8f8dd47",
+            "uniqueName": "csilva@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3",
+            "descriptor": "aad.NmUxNmI4YzctYzQxZC03NzE1LThlODktY2FjZmU4ZjhkZDQ3"
+          },
+          "newValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 123641503,
+          "newValue": 177357438
+        },
+        "System.Watermark": {
+          "oldValue": 9148682,
+          "newValue": 9176942
+        },
+        "Microsoft.VSTS.Common.StackRank": {
+          "oldValue": 1999985085,
+          "newValue": 1999979988
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/13"
+    },
+    {
+      "id": 14,
+      "workItemId": 1117156,
+      "rev": 13,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-09-24T11:55:00.277Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 12,
+          "newValue": 13
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-09-22T17:03:54.943Z",
+          "newValue": "2025-09-23T13:34:54.547Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-09-23T13:34:54.547Z",
+          "newValue": "2025-09-24T11:55:00.277Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-09-22T17:03:54.943Z",
+          "newValue": "2025-09-23T13:34:54.547Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9176942,
+          "newValue": 9183485
+        },
+        "Microsoft.VSTS.Common.StackRank": {
+          "oldValue": 1999979988,
+          "newValue": 1999979476
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/14"
+    },
+    {
+      "id": 15,
+      "workItemId": 1117156,
+      "rev": 14,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-09-24T11:55:03.44Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 13,
+          "newValue": 14
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-09-23T13:34:54.547Z",
+          "newValue": "2025-09-24T11:55:00.277Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-09-24T11:55:00.277Z",
+          "newValue": "2025-09-24T11:55:03.44Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-09-23T13:34:54.547Z",
+          "newValue": "2025-09-24T11:55:00.277Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9183485,
+          "newValue": 9190025
+        },
+        "Custom.Macrovalorado": {
+          "oldValue": false,
+          "newValue": true
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/15"
+    },
+    {
+      "id": 16,
+      "workItemId": 1117156,
+      "rev": 15,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-09-30T11:15:32.14Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 14,
+          "newValue": 15
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-09-24T11:55:00.277Z",
+          "newValue": "2025-09-24T11:55:03.44Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-09-24T11:55:03.44Z",
+          "newValue": "2025-09-30T11:15:32.14Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-09-24T11:55:00.277Z",
+          "newValue": "2025-09-24T11:55:03.44Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9190025,
+          "newValue": 9190026
+        },
+        "Custom.Valorado": {
+          "oldValue": false,
+          "newValue": true
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/16"
+    },
+    {
+      "id": 17,
+      "workItemId": 1117156,
+      "rev": 16,
+      "revisedBy": {
+        "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+        "name": "Paulo Ricardo Castellanos Souza \u003Cpcsouza@timbrasil.com.br\u003E",
+        "displayName": "Paulo Ricardo Castellanos Souza",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          }
+        },
+        "uniqueName": "pcsouza@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+        "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+      },
+      "revisedDate": "2025-10-08T15:00:52.777Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 15,
+          "newValue": 16
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-09-24T11:55:03.44Z",
+          "newValue": "2025-09-30T11:15:32.14Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-09-30T11:15:32.14Z",
+          "newValue": "2025-10-08T15:00:52.777Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-09-24T11:55:03.44Z",
+          "newValue": "2025-09-30T11:15:32.14Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          },
+          "newValue": {
+            "displayName": "Paulo Ricardo Castellanos Souza",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+              }
+            },
+            "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "uniqueName": "pcsouza@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+            "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          },
+          "newValue": {
+            "displayName": "Paulo Ricardo Castellanos Souza",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+              }
+            },
+            "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "uniqueName": "pcsouza@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+            "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 177357438,
+          "newValue": 123661921
+        },
+        "System.Watermark": {
+          "oldValue": 9190026,
+          "newValue": 9225544
+        },
+        "Custom.NomeAprovador2": {
+          "newValue": {
+            "displayName": "Paulo Ricardo Castellanos Souza",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+              }
+            },
+            "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "uniqueName": "pcsouza@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+            "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          }
+        },
+        "Custom.EstadoAprovacao2": {
+          "newValue": "Aprovado"
+        },
+        "Custom.DataAprovacaoLidTec": {
+          "newValue": "2025-09-30T11:15:00Z"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/17"
+    },
+    {
+      "id": 18,
+      "workItemId": 1117156,
+      "rev": 17,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-10-08T15:00:56.48Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 16,
+          "newValue": 17
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-09-30T11:15:32.14Z",
+          "newValue": "2025-10-08T15:00:52.777Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-10-08T15:00:52.777Z",
+          "newValue": "2025-10-08T15:00:56.48Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-09-30T11:15:32.14Z",
+          "newValue": "2025-10-08T15:00:52.777Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Paulo Ricardo Castellanos Souza",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+              }
+            },
+            "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "uniqueName": "pcsouza@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+            "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          },
+          "newValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Paulo Ricardo Castellanos Souza",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+              }
+            },
+            "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "uniqueName": "pcsouza@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+            "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          },
+          "newValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 123661921,
+          "newValue": 177357438
+        },
+        "System.Watermark": {
+          "oldValue": 9225544,
+          "newValue": 9290006
+        },
+        "Custom.FlagAjusteADM": {
+          "oldValue": false,
+          "newValue": true
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/18"
+    },
+    {
+      "id": 19,
+      "workItemId": 1117156,
+      "rev": 18,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-10-08T15:03:58.85Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 17,
+          "newValue": 18
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-10-08T15:00:52.777Z",
+          "newValue": "2025-10-08T15:00:56.48Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-10-08T15:00:56.48Z",
+          "newValue": "2025-10-08T15:03:58.85Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-10-08T15:00:52.777Z",
+          "newValue": "2025-10-08T15:00:56.48Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9290006,
+          "newValue": 9290011
+        },
+        "Custom.Valorado": {
+          "oldValue": true,
+          "newValue": false
+        },
+        "Custom.Macrovalorado": {
+          "oldValue": true,
+          "newValue": false
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/19"
+    },
+    {
+      "id": 20,
+      "workItemId": 1117156,
+      "rev": 19,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-10-08T15:04:04.457Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 18,
+          "newValue": 19
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-10-08T15:00:56.48Z",
+          "newValue": "2025-10-08T15:03:58.85Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-10-08T15:03:58.85Z",
+          "newValue": "2025-10-08T15:04:04.457Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-10-08T15:00:56.48Z",
+          "newValue": "2025-10-08T15:03:58.85Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9290011,
+          "newValue": 9290042
+        },
+        "Custom.Macrovalorado": {
+          "oldValue": false,
+          "newValue": true
+        },
+        "Custom.Valorado": {
+          "oldValue": false,
+          "newValue": true
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/20"
+    },
+    {
+      "id": 21,
+      "workItemId": 1117156,
+      "rev": 20,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-10-08T15:11:14.253Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 19,
+          "newValue": 20
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-10-08T15:03:58.85Z",
+          "newValue": "2025-10-08T15:04:04.457Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-10-08T15:04:04.457Z",
+          "newValue": "2025-10-08T15:11:14.253Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-10-08T15:03:58.85Z",
+          "newValue": "2025-10-08T15:04:04.457Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9290042,
+          "newValue": 9290044
+        },
+        "Custom.Valorado": {
+          "oldValue": true,
+          "newValue": false
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/21"
+    },
+    {
+      "id": 22,
+      "workItemId": 1117156,
+      "rev": 21,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-10-09T18:29:58.05Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 20,
+          "newValue": 21
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-10-08T15:04:04.457Z",
+          "newValue": "2025-10-08T15:11:14.253Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-10-08T15:11:14.253Z",
+          "newValue": "2025-10-09T18:29:58.05Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-10-08T15:04:04.457Z",
+          "newValue": "2025-10-08T15:11:14.253Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9290044,
+          "newValue": 9290148
+        },
+        "Custom.Valorado": {
+          "oldValue": false,
+          "newValue": true
+        },
+        "Custom.FlagAjusteADM": {
+          "oldValue": true,
+          "newValue": false
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/22"
+    },
+    {
+      "id": 23,
+      "workItemId": 1117156,
+      "rev": 22,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-10-16T23:06:04.947Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 21,
+          "newValue": 22
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-10-08T15:11:14.253Z",
+          "newValue": "2025-10-09T18:29:58.05Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-10-09T18:29:58.05Z",
+          "newValue": "2025-10-16T23:06:04.947Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-10-08T15:11:14.253Z",
+          "newValue": "2025-10-09T18:29:58.05Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9290148,
+          "newValue": 9302832
+        },
+        "Microsoft.VSTS.Common.StackRank": {
+          "oldValue": 1999979476,
+          "newValue": 1999972308
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/23"
+    },
+    {
+      "id": 24,
+      "workItemId": 1117156,
+      "rev": 23,
+      "revisedBy": {
+        "id": "b380a73c-9872-61da-a4aa-86b85cfd75eb",
+        "name": "Denise Cruz Ferrao \u003Cdferrao@timbrasil.com.br\u003E",
+        "displayName": "Denise Cruz Ferrao",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/b380a73c-9872-61da-a4aa-86b85cfd75eb",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjM4MGE3M2MtOTg3Mi03MWRhLWE0YWEtODZiODVjZmQ3NWVi"
+          }
+        },
+        "uniqueName": "dferrao@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjM4MGE3M2MtOTg3Mi03MWRhLWE0YWEtODZiODVjZmQ3NWVi",
+        "descriptor": "aad.YjM4MGE3M2MtOTg3Mi03MWRhLWE0YWEtODZiODVjZmQ3NWVi"
+      },
+      "revisedDate": "2025-10-21T12:08:10.347Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 22,
+          "newValue": 23
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-10-09T18:29:58.05Z",
+          "newValue": "2025-10-16T23:06:04.947Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-10-16T23:06:04.947Z",
+          "newValue": "2025-10-21T12:08:10.347Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-10-09T18:29:58.05Z",
+          "newValue": "2025-10-16T23:06:04.947Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          },
+          "newValue": {
+            "displayName": "Denise Cruz Ferrao",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/b380a73c-9872-61da-a4aa-86b85cfd75eb",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjM4MGE3M2MtOTg3Mi03MWRhLWE0YWEtODZiODVjZmQ3NWVi"
+              }
+            },
+            "id": "b380a73c-9872-61da-a4aa-86b85cfd75eb",
+            "uniqueName": "dferrao@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjM4MGE3M2MtOTg3Mi03MWRhLWE0YWEtODZiODVjZmQ3NWVi",
+            "descriptor": "aad.YjM4MGE3M2MtOTg3Mi03MWRhLWE0YWEtODZiODVjZmQ3NWVi"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          },
+          "newValue": {
+            "displayName": "Denise Cruz Ferrao",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/b380a73c-9872-61da-a4aa-86b85cfd75eb",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjM4MGE3M2MtOTg3Mi03MWRhLWE0YWEtODZiODVjZmQ3NWVi"
+              }
+            },
+            "id": "b380a73c-9872-61da-a4aa-86b85cfd75eb",
+            "uniqueName": "dferrao@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjM4MGE3M2MtOTg3Mi03MWRhLWE0YWEtODZiODVjZmQ3NWVi",
+            "descriptor": "aad.YjM4MGE3M2MtOTg3Mi03MWRhLWE0YWEtODZiODVjZmQ3NWVi"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 177357438,
+          "newValue": 177495964
+        },
+        "System.Watermark": {
+          "oldValue": 9302832,
+          "newValue": 9360230
+        },
+        "Microsoft.VSTS.Common.StackRank": {
+          "oldValue": 1999972308,
+          "newValue": 1999969108
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/24"
+    },
+    {
+      "id": 25,
+      "workItemId": 1117156,
+      "rev": 24,
+      "revisedBy": {
+        "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+        "name": "Paulo Ricardo Castellanos Souza \u003Cpcsouza@timbrasil.com.br\u003E",
+        "displayName": "Paulo Ricardo Castellanos Souza",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          }
+        },
+        "uniqueName": "pcsouza@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+        "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+      },
+      "revisedDate": "2025-10-27T15:17:22.29Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 23,
+          "newValue": 24
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-10-16T23:06:04.947Z",
+          "newValue": "2025-10-21T12:08:10.347Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-10-21T12:08:10.347Z",
+          "newValue": "2025-10-27T15:17:22.29Z"
+        },
+        "System.State": {
+          "oldValue": "Valoração",
+          "newValue": "Aprovação Financeira"
+        },
+        "System.Reason": {
+          "oldValue": "Moved to state Valoração",
+          "newValue": "Moved to state Aprovação Financeira"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-10-16T23:06:04.947Z",
+          "newValue": "2025-10-21T12:08:10.347Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Denise Cruz Ferrao",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/b380a73c-9872-61da-a4aa-86b85cfd75eb",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjM4MGE3M2MtOTg3Mi03MWRhLWE0YWEtODZiODVjZmQ3NWVi"
+              }
+            },
+            "id": "b380a73c-9872-61da-a4aa-86b85cfd75eb",
+            "uniqueName": "dferrao@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjM4MGE3M2MtOTg3Mi03MWRhLWE0YWEtODZiODVjZmQ3NWVi",
+            "descriptor": "aad.YjM4MGE3M2MtOTg3Mi03MWRhLWE0YWEtODZiODVjZmQ3NWVi"
+          },
+          "newValue": {
+            "displayName": "Paulo Ricardo Castellanos Souza",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+              }
+            },
+            "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "uniqueName": "pcsouza@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+            "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Denise Cruz Ferrao",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/b380a73c-9872-61da-a4aa-86b85cfd75eb",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjM4MGE3M2MtOTg3Mi03MWRhLWE0YWEtODZiODVjZmQ3NWVi"
+              }
+            },
+            "id": "b380a73c-9872-61da-a4aa-86b85cfd75eb",
+            "uniqueName": "dferrao@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjM4MGE3M2MtOTg3Mi03MWRhLWE0YWEtODZiODVjZmQ3NWVi",
+            "descriptor": "aad.YjM4MGE3M2MtOTg3Mi03MWRhLWE0YWEtODZiODVjZmQ3NWVi"
+          },
+          "newValue": {
+            "displayName": "Paulo Ricardo Castellanos Souza",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+              }
+            },
+            "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "uniqueName": "pcsouza@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+            "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 177495964,
+          "newValue": 123661921
+        },
+        "System.Watermark": {
+          "oldValue": 9360230,
+          "newValue": 9382251
+        },
+        "System.BoardColumn": {
+          "oldValue": "Valoração",
+          "newValue": "Aprovação Financeira"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "oldValue": "2025-09-09T18:10:10.14Z",
+          "newValue": "2025-10-21T12:08:10.347Z"
+        },
+        "Custom.NumeroBOQ": {
+          "newValue": 841919
+        },
+        "WEF_D6D9F91403E1432F842AA09D630BFEFF_Kanban.Column": {
+          "oldValue": "Valoração",
+          "newValue": "Aprovação Financeira (BOQ - PO)"
+        },
+        "WEF_470311787DC74BB5955D7133F1706C9A_Kanban.Column": {
+          "oldValue": "Valoração",
+          "newValue": "Aprovação Financeira (BOQ - PO)"
+        },
+        "WEF_633BE54A6711499FB85A45E52A58F4C3_Kanban.Column": {
+          "oldValue": "Valoração",
+          "newValue": "Aprovação Financeira"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/25"
+    },
+    {
+      "id": 26,
+      "workItemId": 1117156,
+      "rev": 25,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-10-31T18:21:53.633Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 24,
+          "newValue": 25
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-10-21T12:08:10.347Z",
+          "newValue": "2025-10-27T15:17:22.29Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-10-27T15:17:22.29Z",
+          "newValue": "2025-10-31T18:21:53.633Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-10-21T12:08:10.347Z",
+          "newValue": "2025-10-27T15:17:22.29Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Paulo Ricardo Castellanos Souza",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+              }
+            },
+            "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "uniqueName": "pcsouza@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+            "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          },
+          "newValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Paulo Ricardo Castellanos Souza",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+              }
+            },
+            "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+            "uniqueName": "pcsouza@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+            "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+          },
+          "newValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 123661921,
+          "newValue": 177357438
+        },
+        "System.Watermark": {
+          "oldValue": 9382251,
+          "newValue": 9425154
+        },
+        "Microsoft.VSTS.Common.StackRank": {
+          "oldValue": 1999969108,
+          "newValue": 1999968596
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/26"
+    },
+    {
+      "id": 27,
+      "workItemId": 1117156,
+      "rev": 26,
+      "revisedBy": {
+        "id": "a7fe8112-ae6a-67a7-a58b-aef52b65cfc0",
+        "name": "Priscila Dos Santos Figueiredo Marques \u003Cpfmarques@timbrasil.com.br\u003E",
+        "displayName": "Priscila Dos Santos Figueiredo Marques",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/a7fe8112-ae6a-67a7-a58b-aef52b65cfc0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YTdmZTgxMTItYWU2YS03N2E3LWE1OGItYWVmNTJiNjVjZmMw"
+          }
+        },
+        "uniqueName": "pfmarques@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YTdmZTgxMTItYWU2YS03N2E3LWE1OGItYWVmNTJiNjVjZmMw",
+        "descriptor": "aad.YTdmZTgxMTItYWU2YS03N2E3LWE1OGItYWVmNTJiNjVjZmMw"
+      },
+      "revisedDate": "2025-11-04T19:04:05.893Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 25,
+          "newValue": 26
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-10-27T15:17:22.29Z",
+          "newValue": "2025-10-31T18:21:53.633Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-10-31T18:21:53.633Z",
+          "newValue": "2025-11-04T19:04:05.893Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-10-27T15:17:22.29Z",
+          "newValue": "2025-10-31T18:21:53.633Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          },
+          "newValue": {
+            "displayName": "Priscila Dos Santos Figueiredo Marques",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/a7fe8112-ae6a-67a7-a58b-aef52b65cfc0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YTdmZTgxMTItYWU2YS03N2E3LWE1OGItYWVmNTJiNjVjZmMw"
+              }
+            },
+            "id": "a7fe8112-ae6a-67a7-a58b-aef52b65cfc0",
+            "uniqueName": "pfmarques@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YTdmZTgxMTItYWU2YS03N2E3LWE1OGItYWVmNTJiNjVjZmMw",
+            "descriptor": "aad.YTdmZTgxMTItYWU2YS03N2E3LWE1OGItYWVmNTJiNjVjZmMw"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          },
+          "newValue": {
+            "displayName": "Priscila Dos Santos Figueiredo Marques",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/a7fe8112-ae6a-67a7-a58b-aef52b65cfc0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YTdmZTgxMTItYWU2YS03N2E3LWE1OGItYWVmNTJiNjVjZmMw"
+              }
+            },
+            "id": "a7fe8112-ae6a-67a7-a58b-aef52b65cfc0",
+            "uniqueName": "pfmarques@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YTdmZTgxMTItYWU2YS03N2E3LWE1OGItYWVmNTJiNjVjZmMw",
+            "descriptor": "aad.YTdmZTgxMTItYWU2YS03N2E3LWE1OGItYWVmNTJiNjVjZmMw"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 177357438,
+          "newValue": 250664025
+        },
+        "System.Watermark": {
+          "oldValue": 9425154,
+          "newValue": 9463003
+        },
+        "Microsoft.VSTS.Common.StackRank": {
+          "oldValue": 1999968596,
+          "newValue": 1999963732
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/27"
+    },
+    {
+      "id": 28,
+      "workItemId": 1117156,
+      "rev": 27,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-11-10T20:21:36.403Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 26,
+          "newValue": 27
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-10-31T18:21:53.633Z",
+          "newValue": "2025-11-04T19:04:05.893Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-04T19:04:05.893Z",
+          "newValue": "2025-11-10T20:21:36.403Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-10-31T18:21:53.633Z",
+          "newValue": "2025-11-04T19:04:05.893Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Priscila Dos Santos Figueiredo Marques",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/a7fe8112-ae6a-67a7-a58b-aef52b65cfc0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YTdmZTgxMTItYWU2YS03N2E3LWE1OGItYWVmNTJiNjVjZmMw"
+              }
+            },
+            "id": "a7fe8112-ae6a-67a7-a58b-aef52b65cfc0",
+            "uniqueName": "pfmarques@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YTdmZTgxMTItYWU2YS03N2E3LWE1OGItYWVmNTJiNjVjZmMw",
+            "descriptor": "aad.YTdmZTgxMTItYWU2YS03N2E3LWE1OGItYWVmNTJiNjVjZmMw"
+          },
+          "newValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Priscila Dos Santos Figueiredo Marques",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/a7fe8112-ae6a-67a7-a58b-aef52b65cfc0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YTdmZTgxMTItYWU2YS03N2E3LWE1OGItYWVmNTJiNjVjZmMw"
+              }
+            },
+            "id": "a7fe8112-ae6a-67a7-a58b-aef52b65cfc0",
+            "uniqueName": "pfmarques@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YTdmZTgxMTItYWU2YS03N2E3LWE1OGItYWVmNTJiNjVjZmMw",
+            "descriptor": "aad.YTdmZTgxMTItYWU2YS03N2E3LWE1OGItYWVmNTJiNjVjZmMw"
+          },
+          "newValue": {
+            "displayName": "Fernanda Soares Marelli Leite",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+              }
+            },
+            "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+            "uniqueName": "fleite@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+            "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 250664025,
+          "newValue": 177357438
+        },
+        "System.Watermark": {
+          "oldValue": 9463003,
+          "newValue": 9487107
+        },
+        "Microsoft.VSTS.Common.StackRank": {
+          "oldValue": 1999963732,
+          "newValue": 1999962196
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/28"
+    },
+    {
+      "id": 29,
+      "workItemId": 1117156,
+      "rev": 28,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "2025-11-26T20:20:10.557Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 27,
+          "newValue": 28
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-04T19:04:05.893Z",
+          "newValue": "2025-11-10T20:21:36.403Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-10T20:21:36.403Z",
+          "newValue": "2025-11-26T20:20:10.557Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-04T19:04:05.893Z",
+          "newValue": "2025-11-10T20:21:36.403Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9487107,
+          "newValue": 9529905
+        },
+        "Microsoft.VSTS.Common.StackRank": {
+          "oldValue": 1999962196,
+          "newValue": 1999961556
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/29"
+    },
+    {
+      "id": 30,
+      "workItemId": 1117156,
+      "rev": 29,
+      "revisedBy": {
+        "id": "9351430e-67bd-65b5-8507-a88ef15ae180",
+        "name": "Fernanda Soares Marelli Leite \u003Cfleite@timbrasil.com.br\u003E",
+        "displayName": "Fernanda Soares Marelli Leite",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9351430e-67bd-65b5-8507-a88ef15ae180",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+          }
+        },
+        "uniqueName": "fleite@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw",
+        "descriptor": "aad.OTM1MTQzMGUtNjdiZC03NWI1LTg1MDctYTg4ZWYxNWFlMTgw"
+      },
+      "revisedDate": "9999-01-01T00:00:00Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 28,
+          "newValue": 29
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-10T20:21:36.403Z",
+          "newValue": "2025-11-26T20:20:10.557Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-26T20:20:10.557Z",
+          "newValue": "9999-01-01T00:00:00Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-10T20:21:36.403Z",
+          "newValue": "2025-11-26T20:20:10.557Z"
+        },
+        "System.Watermark": {
+          "oldValue": 9529905,
+          "newValue": 9640902
+        },
+        "Microsoft.VSTS.Common.StackRank": {
+          "oldValue": 1999961556,
+          "newValue": 1999954900
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1117156/updates/30"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "count": 4,
+  "value": [
+    {
+      "id": 1183520,
+      "rev": 1,
+      "fields": {
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-11-10T16:53:58.257Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-11-10T16:53:58.257Z",
+        "System.ChangedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Rollout e Pós Rollout",
+        "System.BoardColumn": "New",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-11-10T16:53:58.257Z",
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "CodigoDemanda.TIMDM": "251070811",
+        "Custom.INFORMATIVO": "https://dev.azure.com/timbrasil/Wiki%20Catalogo%20Interfaces%20e%20Sistemas/_wiki/wikis/Wiki-Catalogo-Interfaces-e-Sistemas.wiki/2268/EPIC ",
+        "WEF_4571FFBD67634147B081151003F23373_Kanban.Column": "New",
+        "WEF_4571FFBD67634147B081151003F23373_Kanban.Column.Done": false,
+        "Custom.TipoFeature": "Funcional"
+      },
+      "multilineFieldsFormat": {
+
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1183520/revisions/1"
+    },
+    {
+      "id": 1183520,
+      "rev": 2,
+      "fields": {
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-11-10T16:53:58.257Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-11-17T14:10:23.287Z",
+        "System.ChangedBy": {
+          "displayName": "Joanna Maria Haslwanter",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/b7d3fe1c-9804-6b8c-b2ea-d856e28b9b78",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4"
+            }
+          },
+          "id": "b7d3fe1c-9804-6b8c-b2ea-d856e28b9b78",
+          "uniqueName": "jhaslwanter@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4",
+          "descriptor": "aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Rollout e Pós Rollout",
+        "System.BoardColumn": "New",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-11-10T16:53:58.257Z",
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "CodigoDemanda.TIMDM": "251070811",
+        "Custom.INFORMATIVO": "https://dev.azure.com/timbrasil/Wiki%20Catalogo%20Interfaces%20e%20Sistemas/_wiki/wikis/Wiki-Catalogo-Interfaces-e-Sistemas.wiki/2268/EPIC ",
+        "WEF_4571FFBD67634147B081151003F23373_Kanban.Column": "New",
+        "WEF_4571FFBD67634147B081151003F23373_Kanban.Column.Done": false,
+        "Custom.TipoFeature": "Funcional",
+        "Microsoft.VSTS.Common.StackRank": 1999997418
+      },
+      "multilineFieldsFormat": {
+
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1183520/revisions/2"
+    },
+    {
+      "id": 1183520,
+      "rev": 3,
+      "fields": {
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-11-10T16:53:58.257Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2026-02-05T12:45:48.63Z",
+        "System.ChangedBy": {
+          "displayName": "Tamiris Leandro Martins Das Neves.",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/b2ef2449-cf92-682d-b9c9-f87c943424ba",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjJlZjI0NDktY2Y5Mi03ODJkLWI5YzktZjg3Yzk0MzQyNGJh"
+            }
+          },
+          "id": "b2ef2449-cf92-682d-b9c9-f87c943424ba",
+          "uniqueName": "talmdneves@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjJlZjI0NDktY2Y5Mi03ODJkLWI5YzktZjg3Yzk0MzQyNGJh",
+          "descriptor": "aad.YjJlZjI0NDktY2Y5Mi03ODJkLWI5YzktZjg3Yzk0MzQyNGJh"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Rollout e Pós Rollout",
+        "System.BoardColumn": "New",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-11-10T16:53:58.257Z",
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "CodigoDemanda.TIMDM": "251070811",
+        "Custom.INFORMATIVO": "https://dev.azure.com/timbrasil/Wiki%20Catalogo%20Interfaces%20e%20Sistemas/_wiki/wikis/Wiki-Catalogo-Interfaces-e-Sistemas.wiki/2268/EPIC ",
+        "WEF_4571FFBD67634147B081151003F23373_Kanban.Column": "New",
+        "WEF_4571FFBD67634147B081151003F23373_Kanban.Column.Done": false,
+        "Custom.TipoFeature": "Funcional",
+        "Microsoft.VSTS.Common.StackRank": 1999993466
+      },
+      "multilineFieldsFormat": {
+
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1183520/revisions/3"
+    },
+    {
+      "id": 1183520,
+      "rev": 4,
+      "fields": {
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.WorkItemType": "Feature",
+        "System.State": "New",
+        "System.Reason": "New",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-11-10T16:53:58.257Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2026-03-23T21:57:04.247Z",
+        "System.ChangedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "Rollout e Pós Rollout",
+        "System.BoardColumn": "New",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-11-10T16:53:58.257Z",
+        "Microsoft.VSTS.Common.StackRank": 1999992162,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "CodigoDemanda.TIMDM": "251070811",
+        "Custom.INFORMATIVO": "https://dev.azure.com/timbrasil/Wiki%20Catalogo%20Interfaces%20e%20Sistemas/_wiki/wikis/Wiki-Catalogo-Interfaces-e-Sistemas.wiki/2268/EPIC ",
+        "WEF_4571FFBD67634147B081151003F23373_Kanban.Column": "New",
+        "WEF_4571FFBD67634147B081151003F23373_Kanban.Column.Done": false,
+        "Custom.TipoFeature": "Funcional"
+      },
+      "multilineFieldsFormat": {
+
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1183520/revisions/4"
+    }
+  ]
+}

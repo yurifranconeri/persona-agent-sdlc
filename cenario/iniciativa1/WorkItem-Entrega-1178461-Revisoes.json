@@ -1,0 +1,288 @@
+{
+  "count": 3,
+  "value": [
+    {
+      "id": 1178461,
+      "rev": 1,
+      "fields": {
+        "System.WorkItemType": "Entrega",
+        "System.State": "Armazenada pelo SCM",
+        "System.Reason": "Moved to state Armazenada pelo SCM",
+        "System.CreatedDate": "2025-11-05T14:50:29.793Z",
+        "System.CreatedBy": {
+          "displayName": "Rodrigo Alexandre Oliveira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+            }
+          },
+          "id": "755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+          "uniqueName": "T3671925@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw",
+          "descriptor": "aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+        },
+        "System.ChangedDate": "2025-11-05T14:50:29.793Z",
+        "System.ChangedBy": {
+          "displayName": "Rodrigo Alexandre Oliveira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+            }
+          },
+          "id": "755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+          "uniqueName": "T3671925@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw",
+          "descriptor": "aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Entrega_de_Kits",
+        "System.AreaPath": "Entrega_de_Kits",
+        "System.IterationPath": "Entrega_de_Kits",
+        "System.Title": "ENTREGA - Alteração da Fraseologia e Criação do Botão - inFlight",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-11-05T14:50:29.793Z",
+        "Microsoft.VSTS.Common.Priority": 4,
+        "CodigoDemanda.TIMDM": "TIR1136722",
+        "BugOwnerCCC.TIMDM": {
+          "displayName": "Mauricio Valderrama De Oliveira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/25f32cc8-85a6-677d-a399-6e352177df4d",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MjVmMzJjYzgtODVhNi03NzdkLWEzOTktNmUzNTIxNzdkZjRk"
+            }
+          },
+          "id": "25f32cc8-85a6-677d-a399-6e352177df4d",
+          "uniqueName": "mdoliveira_engineering@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MjVmMzJjYzgtODVhNi03NzdkLWEzOTktNmUzNTIxNzdkZjRk",
+          "descriptor": "aad.MjVmMzJjYzgtODVhNi03NzdkLWEzOTktNmUzNTIxNzdkZjRk"
+        },
+        "BugVendor.TIMDM": "ENGINEERING",
+        "TIM20.TFS.Sistemas": "OAMVAS",
+        "TesteCase.NomeDemanda.TIMDM": "TIR1136722",
+        "Custom.ShipmentTIM20": "OAM_1136722",
+        "Custom.DataPlanejada": "2025-11-05T14:50:00Z",
+        "Custom.DataEntrega": "2025-11-05T14:50:00Z",
+        "Custom.ChangeForm": "CF_SSO-OneClickToBuy",
+        "Custom.Patch": "FQA",
+        "Custom.d0f2a953-eb51-4e6d-97e0-91e3eb233883": "Fellipe Pinheiro Moncayo",
+        "Custom.VendorGroup": "Engineering - OAM",
+        "Custom.EvidenciaSystemTest": "Sim",
+        "Custom.Areas": "VAS",
+        "Custom.VendorouVendorGroupInvalido": "Valido",
+        "Custom.dir_structure": "Sim",
+        "Custom.delivery_changeset": "Sim",
+        "Custom.delivery_change_form": "Sim",
+        "Custom.correct_content_cf": "Sim",
+        "Custom.info_change_form_param": "Sim",
+        "Custom.last_delivery_change_form_install_env": "Não",
+        "Custom.change_form_schema_system": "Não",
+        "Custom.b_change_form_schema_system": "Sim",
+        "Custom.redelivery_changeform": "Sim",
+        "Custom.valid_change_form": "Sim",
+        "Custom.TipoDeploy": "Manual",
+        "System.Description": "\u003Cdiv\u003E\u003Cspan style=\"font-family:&quot;Segoe UI&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;font-size:21px;font-weight:600;letter-spacing:-0.42px;background-color:rgb(248, 248, 248);display:inline !important;\"\u003EOAM_1131975_SSO\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Custom.4860fe37-04d3-4203-b6c3-ad0f95ab9fcf": "\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "System.History": "Copied from #1132619"
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html",
+        "Custom.4860fe37-04d3-4203-b6c3-ad0f95ab9fcf": "html",
+        "System.History": "html"
+      },
+      "commentVersionRef": {
+        "commentId": 16907357,
+        "version": 1,
+        "url": "https://dev.azure.com/timbrasil/2b63666a-04a7-404e-84e3-2120197176ef/_apis/wit/workItems/1178461/comments/16907357/versions/1"
+      },
+      "url": "https://dev.azure.com/timbrasil/2b63666a-04a7-404e-84e3-2120197176ef/_apis/wit/workItems/1178461/revisions/1"
+    },
+    {
+      "id": 1178461,
+      "rev": 2,
+      "fields": {
+        "System.WorkItemType": "Entrega",
+        "System.State": "Armazenada pelo SCM",
+        "System.Reason": "Moved to state Armazenada pelo SCM",
+        "System.CreatedDate": "2025-11-05T14:50:29.793Z",
+        "System.CreatedBy": {
+          "displayName": "Rodrigo Alexandre Oliveira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+            }
+          },
+          "id": "755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+          "uniqueName": "T3671925@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw",
+          "descriptor": "aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+        },
+        "System.ChangedDate": "2025-11-05T15:01:06.453Z",
+        "System.ChangedBy": {
+          "displayName": "AzDevOpsServ_PRD",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+            }
+          },
+          "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+          "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+          "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Entrega_de_Kits",
+        "System.AreaPath": "Entrega_de_Kits",
+        "System.IterationPath": "Entrega_de_Kits",
+        "System.Title": "ENTREGA - Alteração da Fraseologia e Criação do Botão - inFlight",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-11-05T14:50:29.793Z",
+        "Microsoft.VSTS.Common.Priority": 4,
+        "CodigoDemanda.TIMDM": "TIR1136722",
+        "BugOwnerCCC.TIMDM": {
+          "displayName": "Mauricio Valderrama De Oliveira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/25f32cc8-85a6-677d-a399-6e352177df4d",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MjVmMzJjYzgtODVhNi03NzdkLWEzOTktNmUzNTIxNzdkZjRk"
+            }
+          },
+          "id": "25f32cc8-85a6-677d-a399-6e352177df4d",
+          "uniqueName": "mdoliveira_engineering@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MjVmMzJjYzgtODVhNi03NzdkLWEzOTktNmUzNTIxNzdkZjRk",
+          "descriptor": "aad.MjVmMzJjYzgtODVhNi03NzdkLWEzOTktNmUzNTIxNzdkZjRk"
+        },
+        "BugVendor.TIMDM": "ENGINEERING",
+        "TIM20.TFS.Sistemas": "OAMVAS",
+        "TesteCase.NomeDemanda.TIMDM": "TIR1136722",
+        "Custom.ShipmentTIM20": "OAM_1136722",
+        "Custom.DataPlanejada": "2025-11-05T14:50:00Z",
+        "Custom.DataEntrega": "2025-11-05T14:50:00Z",
+        "Custom.ChangeForm": "CF_SSO-OneClickToBuy",
+        "Custom.Patch": "FQA",
+        "Custom.d0f2a953-eb51-4e6d-97e0-91e3eb233883": "Fellipe Pinheiro Moncayo",
+        "Custom.Label": "202511051201_OAMVAS_OAM_1136722",
+        "Custom.VendorGroup": "Engineering - OAM",
+        "Custom.EvidenciaSystemTest": "Sim",
+        "Custom.Areas": "VAS",
+        "Custom.VendorouVendorGroupInvalido": "Valido",
+        "Custom.dir_structure": "Sim",
+        "Custom.delivery_changeset": "Sim",
+        "Custom.delivery_change_form": "Sim",
+        "Custom.correct_content_cf": "Sim",
+        "Custom.info_change_form_param": "Sim",
+        "Custom.last_delivery_change_form_install_env": "Não",
+        "Custom.change_form_schema_system": "Não",
+        "Custom.b_change_form_schema_system": "Sim",
+        "Custom.redelivery_changeform": "Sim",
+        "Custom.valid_change_form": "Sim",
+        "Custom.TipoDeploy": "Manual",
+        "System.Description": "\u003Cdiv\u003E\u003Cspan style=\"font-family:&quot;Segoe UI&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;font-size:21px;font-weight:600;letter-spacing:-0.42px;background-color:rgb(248, 248, 248);display:inline !important;\"\u003EOAM_1131975_SSO\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Custom.4860fe37-04d3-4203-b6c3-ad0f95ab9fcf": "\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html",
+        "Custom.4860fe37-04d3-4203-b6c3-ad0f95ab9fcf": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/2b63666a-04a7-404e-84e3-2120197176ef/_apis/wit/workItems/1178461/revisions/2"
+    },
+    {
+      "id": 1178461,
+      "rev": 3,
+      "fields": {
+        "System.AreaPath": "Entrega_de_Kits",
+        "System.TeamProject": "Entrega_de_Kits",
+        "System.IterationPath": "Entrega_de_Kits",
+        "System.WorkItemType": "Entrega",
+        "System.State": "Armazenada pelo SCM",
+        "System.Reason": "Moved to state Armazenada pelo SCM",
+        "System.CreatedDate": "2025-11-05T14:50:29.793Z",
+        "System.CreatedBy": {
+          "displayName": "Rodrigo Alexandre Oliveira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+            }
+          },
+          "id": "755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+          "uniqueName": "T3671925@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw",
+          "descriptor": "aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+        },
+        "System.ChangedDate": "2025-11-05T15:01:24.27Z",
+        "System.ChangedBy": {
+          "displayName": "Rodrigo Alexandre Oliveira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+            }
+          },
+          "id": "755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+          "uniqueName": "T3671925@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw",
+          "descriptor": "aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+        },
+        "System.CommentCount": 2,
+        "System.Title": "ENTREGA - Alteração da Fraseologia e Criação do Botão - inFlight",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-11-05T14:50:29.793Z",
+        "Microsoft.VSTS.Common.Priority": 4,
+        "CodigoDemanda.TIMDM": "TIR1136722",
+        "BugOwnerCCC.TIMDM": {
+          "displayName": "Mauricio Valderrama De Oliveira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/25f32cc8-85a6-677d-a399-6e352177df4d",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MjVmMzJjYzgtODVhNi03NzdkLWEzOTktNmUzNTIxNzdkZjRk"
+            }
+          },
+          "id": "25f32cc8-85a6-677d-a399-6e352177df4d",
+          "uniqueName": "mdoliveira_engineering@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MjVmMzJjYzgtODVhNi03NzdkLWEzOTktNmUzNTIxNzdkZjRk",
+          "descriptor": "aad.MjVmMzJjYzgtODVhNi03NzdkLWEzOTktNmUzNTIxNzdkZjRk"
+        },
+        "BugVendor.TIMDM": "ENGINEERING",
+        "TIM20.TFS.Sistemas": "OAMVAS",
+        "TesteCase.NomeDemanda.TIMDM": "TIR1136722",
+        "Custom.ShipmentTIM20": "OAM_1136722",
+        "Custom.DataPlanejada": "2025-11-05T14:50:00Z",
+        "Custom.DataEntrega": "2025-11-05T14:50:00Z",
+        "Custom.ChangeForm": "CF_SSO-OneClickToBuy",
+        "Custom.Patch": "FQA",
+        "Custom.d0f2a953-eb51-4e6d-97e0-91e3eb233883": "Fellipe Pinheiro Moncayo",
+        "Custom.Label": "202511051201_OAMVAS_OAM_1136722",
+        "Custom.VendorGroup": "Engineering - OAM",
+        "Custom.EvidenciaSystemTest": "Sim",
+        "Custom.Areas": "VAS",
+        "Custom.VendorouVendorGroupInvalido": "Valido",
+        "Custom.dir_structure": "Sim",
+        "Custom.delivery_changeset": "Sim",
+        "Custom.delivery_change_form": "Sim",
+        "Custom.correct_content_cf": "Sim",
+        "Custom.info_change_form_param": "Sim",
+        "Custom.last_delivery_change_form_install_env": "Não",
+        "Custom.change_form_schema_system": "Não",
+        "Custom.b_change_form_schema_system": "Sim",
+        "Custom.redelivery_changeform": "Sim",
+        "Custom.valid_change_form": "Sim",
+        "Custom.TipoDeploy": "Manual",
+        "System.Description": "\u003Cdiv\u003E\u003Cspan style=\"font-family:&quot;Segoe UI&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;font-size:21px;font-weight:600;letter-spacing:-0.42px;background-color:rgb(248, 248, 248);display:inline !important;\"\u003EOAM_1131975_SSO\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "System.History": "Associated with changeset 51241.",
+        "Custom.4860fe37-04d3-4203-b6c3-ad0f95ab9fcf": "\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html",
+        "System.History": "html",
+        "Custom.4860fe37-04d3-4203-b6c3-ad0f95ab9fcf": "html"
+      },
+      "commentVersionRef": {
+        "commentId": 16907447,
+        "version": 1,
+        "url": "https://dev.azure.com/timbrasil/2b63666a-04a7-404e-84e3-2120197176ef/_apis/wit/workItems/1178461/comments/16907447/versions/1"
+      },
+      "url": "https://dev.azure.com/timbrasil/2b63666a-04a7-404e-84e3-2120197176ef/_apis/wit/workItems/1178461/revisions/3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+mcs.metadata:
+  componentName: "Iniciar sessão "
+  description: Este tópico de sistema é acionado quando o agente necessita de iniciar sessão do utilizador ou necessita que o utilizador inicie sessão
+kind: AdaptiveDialog
+beginDialog:
+  kind: OnSignIn
+  id: main
+  actions:
+    - kind: ConditionGroup
+      id: conditionGroup_ypjGKL
+      conditions:
+        - id: conditionItem_7XYIIR
+          condition: =System.SignInReason = SignInReason.SignInRequired
+          actions:
+            - kind: SendActivity
+              id: sendMessage_1jHUNO
+              activity: Olá! Para poder ajudar, preciso que inicie sessão.
+
+    - kind: OAuthInput
+      id: gOjhZA
+      title: Iniciar Sessão
+      text: Para continuar, inicie sessão

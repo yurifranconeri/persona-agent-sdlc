@@ -1,0 +1,250 @@
+{
+  "id": 1113040,
+  "rev": 27,
+  "fields": {
+    "System.Id": 1113040,
+    "System.AreaId": 15073,
+    "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+    "System.TeamProject": "Projeto_Service_Creation",
+    "System.NodeName": "Waterfall",
+    "System.AreaLevel1": "Projeto_Service_Creation",
+    "System.AreaLevel2": "Waterfall",
+    "System.Rev": 27,
+    "System.AuthorizedDate": "2026-03-10T20:18:22.787Z",
+    "System.RevisedDate": "9999-01-01T00:00:00Z",
+    "System.IterationId": 15074,
+    "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+    "System.IterationLevel1": "Projeto_Service_Creation",
+    "System.IterationLevel2": "Waterfall",
+    "System.WorkItemType": "User Story",
+    "System.State": "Refinada",
+    "System.Reason": "Moved out of state Em Refinamento",
+    "System.AssignedTo": {
+      "displayName": "Ana Maria Lopes Moreira",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        }
+      },
+      "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "uniqueName": "amlmoreira@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+      "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+    },
+    "System.CreatedDate": "2025-09-05T20:30:48.387Z",
+    "System.CreatedBy": {
+      "displayName": "Ana Maria Lopes Moreira",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        }
+      },
+      "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "uniqueName": "amlmoreira@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+      "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+    },
+    "System.ChangedDate": "2026-03-10T20:18:22.787Z",
+    "System.ChangedBy": {
+      "displayName": "Karyne Vianna Carmo Gallindo",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/51c4e8bb-e040-6a63-9255-47a18d9f27bb",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTFjNGU4YmItZTA0MC03YTYzLTkyNTUtNDdhMThkOWYyN2Ji"
+        }
+      },
+      "id": "51c4e8bb-e040-6a63-9255-47a18d9f27bb",
+      "uniqueName": "kgallindo@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTFjNGU4YmItZTA0MC03YTYzLTkyNTUtNDdhMThkOWYyN2Ji",
+      "descriptor": "aad.NTFjNGU4YmItZTA0MC03YTYzLTkyNTUtNDdhMThkOWYyN2Ji"
+    },
+    "System.AuthorizedAs": {
+      "displayName": "Karyne Vianna Carmo Gallindo",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/51c4e8bb-e040-6a63-9255-47a18d9f27bb",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTFjNGU4YmItZTA0MC03YTYzLTkyNTUtNDdhMThkOWYyN2Ji"
+        }
+      },
+      "id": "51c4e8bb-e040-6a63-9255-47a18d9f27bb",
+      "uniqueName": "kgallindo@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTFjNGU4YmItZTA0MC03YTYzLTkyNTUtNDdhMThkOWYyN2Ji",
+      "descriptor": "aad.NTFjNGU4YmItZTA0MC03YTYzLTkyNTUtNDdhMThkOWYyN2Ji"
+    },
+    "System.PersonId": 178130828,
+    "System.Watermark": 10277296,
+    "System.CommentCount": 4,
+    "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight",
+    "System.BoardColumn": "Refinada",
+    "System.BoardColumnDone": false,
+    "Microsoft.VSTS.Common.StateChangeDate": "2025-11-12T13:33:33.783Z",
+    "Microsoft.VSTS.Common.ActivatedDate": "2025-09-09T18:22:24.483Z",
+    "Microsoft.VSTS.Common.ActivatedBy": {
+      "displayName": "Paulo Ricardo Castellanos Souza",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        }
+      },
+      "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+      "uniqueName": "pcsouza@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+      "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+    },
+    "Microsoft.VSTS.Common.StackRank": 1999967927,
+    "Microsoft.VSTS.Common.ValueArea": "Business",
+    "Microsoft.VSTS.Scheduling.StartDate": "2025-11-12T13:22:14.27Z",
+    "CodigoDemanda.TIMDM": "251078031",
+    "BugVendor.TIMDM": ".NÃO IDENTIFICADO",
+    "Custom.PercentualAutomacao": "0%",
+    "Custom.NomeAprovador1": {
+      "displayName": "Ana Maria Lopes Moreira",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        }
+      },
+      "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "uniqueName": "amlmoreira@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+      "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+    },
+    "Custom.AddAprovador2": false,
+    "Custom.AddAprovador3": false,
+    "Custom.AddAprovador4": false,
+    "Custom.AddAprovador5": false,
+    "Custom.AddAprovador6": false,
+    "Custom.AddAprovador7": false,
+    "Custom.AddAprovador8": false,
+    "Custom.AddAprovador9": false,
+    "Custom.AddAprovador10": false,
+    "Custom.AddAprovador11": false,
+    "Custom.AddAprovador12": false,
+    "Custom.AddAprovador13": false,
+    "Custom.AddAprovador14": false,
+    "Custom.AddAprovador15": false,
+    "Custom.AreaAprovacao1": "MARKETING CONSUMER & SMB",
+    "PercentualAutomacao.TIMDM": "0%",
+    "Custom.UserStoryTestavel": true,
+    "Custom.RevisadaPO": false,
+    "Custom.ObrigaApontamentoFronteira": false,
+    "Custom.AnaliseSecurity": "Não",
+    "Custom.SemImpacto": false,
+    "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_System.ExtensionMarker": true,
+    "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": "Refinada",
+    "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column.Done": false,
+    "WEF_6A90BA7654184152A40A047264929C2B_System.ExtensionMarker": false,
+    "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Refinada",
+    "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+    "WEF_9AF75E9B122F4B3D930B1F13DAC87080_System.ExtensionMarker": false,
+    "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Refinada",
+    "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+    "Custom.IdMacroValoracao": 1117156,
+    "Custom.NecessitaAprovSec": false,
+    "WEF_B8F49C4800FF47C8A90FA6B6096F254F_System.ExtensionMarker": false,
+    "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Refinada",
+    "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+    "Custom.DataInicioRefinamento": "2025-11-12T13:32:55.557Z",
+    "Custom.FlagBloqueio": false,
+    "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb style=\"box-sizing:border-box;\"\u003EEU COMO\u003Cspan style=\"box-sizing:border-box;\"\u003E&nbsp;\u003C/span\u003E\u003C/b\u003EMarketing \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EDESEJO QUE&nbsp;\u003C/b\u003Eno produto \u003Cstrong\u003EinFlight\u003C/strong\u003E, a atual mensagem orientativa exibida na opção \u003Cstrong\u003E“Esqueci minha senha”\u003C/strong\u003E seja substituída por um &quot;\u003Cstrong\u003Ebotão&quot;\u003C/strong\u003E que redirecione o cliente à página de reset de senha da TIM (Webview), conforme jornada indicada no \u003Ca href=\"https://dev.azure.com/timbrasil/IT%20Business%20Agility/_workitems/edit/1113130/\" data-vss-mention=\"version:1.0\"\u003E#1113130\u003C/a\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cp\u003EComo referência, segue abaixo a URL atualmente utilizada pelo APP Beta para reset de senha. No entanto, é necessário que a área de TI valide e nos informe o caminho mais adequado: \u003C/p\u003E \u003C/div\u003E\u003Cdiv\u003Ehttps://auth3.tim.com.br/webapp-resetSenha/forgotPassword?layout=meutimapp&amp;loginType=USER&amp;channel=4&amp;msisdn=DD%”MSISDN” \u003C/div\u003E\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E\u003Ch3 style=\"box-sizing:border-box;font-weight:600;\"\u003E \u003C/h3\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cspan style=\"color:rgb(0, 0, 0);\"\u003E\u003Cstrong style=\"box-sizing:border-box;\"\u003EPARA\u003C/strong\u003E\u003C/span\u003E\u003Cspan style=\"color:rgb(0, 0, 0);\"\u003E&nbsp;eliminar quebras de jornada como a obrigação de acessar o APP Meu TIM,\u003C/span\u003E\u003Cspan style=\"color:rgb(0, 0, 0);\"\u003E&nbsp;garantindo uma experiência mais fluida e sem interrupções.\u003C/span\u003E \u003C/div\u003E \u003C/div\u003E",
+    "Microsoft.VSTS.Common.AcceptanceCriteria": "\u003Cdiv\u003EEvidenciar que, no lugar da frase orientativa para o cliente recuperar a senha pelo \u003Cstrong\u003E“APP Meu TIM”\u003C/strong\u003E, exista um \u003Cstrong\u003Ebotão “CLICANDO AQUI”\u003C/strong\u003E que redirecione o usuário para a \u003Cstrong\u003Epágina de reset de senha da TIM (W\u003C/strong\u003E\u003Cstrong\u003Eebview\u003C/strong\u003E)\u003Cbr\u003E \u003C/div\u003E",
+    "PremissasAcordadas.TIMDM": "\u003Cdiv\u003EEste projeto NÃO altera a base elegível. \u003C/div\u003E",
+    "Custom.DefinionOfDone": "\u003Cdiv\u003EDetalhamento funcional que será entregue esta contido na Task abaixo \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Ca href=\"https://dev.azure.com/timbrasil/Portfolio%20Tim%20TI/_workitems/edit/1136722\"\u003Ehttps://dev.azure.com/timbrasil/Portfolio%20Tim%20TI/_workitems/edit/1136722\u003C/a\u003E\u003Cbr\u003E \u003C/div\u003E",
+    "System.Parent": 1113005
+  },
+  "multilineFieldsFormat": {
+    "System.Description": "html",
+    "Microsoft.VSTS.Common.AcceptanceCriteria": "html",
+    "PremissasAcordadas.TIMDM": "html",
+    "Custom.DefinionOfDone": "html"
+  },
+  "relations": [
+    {
+      "rel": "System.LinkTypes.Hierarchy-Reverse",
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113005",
+      "attributes": {
+        "isLocked": false,
+        "name": "Parent"
+      }
+    },
+    {
+      "rel": "System.LinkTypes.Related",
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113130",
+      "attributes": {
+        "isLocked": false,
+        "comment": "Ana Maria Lopes Moreira mentioned work item #1113130 in #1113040",
+        "name": "Related"
+      }
+    },
+    {
+      "rel": "System.LinkTypes.Related",
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264",
+      "attributes": {
+        "isLocked": false,
+        "comment": "Paulo Ricardo Castellanos Souza mentioned work item #1113040 in #1164264",
+        "name": "Related"
+      }
+    },
+    {
+      "rel": "System.LinkTypes.Related",
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1136722",
+      "attributes": {
+        "isLocked": false,
+        "comment": "Paulo Ricardo Castellanos Souza mentioned work item #1113040 in #1136722",
+        "name": "Related"
+      }
+    },
+    {
+      "rel": "System.LinkTypes.Related",
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171261",
+      "attributes": {
+        "isLocked": false,
+        "name": "Related"
+      }
+    },
+    {
+      "rel": "System.LinkTypes.Related",
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171262",
+      "attributes": {
+        "isLocked": false,
+        "name": "Related"
+      }
+    },
+    {
+      "rel": "System.LinkTypes.Related",
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1171260",
+      "attributes": {
+        "isLocked": false,
+        "name": "Related"
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113040"
+    },
+    "workItemUpdates": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113040/updates"
+    },
+    "workItemRevisions": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113040/revisions"
+    },
+    "workItemComments": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113040/comments"
+    },
+    "html": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_workitems/edit/1113040"
+    },
+    "workItemType": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItemTypes/User%20Story"
+    },
+    "fields": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/fields"
+    }
+  },
+  "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113040"
+}

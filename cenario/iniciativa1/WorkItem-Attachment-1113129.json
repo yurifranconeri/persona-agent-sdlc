@@ -1,0 +1,135 @@
+{
+  "id": 1113129,
+  "rev": 10,
+  "fields": {
+    "System.Id": 1113129,
+    "System.AreaId": 15073,
+    "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+    "System.TeamProject": "Projeto_Service_Creation",
+    "System.NodeName": "Waterfall",
+    "System.AreaLevel1": "Projeto_Service_Creation",
+    "System.AreaLevel2": "Waterfall",
+    "System.Rev": 10,
+    "System.AuthorizedDate": "2026-03-10T20:18:22.787Z",
+    "System.RevisedDate": "9999-01-01T00:00:00Z",
+    "System.IterationId": 15074,
+    "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+    "System.IterationLevel1": "Projeto_Service_Creation",
+    "System.IterationLevel2": "Waterfall",
+    "System.WorkItemType": "Attachment",
+    "System.State": "New",
+    "System.Reason": "Moved to state New",
+    "System.CreatedDate": "2025-09-05T21:28:05.007Z",
+    "System.CreatedBy": {
+      "displayName": "Ana Maria Lopes Moreira",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        }
+      },
+      "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+      "uniqueName": "amlmoreira@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+      "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+    },
+    "System.ChangedDate": "2026-03-10T20:18:22.787Z",
+    "System.ChangedBy": {
+      "displayName": "Karyne Vianna Carmo Gallindo",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/51c4e8bb-e040-6a63-9255-47a18d9f27bb",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTFjNGU4YmItZTA0MC03YTYzLTkyNTUtNDdhMThkOWYyN2Ji"
+        }
+      },
+      "id": "51c4e8bb-e040-6a63-9255-47a18d9f27bb",
+      "uniqueName": "kgallindo@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTFjNGU4YmItZTA0MC03YTYzLTkyNTUtNDdhMThkOWYyN2Ji",
+      "descriptor": "aad.NTFjNGU4YmItZTA0MC03YTYzLTkyNTUtNDdhMThkOWYyN2Ji"
+    },
+    "System.AuthorizedAs": {
+      "displayName": "Karyne Vianna Carmo Gallindo",
+      "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/51c4e8bb-e040-6a63-9255-47a18d9f27bb",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTFjNGU4YmItZTA0MC03YTYzLTkyNTUtNDdhMThkOWYyN2Ji"
+        }
+      },
+      "id": "51c4e8bb-e040-6a63-9255-47a18d9f27bb",
+      "uniqueName": "kgallindo@timbrasil.com.br",
+      "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTFjNGU4YmItZTA0MC03YTYzLTkyNTUtNDdhMThkOWYyN2Ji",
+      "descriptor": "aad.NTFjNGU4YmItZTA0MC03YTYzLTkyNTUtNDdhMThkOWYyN2Ji"
+    },
+    "System.PersonId": 178130828,
+    "System.Watermark": 10277296,
+    "System.CommentCount": 0,
+    "System.Title": "Anexo I - Briefing de Produto",
+    "System.BoardColumn": "Nova História",
+    "System.BoardColumnDone": false,
+    "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:28:05.007Z",
+    "Microsoft.VSTS.Common.StackRank": 1999968311,
+    "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_System.ExtensionMarker": true,
+    "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": "Nova História",
+    "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column.Done": false,
+    "WEF_6A90BA7654184152A40A047264929C2B_System.ExtensionMarker": false,
+    "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+    "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+    "WEF_9AF75E9B122F4B3D930B1F13DAC87080_System.ExtensionMarker": false,
+    "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+    "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+    "WEF_B8F49C4800FF47C8A90FA6B6096F254F_System.ExtensionMarker": false,
+    "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+    "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+    "System.Parent": 1113128
+  },
+  "multilineFieldsFormat": {
+
+  },
+  "relations": [
+    {
+      "rel": "System.LinkTypes.Hierarchy-Reverse",
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113128",
+      "attributes": {
+        "isLocked": false,
+        "name": "Parent"
+      }
+    },
+    {
+      "rel": "AttachedFile",
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/attachments/39969d89-93b6-42f7-aa62-43bb73ba80b1",
+      "attributes": {
+        "authorizedDate": "2025-10-13T14:03:37.413Z",
+        "id": 28163390,
+        "resourceCreatedDate": "2025-09-05T21:29:12.373Z",
+        "resourceModifiedDate": "2025-09-05T21:29:12.373Z",
+        "revisedDate": "9999-01-01T00:00:00Z",
+        "resourceSize": 2351995,
+        "name": "TIM_Service Creation_Briefing INTELSAT Recuperação de Senha.pptx"
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113129"
+    },
+    "workItemUpdates": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113129/updates"
+    },
+    "workItemRevisions": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113129/revisions"
+    },
+    "workItemComments": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113129/comments"
+    },
+    "html": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_workitems/edit/1113129"
+    },
+    "workItemType": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItemTypes/Attachment"
+    },
+    "fields": {
+      "href": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/fields"
+    }
+  },
+  "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113129"
+}

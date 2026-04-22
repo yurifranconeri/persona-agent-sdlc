@@ -1,0 +1,3 @@
+﻿connectionReferences:
+  - connectionReferenceLogicalName: pa_sarah.shared_visualstudioteamservices.a68b400fbef4420aa71de1da58ee2175
+    connectorId: /providers/Microsoft.PowerApps/apis/shared_visualstudioteamservices

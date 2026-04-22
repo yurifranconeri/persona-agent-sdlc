@@ -1,0 +1,115 @@
+mcs.metadata:
+  componentName: Escalar
+  description: |-
+    Este tópico de sistema é acionado quando o utilizador indica que pretende falar com um representante.
+    É possível configurar a forma como o agente vai processar cenários de transferência para seres humanos nas definições do agente.
+    Se o agente não processar escalamentos, este tópico deve ser desativado.
+kind: AdaptiveDialog
+startBehavior: CancelOtherTopics
+beginDialog:
+  kind: OnEscalate
+  id: main
+  intent:
+    displayName: Escalar
+    includeInOnSelectIntent: false
+    triggerQueries:
+      - Falar com um agente
+      - Conversar com um agente
+      - Falar com uma pessoa
+      - Conversar com uma pessoa
+      - Falar com alguém
+      - Conversar com alguém
+      - Chamada de retorno
+      - Devolver chamada
+      - Ligar para o suporte ao cliente
+      - Telefonar para o suporte ao cliente
+      - Falar com o suporte ao cliente
+      - Ligue-me
+      - Liguem-me de volta
+      - Telefonem-me
+      - Contactar o suporte
+      - Contactar a assistência
+      - Contactar o suporte técnico
+      - Ligar para o suporte técnico
+      - Posso ser contactado por telefone por um agente?
+      - Posso ser contactada por telefone por um agente?
+      - Posso receber um telefonema de um agente?
+      - Posso ligar?
+      - Posso telefonar?
+      - Posso entrar em contacto com outra pessoa?
+      - Posso falar com outra pessoa?
+      - Posso obter suporte de um agente real?
+      - Posso falar com um agente real?
+      - Posso ser transferido para falar com uma pessoa?
+      - Posso falar com uma pessoa?
+      - Podem telefonar-me?
+      - Podem ligar-me?
+      - Posso ser contactado por um representante?
+      - Posso ser contactada por um representante?
+      - Posso agendar uma chamada?
+      - Posso marcar uma chamada?
+      - Posso falar com um representante?
+      - Posso falar com um ser humano?
+      - Posso falar com um assistente humano?
+      - Alguém pode ligar?
+      - Quero que alguém me ligue
+      - Quero que alguém me telefone
+      - Falar por chat com um ser humano
+      - Conversar com um ser humano
+      - Falar com um ser humano
+      - Falar por chat com uma pessoa
+      - Conversar por chat com um representante
+      - Falar com um representante
+      - Conversar com um representante
+      - Conversar por chat com um agente
+      - Conversar por chat com alguém
+      - Ligar-me a um agente em direto
+      - Ligue-me a um agente em direto
+      - Liga-me a um agente em direto
+      - Ligar-me a uma pessoa
+      - Ligue-me a uma pessoa
+      - Liga-me a uma pessoa
+      - Alguém poderia entrar em contacto comigo por telefone
+      - Quero falar com alguém por telefone
+      - Agente do cliente
+      - Agente de suporte ao cliente
+      - Agente de assistência ao cliente
+      - Representante do cliente
+      - Representante de suporte ao cliente
+      - Representante de assistência ao cliente
+      - Suporte ao cliente
+      - Assistência ao cliente
+      - Quero ser contactado por um gestor
+      - Quero ser contactada por um gestor
+      - Preciso de suporte ao cliente
+      - Preciso de assistência ao cliente
+      - Preciso da ajuda de uma pessoa
+      - Quero ser ajudado por uma pessoa
+      - Quero ser ajudada por uma pessoa
+      - Quero falar com um agente em direto
+      - Preciso de falar com um agente em direto
+      - Preciso falar com um especialista
+      - Quero falar com um especialista
+      - Quero falar com o suporte ao cliente
+      - Quero falar com a assistência ao cliente
+      - Quero continuar com o suporte em tempo real
+      - Quero falar com o suporte em direto
+      - Quero falar com um consultor
+      - Quero falar com um assessor
+      - Quero falar com um técnico em tempo real
+      - Quero falar com um técnico em direto
+      - Gostaria de falar com um associado
+      - Quero falar com um associado
+      - Gostaria de falar com um técnico
+      - Quero falar com um técnico
+      - Falar com um membro do suporte técnico
+      - Falar com alguém do suporte técnico
+
+  actions:
+    - kind: SendActivity
+      id: sendMessage_s39DCt
+      conversationOutcome: Escalated
+      activity: |-
+        O escalamento para um representante não está atualmente configurado para este copiloto. No entanto, é aqui que o agente poderá fornecer informações sobre outra forma de entrar em contacto com alguém.
+
+        Posso ajudar em mais alguma coisa?

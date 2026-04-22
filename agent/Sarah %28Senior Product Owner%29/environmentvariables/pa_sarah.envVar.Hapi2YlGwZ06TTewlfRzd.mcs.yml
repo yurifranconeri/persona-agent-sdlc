@@ -1,0 +1,11 @@
+kind: EnvironmentVariableDefinition
+version: 9011683
+schemaName: pa_sarah.envVar.Hapi2YlGwZ06TTewlfRzd
+id: 81472357-97c7-4f2b-a516-20a1439b1698
+valueComponent:
+  version: 9011684
+  id: 00d6bb47-1734-f111-88b5-000d3a344218
+  definitionId: 81472357-97c7-4f2b-a516-20a1439b1698
+  value: AzureDevOps2602031845
+
+type: String

@@ -1,0 +1,20 @@
+mcs.metadata:
+  componentName: Agradecimento
+  description: Este tópico é acionado quando o utilizador agradece.
+kind: AdaptiveDialog
+beginDialog:
+  kind: OnRecognizedIntent
+  id: main
+  intent:
+    displayName: Agradecimento
+    includeInOnSelectIntent: false
+    triggerQueries:
+      - obrigado
+      - obrigada
+      - muito obrigado
+      - muito obrigada
+
+  actions:
+    - kind: SendActivity
+      id: sendMessage_9iz6v7
+      activity: De nada.

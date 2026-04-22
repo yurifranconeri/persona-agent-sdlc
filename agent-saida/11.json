@@ -1,0 +1,73 @@
+{
+  "id": 11,
+  "rev": 1,
+  "fields": {
+    "System.AreaPath": "PersonaAgents",
+    "System.TeamProject": "PersonaAgents",
+    "System.IterationPath": "PersonaAgents",
+    "System.WorkItemType": "User Story",
+    "System.State": "New",
+    "System.Reason": "New",
+    "System.CreatedDate": "2026-04-22T14:53:49.337Z",
+    "System.CreatedBy": {
+      "displayName": "Alex Wilber",
+      "url": "https://spsprodsbr2.vssps.visualstudio.com/A15dff1ec-8d0a-4622-a696-45514319fea2/_apis/Identities/ab931f59-3259-6171-b986-8ce49cd80148",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+        }
+      },
+      "id": "ab931f59-3259-6171-b986-8ce49cd80148",
+      "uniqueName": "AlexW@M365x29712447.OnMicrosoft.com",
+      "imageUrl": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4",
+      "descriptor": "aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+    },
+    "System.ChangedDate": "2026-04-22T14:53:49.337Z",
+    "System.ChangedBy": {
+      "displayName": "Alex Wilber",
+      "url": "https://spsprodsbr2.vssps.visualstudio.com/A15dff1ec-8d0a-4622-a696-45514319fea2/_apis/Identities/ab931f59-3259-6171-b986-8ce49cd80148",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+        }
+      },
+      "id": "ab931f59-3259-6171-b986-8ce49cd80148",
+      "uniqueName": "AlexW@M365x29712447.OnMicrosoft.com",
+      "imageUrl": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4",
+      "descriptor": "aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+    },
+    "System.CommentCount": 0,
+    "System.Title": "RF002 – Direcionamento para Funcionalidade de Reset de Senha via IDM",
+    "Microsoft.VSTS.Common.StateChangeDate": "2026-04-22T14:53:49.337Z",
+    "Microsoft.VSTS.Common.Priority": 2,
+    "Microsoft.VSTS.Common.ValueArea": "Business",
+    "System.Description": "## User Story\n\n**Como** cliente TIM utilizando o serviço Inflight (IntelSat),\n**Quero** ser redirecionado para a página de reset de senha da TIM ao clicar no botão,\n**Para que** eu consiga resgatar minha senha dos canais digitais sem sair da jornada Inflight.\n\n## Detalhamento (RF002)\n\nO botão criado no RF001 deverá direcionar o utilizador para realizar o resgate da sua senha através do serviço de reset de senha do IDM.\n\n### URL do Serviço\n```\nhttps://auth3.tim.com.br/webapp-resetSenha/forgotPassword?layout=meutimapp&amp;loginType=USER&amp;channel=4\n```\n\n**Nota**: Os documentos indicam que TI precisa validar qual será o melhor caminho/URL. A URL acima é a mesma utilizada pelo APP Beta. Pendência de confirmação com TI.\n\n### Fluxo Principal (C01 – Resgate de Senha)\n1. Utilizador na aplicação Inflight\n2. Utilizador não sabe a senha dos Canais Digitais da TIM\n3. Utilizador seleciona a opção &quot;Esqueci minha senha&quot;\n4. Aplicação apresenta a tela de resgate de senha\n5. Utilizador informa o MSISDN\n6. Utilizador recebe a senha dos canais digitais por SMS\n7. Retorna para aplicação Inflight\n\n### Fluxo Alternativo – Erro no Resgate\n1. Ocorre erro no resgate da Senha\n2. Utilizador deve recuperar senha no APP TIM\n3. Fim do caso de uso\n\n## Regra de Negócio\n- **RN001**: Utilizar serviço de Reset de Senha do IDM\n\n## Critérios de Aceitação\n1. O clique no botão deve abrir a Webview de reset de senha na URL definida\n2. O utilizador deve conseguir informar o MSISDN na página de reset\n3. O SMS com a senha deve ser encaminhado com sucesso\n4. Em caso de erro, deve ser exibida orientação para recuperar senha no APP TIM\n\n## Parent Feature\nFeature #9 – Integração Reset de Senha na Jornada Inflight IntelSat"
+  },
+  "multilineFieldsFormat": {
+    "System.Description": "html"
+  },
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/11"
+    },
+    "workItemUpdates": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/11/updates"
+    },
+    "workItemRevisions": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/11/revisions"
+    },
+    "workItemComments": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/11/comments"
+    },
+    "html": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_workitems/edit/11"
+    },
+    "workItemType": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItemTypes/User%20Story"
+    },
+    "fields": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/fields"
+    }
+  },
+  "url": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/11"
+}

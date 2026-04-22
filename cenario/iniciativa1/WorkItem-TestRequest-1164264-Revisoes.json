@@ -1,0 +1,2828 @@
+{
+  "count": 24,
+  "value": [
+    {
+      "id": 1164264,
+      "rev": 1,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Em Digitação",
+        "System.Reason": "Moved to state Em Digitação",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-10-23T19:55:41.677Z",
+        "System.ChangedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "CodigoDemanda.TIMDM": "251078031",
+        "BugCCCGroup.TIMDM": "VAS",
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.AnoDoTeste": 2025,
+        "Custom.FlagUAT": false,
+        "Custom.AnoDemanda": 2025,
+        "Custom.ChavePowerBI": false,
+        "Custom.MDRetesteTransbordo": 1,
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "System.History": "Copied from #1113040",
+        "Custom.KitsEntregues": "NOT OK",
+        "Custom.CenariosEntregues": "NOT OK",
+        "Custom.TipoTeste": "IT",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight - Copy",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-10-23T19:55:41.677Z",
+        "BugVendor.TIMDM": ".NÃO IDENTIFICADO",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html",
+        "System.History": "html"
+      },
+      "commentVersionRef": {
+        "commentId": 16854946,
+        "version": 1,
+        "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/comments/16854946/versions/1"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/1"
+    },
+    {
+      "id": 1164264,
+      "rev": 2,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Novo",
+        "System.Reason": "Moved to state Novo",
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-10-24T12:25:41.77Z",
+        "System.ChangedBy": {
+          "displayName": "Fernanda Rodrigues de Oliveira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/35cfc099-830a-60ff-a51e-9e7214e4c996",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MzVjZmMwOTktODMwYS03MGZmLWE1MWUtOWU3MjE0ZTRjOTk2"
+            }
+          },
+          "id": "35cfc099-830a-60ff-a51e-9e7214e4c996",
+          "uniqueName": "frooliveira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MzVjZmMwOTktODMwYS03MGZmLWE1MWUtOWU3MjE0ZTRjOTk2",
+          "descriptor": "aad.MzVjZmMwOTktODMwYS03MGZmLWE1MWUtOWU3MjE0ZTRjOTk2"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "CodigoDemanda.TIMDM": "251078031",
+        "BugCCCGroup.TIMDM": "VAS",
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.AnoDoTeste": 2025,
+        "Custom.FlagUAT": false,
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.AnoDemanda": 2025,
+        "Custom.ChavePowerBI": false,
+        "Custom.MDRetesteTransbordo": 1,
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Custom.KitsEntregues": "NOT OK",
+        "Custom.CenariosEntregues": "NOT OK",
+        "Custom.TipoTeste": "IT",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight - Copy",
+        "BugVendor.TIMDM": "FQA - InMetrics",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Piettro Melo Oliveira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9e731ed8-3c4f-61be-839f-d63538aff224",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OWU3MzFlZDgtM2M0Zi03MWJlLTgzOWYtZDYzNTM4YWZmMjI0"
+            }
+          },
+          "id": "9e731ed8-3c4f-61be-839f-d63538aff224",
+          "uniqueName": "T3497763@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OWU3MzFlZDgtM2M0Zi03MWJlLTgzOWYtZDYzNTM4YWZmMjI0",
+          "descriptor": "aad.OWU3MzFlZDgtM2M0Zi03MWJlLTgzOWYtZDYzNTM4YWZmMjI0"
+        },
+        "Custom.FabricaDeTestes": "FQA - InMetrics",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-10-24T12:25:41.77Z",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/2"
+    },
+    {
+      "id": 1164264,
+      "rev": 3,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Registrada",
+        "System.Reason": "Moved to state Registrada",
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-10-24T12:25:55.33Z",
+        "System.ChangedBy": {
+          "displayName": "AzDevOpsServ_PRD",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+            }
+          },
+          "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+          "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+          "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugCCCGroup.TIMDM": "VAS",
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.AnoDoTeste": 2025,
+        "Custom.FlagUAT": false,
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.AnoDemanda": 2025,
+        "Custom.ChavePowerBI": false,
+        "Custom.MDRetesteTransbordo": 1,
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Custom.KitsEntregues": "NOT OK",
+        "Custom.CenariosEntregues": "NOT OK",
+        "Custom.TipoTeste": "IT",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight - Copy",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-10-24T12:25:55.33Z",
+        "BugVendor.TIMDM": "FQA - InMetrics",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Piettro Melo Oliveira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9e731ed8-3c4f-61be-839f-d63538aff224",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OWU3MzFlZDgtM2M0Zi03MWJlLTgzOWYtZDYzNTM4YWZmMjI0"
+            }
+          },
+          "id": "9e731ed8-3c4f-61be-839f-d63538aff224",
+          "uniqueName": "T3497763@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OWU3MzFlZDgtM2M0Zi03MWJlLTgzOWYtZDYzNTM4YWZmMjI0",
+          "descriptor": "aad.OWU3MzFlZDgtM2M0Zi03MWJlLTgzOWYtZDYzNTM4YWZmMjI0"
+        },
+        "Custom.FabricaDeTestes": "FQA - InMetrics",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/3"
+    },
+    {
+      "id": 1164264,
+      "rev": 4,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Registrada",
+        "System.Reason": "Moved to state Registrada",
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-10-27T17:11:35.903Z",
+        "System.ChangedBy": {
+          "displayName": "Meire Goncalves Luksaitis",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/e1ab541c-9965-6826-b227-231ea6b30e65",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.ZTFhYjU0MWMtOTk2NS03ODI2LWIyMjctMjMxZWE2YjMwZTY1"
+            }
+          },
+          "id": "e1ab541c-9965-6826-b227-231ea6b30e65",
+          "uniqueName": "mluksaitis@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.ZTFhYjU0MWMtOTk2NS03ODI2LWIyMjctMjMxZWE2YjMwZTY1",
+          "descriptor": "aad.ZTFhYjU0MWMtOTk2NS03ODI2LWIyMjctMjMxZWE2YjMwZTY1"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.AnoDoTeste": 2025,
+        "Custom.FlagUAT": false,
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.MDRetesteTransbordo": 1,
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Custom.KitsEntregues": "NOT OK",
+        "Custom.CenariosEntregues": "NOT OK",
+        "Custom.TipoTeste": "IT",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight - Copy",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-10-24T12:25:55.33Z",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/4"
+    },
+    {
+      "id": 1164264,
+      "rev": 5,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Registrada",
+        "System.Reason": "Moved to state Registrada",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-10-27T17:31:43.343Z",
+        "System.ChangedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.AnoDoTeste": 2025,
+        "Custom.FlagUAT": false,
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.MDRetesteTransbordo": 1,
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Custom.KitsEntregues": "NOT OK",
+        "Custom.CenariosEntregues": "NOT OK",
+        "Custom.TipoTeste": "IT",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight - Copy",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-10-24T12:25:55.33Z",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/5"
+    },
+    {
+      "id": 1164264,
+      "rev": 6,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Registrada",
+        "System.Reason": "Moved to state Registrada",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-10-27T17:40:44.42Z",
+        "System.ChangedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.AnoDoTeste": 2025,
+        "Custom.FlagUAT": false,
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaBOQs": "832868",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Custom.KitsEntregues": "NOT OK",
+        "Custom.CenariosEntregues": "NOT OK",
+        "Custom.TipoTeste": "IT",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight - Copy",
+        "Custom.ValorPO": 194270,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-10-24T12:25:55.33Z",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/6"
+    },
+    {
+      "id": 1164264,
+      "rev": 7,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Registrada",
+        "System.Reason": "Moved to state Registrada",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-10-27T17:42:22.96Z",
+        "System.ChangedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.AnoDoTeste": 2025,
+        "Custom.FlagUAT": false,
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaPOs": "4504614557",
+        "Custom.ListaBOQs": "832868",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Custom.KitsEntregues": "NOT OK",
+        "Custom.CenariosEntregues": "NOT OK",
+        "Custom.TipoTeste": "IT",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight - Copy",
+        "Custom.ValorPO": 194270,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-10-24T12:25:55.33Z",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/7"
+    },
+    {
+      "id": 1164264,
+      "rev": 8,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Aguardando Planejamento",
+        "System.Reason": "Moved to state Aguardando Planejamento",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-10-29T16:59:38.23Z",
+        "System.ChangedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.DTPrevistaKIT": "2025-11-11T03:00:00Z",
+        "Custom.DTPrevistaCenario": "2025-10-27T03:00:00Z",
+        "Custom.DTPrevistaRollOutProd": "2025-11-24T03:00:00Z",
+        "Custom.AnoDoTeste": 2025,
+        "Custom.DataTerminoPrevisto": "2025-11-21T03:00:00Z",
+        "Custom.FlagUAT": false,
+        "Custom.DataInicioPrevisto": "2025-11-13T03:00:00Z",
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaPOs": "4504614557",
+        "Custom.ListaBOQs": "832868",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Custom.KitsEntregues": "NOT OK",
+        "Custom.CenariosEntregues": "NOT OK",
+        "Custom.TipoTeste": "IT",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight - Copy",
+        "Custom.ValorPO": 194270,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-10-29T16:59:38.23Z",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/8"
+    },
+    {
+      "id": 1164264,
+      "rev": 9,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Aguardando Planejamento",
+        "System.Reason": "Moved to state Aguardando Planejamento",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-10-29T17:12:43.84Z",
+        "System.ChangedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.DTPrevistaKIT": "2025-11-11T03:00:00Z",
+        "Custom.DTPrevistaCenario": "2025-10-27T03:00:00Z",
+        "Custom.DTPrevistaRollOutProd": "2025-11-24T03:00:00Z",
+        "Custom.AnoDoTeste": 2025,
+        "Custom.DataInicioPlanejado": "2025-11-13T03:00:00Z",
+        "Custom.8f947873-0e2f-4c45-9175-dbfdb5a12ec6": "2025-11-21T03:00:00Z",
+        "Custom.DataTerminoPrevisto": "2025-11-21T03:00:00Z",
+        "Custom.FlagUAT": false,
+        "Custom.DataInicioPrevisto": "2025-11-13T03:00:00Z",
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaPOs": "4504614557",
+        "Custom.ListaBOQs": "832868",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Custom.KitsEntregues": "NOT OK",
+        "Custom.CenariosEntregues": "NOT OK",
+        "Custom.TipoTeste": "IT",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight - Copy",
+        "Custom.ValorPO": 194270,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-10-29T16:59:38.23Z",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/9"
+    },
+    {
+      "id": 1164264,
+      "rev": 10,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Planejada",
+        "System.Reason": "Moved to state Planejada",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-10-29T17:13:56.587Z",
+        "System.ChangedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugOwnerCCC.TIMDM": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.DTPrevistaKIT": "2025-11-11T03:00:00Z",
+        "Custom.DTPrevistaCenario": "2025-10-27T03:00:00Z",
+        "Custom.DTPrevistaRollOutProd": "2025-11-24T03:00:00Z",
+        "Custom.AnoDoTeste": 2025,
+        "Custom.DataInicioPlanejado": "2025-11-13T03:00:00Z",
+        "Custom.8f947873-0e2f-4c45-9175-dbfdb5a12ec6": "2025-11-21T03:00:00Z",
+        "Custom.DataTerminoPrevisto": "2025-11-21T03:00:00Z",
+        "Custom.EquipeResponsavelFQA": "FQA - Atos",
+        "Custom.FlagUAT": false,
+        "Custom.DataInicioPrevisto": "2025-11-13T03:00:00Z",
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaPOs": "4504614557",
+        "Custom.ListaBOQs": "832868",
+        "Custom.QAChapter": "Não",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Custom.KitsEntregues": "NOT OK",
+        "Custom.CenariosEntregues": "NOT OK",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-10-29T17:13:56.587Z",
+        "Custom.TipoTeste": "IT",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight - Copy",
+        "Custom.ValorPO": 194270,
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/10"
+    },
+    {
+      "id": 1164264,
+      "rev": 11,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Planejada",
+        "System.Reason": "Moved to state Planejada",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-10-29T17:25:02.34Z",
+        "System.ChangedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugOwnerCCC.TIMDM": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.DTPrevistaKIT": "2025-11-11T03:00:00Z",
+        "Custom.DTPrevistaCenario": "2025-10-27T03:00:00Z",
+        "Custom.DTPrevistaRollOutProd": "2025-11-24T03:00:00Z",
+        "Custom.AnoDoTeste": 2025,
+        "Custom.DataInicioPlanejado": "2025-11-13T03:00:00Z",
+        "Custom.8f947873-0e2f-4c45-9175-dbfdb5a12ec6": "2025-11-21T03:00:00Z",
+        "Custom.DataTerminoPrevisto": "2025-11-21T03:00:00Z",
+        "Custom.EquipeResponsavelFQA": "FQA - Atos",
+        "Custom.FlagUAT": false,
+        "Custom.DataInicioPrevisto": "2025-11-13T03:00:00Z",
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaPOs": "4504614557",
+        "Custom.ListaBOQs": "832868",
+        "Custom.QAChapter": "Não",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Custom.KitsEntregues": "NOT OK",
+        "Custom.CenariosEntregues": "NOT OK",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-10-29T17:13:56.587Z",
+        "Custom.TipoTeste": "IT",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight - Copy",
+        "Custom.ValorPO": 194270,
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/11"
+    },
+    {
+      "id": 1164264,
+      "rev": 12,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Planejada",
+        "System.Reason": "Moved to state Planejada",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-10-29T18:58:10.327Z",
+        "System.ChangedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugOwnerCCC.TIMDM": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.DTPrevistaKIT": "2025-11-11T03:00:00Z",
+        "Custom.DTPrevistaCenario": "2025-10-27T03:00:00Z",
+        "Custom.DTPrevistaRollOutProd": "2025-11-24T03:00:00Z",
+        "Custom.AnoDoTeste": 2025,
+        "Custom.DataInicioPlanejado": "2025-11-13T03:00:00Z",
+        "Custom.8f947873-0e2f-4c45-9175-dbfdb5a12ec6": "2025-11-21T03:00:00Z",
+        "Custom.DataTerminoPrevisto": "2025-11-21T03:00:00Z",
+        "Custom.EquipeResponsavelFQA": "FQA - Atos",
+        "Custom.FlagUAT": false,
+        "Custom.DataInicioPrevisto": "2025-11-13T03:00:00Z",
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaPOs": "4504614557",
+        "Custom.ListaBOQs": "832868",
+        "Custom.QAChapter": "Não",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Custom.KitsEntregues": "NOT OK",
+        "Custom.CenariosEntregues": "NOT OK",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-10-29T17:13:56.587Z",
+        "Custom.TipoTeste": "IT",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight - Copy",
+        "Custom.ValorPO": 194270,
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/12"
+    },
+    {
+      "id": 1164264,
+      "rev": 13,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Planejada",
+        "System.Reason": "Moved to state Planejada",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-11-05T18:01:02.513Z",
+        "System.ChangedBy": {
+          "displayName": "Carlos Eduardo de Lima Ribeiro",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/ceb816a7-208e-66a7-922b-0199d8e2aecd",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2ViODE2YTctMjA4ZS03NmE3LTkyMmItMDE5OWQ4ZTJhZWNk"
+            }
+          },
+          "id": "ceb816a7-208e-66a7-922b-0199d8e2aecd",
+          "uniqueName": "cribeiro_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2ViODE2YTctMjA4ZS03NmE3LTkyMmItMDE5OWQ4ZTJhZWNk",
+          "descriptor": "aad.Y2ViODE2YTctMjA4ZS03NmE3LTkyMmItMDE5OWQ4ZTJhZWNk"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugOwnerCCC.TIMDM": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.DTPrevistaKIT": "2025-11-11T03:00:00Z",
+        "Custom.DTPrevistaCenario": "2025-10-27T03:00:00Z",
+        "Custom.DTPrevistaRollOutProd": "2025-11-24T03:00:00Z",
+        "Custom.AnoDoTeste": 2025,
+        "Custom.DataInicioPlanejado": "2025-11-13T03:00:00Z",
+        "Custom.8f947873-0e2f-4c45-9175-dbfdb5a12ec6": "2025-11-21T03:00:00Z",
+        "Custom.DataTerminoPrevisto": "2025-11-21T03:00:00Z",
+        "Custom.EquipeResponsavelFQA": "FQA - Atos",
+        "Custom.FlagUAT": false,
+        "Custom.DataInicioPrevisto": "2025-11-13T03:00:00Z",
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaPOs": "4504614557",
+        "Custom.ListaDemandaPag": "251078031 ",
+        "Custom.ListaIDValoracao": "1117168",
+        "Custom.ValorPO": 2000.72,
+        "Custom.ListaBOQs": "832868",
+        "Custom.QAChapter": "Não",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Custom.KitsEntregues": "NOT OK",
+        "Custom.CenariosEntregues": "NOT OK",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-10-29T17:13:56.587Z",
+        "Custom.TipoTeste": "IT",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight - Copy",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/13"
+    },
+    {
+      "id": 1164264,
+      "rev": 14,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Planejada",
+        "System.Reason": "Moved to state Planejada",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-11-10T12:16:36.07Z",
+        "System.ChangedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight",
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugOwnerCCC.TIMDM": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.DTPrevistaKIT": "2025-11-11T03:00:00Z",
+        "Custom.DTPrevistaCenario": "2025-10-27T03:00:00Z",
+        "Custom.DTPrevistaRollOutProd": "2025-11-24T03:00:00Z",
+        "Custom.AnoDoTeste": 2025,
+        "Custom.DataInicioPlanejado": "2025-11-13T03:00:00Z",
+        "Custom.8f947873-0e2f-4c45-9175-dbfdb5a12ec6": "2025-11-21T03:00:00Z",
+        "Custom.DataTerminoPrevisto": "2025-11-21T03:00:00Z",
+        "Custom.EquipeResponsavelFQA": "FQA - Atos",
+        "Custom.FlagUAT": false,
+        "Custom.DataInicioPrevisto": "2025-11-13T03:00:00Z",
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaPOs": "4504614557",
+        "Custom.ListaDemandaPag": "251078031 ",
+        "Custom.ListaIDValoracao": "1117168",
+        "Custom.ValorPO": 2000.72,
+        "Custom.ListaBOQs": "832868",
+        "Custom.QAChapter": "Não",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Custom.KitsEntregues": "NOT OK",
+        "Custom.CenariosEntregues": "NOT OK",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-10-29T17:13:56.587Z",
+        "Custom.TipoTeste": "IT",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/14"
+    },
+    {
+      "id": 1164264,
+      "rev": 15,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Planejada",
+        "System.Reason": "Moved to state Planejada",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-11-11T18:35:13.87Z",
+        "System.ChangedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight",
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugOwnerCCC.TIMDM": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.DTPrevistaKIT": "2025-11-11T03:00:00Z",
+        "Custom.DTPrevistaCenario": "2025-10-27T03:00:00Z",
+        "Custom.DTPrevistaRollOutProd": "2025-11-24T03:00:00Z",
+        "Custom.AnoDoTeste": 2025,
+        "Custom.DataInicioPlanejado": "2025-11-13T03:00:00Z",
+        "Custom.8f947873-0e2f-4c45-9175-dbfdb5a12ec6": "2025-11-21T03:00:00Z",
+        "Custom.DataTerminoPrevisto": "2025-11-21T03:00:00Z",
+        "Custom.EquipeResponsavelFQA": "FQA - Atos",
+        "Custom.FlagUAT": false,
+        "Custom.DataInicioPrevisto": "2025-11-13T03:00:00Z",
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaPOs": "4504614557",
+        "Custom.ListaDemandaPag": "251078031 ",
+        "Custom.ListaIDValoracao": "1117168",
+        "Custom.TipoTeste": "UAT",
+        "Custom.ValorPO": 2000.72,
+        "Custom.ListaBOQs": "832868",
+        "Custom.QAChapter": "Não",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Custom.KitsEntregues": "NOT OK",
+        "Custom.CenariosEntregues": "NOT OK",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-10-29T17:13:56.587Z",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/15"
+    },
+    {
+      "id": 1164264,
+      "rev": 16,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Em Andamento",
+        "System.Reason": "Moved to state Em Andamento",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-11-13T14:24:24.8Z",
+        "System.ChangedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight",
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugOwnerCCC.TIMDM": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.DTPrevistaKIT": "2025-11-11T03:00:00Z",
+        "Custom.DTPrevistaCenario": "2025-10-27T03:00:00Z",
+        "Custom.DTPrevistaRollOutProd": "2025-11-24T03:00:00Z",
+        "Custom.AnoDoTeste": 2025,
+        "Custom.DataInicioPlanejado": "2025-11-13T03:00:00Z",
+        "Custom.8f947873-0e2f-4c45-9175-dbfdb5a12ec6": "2025-11-21T03:00:00Z",
+        "Custom.DataTerminoPrevisto": "2025-11-21T03:00:00Z",
+        "Custom.EquipeResponsavelFQA": "FQA - Atos",
+        "Custom.FlagUAT": false,
+        "Custom.DataInicioPrevisto": "2025-11-13T03:00:00Z",
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaPOs": "4504614557",
+        "Custom.ListaDemandaPag": "251078031 ",
+        "Custom.ListaIDValoracao": "1117168",
+        "Custom.TipoTeste": "UAT",
+        "Custom.ValorPO": 2000.72,
+        "Custom.ListaBOQs": "832868",
+        "Custom.QAChapter": "Não",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-11-13T14:24:24.8Z",
+        "Custom.KitsEntregues": "NOT OK",
+        "Custom.CenariosEntregues": "NOT OK",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/16"
+    },
+    {
+      "id": 1164264,
+      "rev": 17,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Em Andamento",
+        "System.Reason": "Moved to state Em Andamento",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-11-17T14:29:40.37Z",
+        "System.ChangedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight",
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugOwnerCCC.TIMDM": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.DTPrevistaKIT": "2025-11-11T03:00:00Z",
+        "Custom.DTPrevistaCenario": "2025-10-27T03:00:00Z",
+        "Custom.DTPrevistaRollOutProd": "2025-11-24T03:00:00Z",
+        "Custom.AnoDoTeste": 2025,
+        "Custom.DataInicioPlanejado": "2025-11-13T03:00:00Z",
+        "Custom.8f947873-0e2f-4c45-9175-dbfdb5a12ec6": "2025-11-21T03:00:00Z",
+        "Custom.DataTerminoPrevisto": "2025-11-21T03:00:00Z",
+        "Custom.EquipeResponsavelFQA": "FQA - Atos",
+        "Custom.FlagUAT": false,
+        "Custom.DataInicioPrevisto": "2025-11-13T03:00:00Z",
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.DataInicioPlanejadoUAT": "2025-11-12T03:00:00Z",
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaPOs": "4504614557",
+        "Custom.ListaDemandaPag": "251078031 ",
+        "Custom.ListaIDValoracao": "1117168",
+        "Custom.TipoTeste": "UAT",
+        "Custom.ValorPO": 2000.72,
+        "Custom.ListaBOQs": "832868",
+        "Custom.QAChapter": "Não",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-11-13T14:24:24.8Z",
+        "Custom.KitsEntregues": "NOT OK",
+        "Custom.CenariosEntregues": "NOT OK",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/17"
+    },
+    {
+      "id": 1164264,
+      "rev": 18,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Em Andamento",
+        "System.Reason": "Moved to state Em Andamento",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-11-24T15:29:05.9Z",
+        "System.ChangedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight",
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugOwnerCCC.TIMDM": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.DTPrevistaKIT": "2025-11-11T03:00:00Z",
+        "Custom.DTPrevistaCenario": "2025-10-27T03:00:00Z",
+        "Custom.DTPrevistaRollOutProd": "2025-11-24T03:00:00Z",
+        "Custom.AnoDoTeste": 2025,
+        "Custom.DataInicioPlanejado": "2025-11-13T03:00:00Z",
+        "Custom.8f947873-0e2f-4c45-9175-dbfdb5a12ec6": "2025-11-21T03:00:00Z",
+        "Custom.DataTerminoPrevisto": "2025-11-21T03:00:00Z",
+        "Custom.EquipeResponsavelFQA": "FQA - Atos",
+        "Custom.FlagUAT": false,
+        "Custom.DataInicioPrevisto": "2025-11-13T03:00:00Z",
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.DataInicioPlanejadoUAT": "2025-11-12T03:00:00Z",
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaPOs": "4504614557",
+        "Custom.ListaDemandaPag": "251078031 ",
+        "Custom.ListaIDValoracao": "1117168",
+        "Custom.TipoTeste": "UAT",
+        "Custom.ValorPO": 2000.72,
+        "Custom.ListaBOQs": "832868",
+        "Custom.QAChapter": "Não",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-11-13T14:24:24.8Z",
+        "Custom.KitsEntregues": "NOT OK",
+        "Custom.CenariosEntregues": "NOT OK",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/18"
+    },
+    {
+      "id": 1164264,
+      "rev": 19,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Closed",
+        "System.Reason": "Moved to state Closed",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-11-24T15:29:56.957Z",
+        "System.ChangedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-11-24T15:29:56.957Z",
+        "Microsoft.VSTS.Common.ClosedDate": "2025-11-24T15:29:56.957Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugOwnerCCC.TIMDM": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.KitsEntregues": "OK",
+        "Custom.CenariosEntregues": "OK",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.MotivoDaConclusao": "Concluída com Sucesso",
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.DTPrevistaKIT": "2025-11-11T03:00:00Z",
+        "Custom.DTPrevistaCenario": "2025-10-27T03:00:00Z",
+        "Custom.DTPrevistaRollOutProd": "2025-11-24T03:00:00Z",
+        "Custom.AnoDoTeste": 2025,
+        "Custom.DataInicioPlanejado": "2025-11-13T03:00:00Z",
+        "Custom.8f947873-0e2f-4c45-9175-dbfdb5a12ec6": "2025-11-21T03:00:00Z",
+        "Custom.DataTerminoPrevisto": "2025-11-21T03:00:00Z",
+        "Custom.DataInicioRealizado": "2025-11-13T03:00:00Z",
+        "Custom.DataTerminoRealizado": "2025-11-18T03:00:00Z",
+        "Custom.DataAprovacaoProjeto": "2025-11-24T15:29:00Z",
+        "Custom.EquipeResponsavelFQA": "FQA - Atos",
+        "Custom.FlagUAT": false,
+        "Custom.DataInicioPrevisto": "2025-11-13T03:00:00Z",
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.DataInicioPlanejadoUAT": "2025-11-12T03:00:00Z",
+        "Custom.DataTerminoPlanejadoUAT": "2025-11-21T03:00:00Z",
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.AuxCloseDate": "2025-11-24T15:29:56.957Z",
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaPOs": "4504614557",
+        "Custom.ListaDemandaPag": "251078031 ",
+        "Custom.ListaIDValoracao": "1117168",
+        "Custom.TipoTeste": "UAT",
+        "Custom.ValorPO": 2000.72,
+        "Custom.ListaBOQs": "832868",
+        "Custom.QAChapter": "Não",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/19"
+    },
+    {
+      "id": 1164264,
+      "rev": 20,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Closed",
+        "System.Reason": "Moved to state Closed",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-12-04T19:13:13.07Z",
+        "System.ChangedBy": {
+          "displayName": "Carlos Eduardo de Lima Ribeiro",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/ceb816a7-208e-66a7-922b-0199d8e2aecd",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2ViODE2YTctMjA4ZS03NmE3LTkyMmItMDE5OWQ4ZTJhZWNk"
+            }
+          },
+          "id": "ceb816a7-208e-66a7-922b-0199d8e2aecd",
+          "uniqueName": "cribeiro_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2ViODE2YTctMjA4ZS03NmE3LTkyMmItMDE5OWQ4ZTJhZWNk",
+          "descriptor": "aad.Y2ViODE2YTctMjA4ZS03NmE3LTkyMmItMDE5OWQ4ZTJhZWNk"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-11-24T15:29:56.957Z",
+        "Microsoft.VSTS.Common.ClosedDate": "2025-11-24T15:29:56.957Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugOwnerCCC.TIMDM": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.KitsEntregues": "OK",
+        "Custom.CenariosEntregues": "OK",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.MotivoDaConclusao": "Concluída com Sucesso",
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.DTPrevistaKIT": "2025-11-11T03:00:00Z",
+        "Custom.DTPrevistaCenario": "2025-10-27T03:00:00Z",
+        "Custom.DTPrevistaRollOutProd": "2025-11-24T03:00:00Z",
+        "Custom.AnoDoTeste": 2025,
+        "Custom.DataInicioPlanejado": "2025-11-13T03:00:00Z",
+        "Custom.8f947873-0e2f-4c45-9175-dbfdb5a12ec6": "2025-11-21T03:00:00Z",
+        "Custom.DataTerminoPrevisto": "2025-11-21T03:00:00Z",
+        "Custom.DataInicioRealizado": "2025-11-13T03:00:00Z",
+        "Custom.DataTerminoRealizado": "2025-11-18T03:00:00Z",
+        "Custom.DataAprovacaoProjeto": "2025-11-24T15:29:00Z",
+        "Custom.EquipeResponsavelFQA": "FQA - Atos",
+        "Custom.FlagUAT": false,
+        "Custom.DataInicioPrevisto": "2025-11-13T03:00:00Z",
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.DataInicioPlanejadoUAT": "2025-11-12T03:00:00Z",
+        "Custom.DataTerminoPlanejadoUAT": "2025-11-21T03:00:00Z",
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.AuxCloseDate": "2025-11-24T15:29:56.957Z",
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaPOs": "4504614557",
+        "Custom.ListaDemandaPag": "251078031 ",
+        "Custom.ValoracaoPPMBRL": 2000.72,
+        "Custom.ListaIDValoracao": "1117168",
+        "Custom.TipoTeste": "UAT",
+        "Custom.ValorPO": 2000.72,
+        "Custom.ListaBOQs": "832868",
+        "Custom.QAChapter": "Não",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/20"
+    },
+    {
+      "id": 1164264,
+      "rev": 21,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Closed",
+        "System.Reason": "Moved to state Closed",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-12-04T19:13:53.043Z",
+        "System.ChangedBy": {
+          "displayName": "Carlos Eduardo de Lima Ribeiro",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/ceb816a7-208e-66a7-922b-0199d8e2aecd",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2ViODE2YTctMjA4ZS03NmE3LTkyMmItMDE5OWQ4ZTJhZWNk"
+            }
+          },
+          "id": "ceb816a7-208e-66a7-922b-0199d8e2aecd",
+          "uniqueName": "cribeiro_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2ViODE2YTctMjA4ZS03NmE3LTkyMmItMDE5OWQ4ZTJhZWNk",
+          "descriptor": "aad.Y2ViODE2YTctMjA4ZS03NmE3LTkyMmItMDE5OWQ4ZTJhZWNk"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-11-24T15:29:56.957Z",
+        "Microsoft.VSTS.Common.ClosedDate": "2025-11-24T15:29:56.957Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugOwnerCCC.TIMDM": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.KitsEntregues": "OK",
+        "Custom.CenariosEntregues": "OK",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.MotivoDaConclusao": "Concluída com Sucesso",
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.DTPrevistaKIT": "2025-11-11T03:00:00Z",
+        "Custom.DTPrevistaCenario": "2025-10-27T03:00:00Z",
+        "Custom.DTPrevistaRollOutProd": "2025-11-24T03:00:00Z",
+        "Custom.AnoDoTeste": 2025,
+        "Custom.DataInicioPlanejado": "2025-11-13T03:00:00Z",
+        "Custom.8f947873-0e2f-4c45-9175-dbfdb5a12ec6": "2025-11-21T03:00:00Z",
+        "Custom.DataTerminoPrevisto": "2025-11-21T03:00:00Z",
+        "Custom.DataInicioRealizado": "2025-11-13T03:00:00Z",
+        "Custom.DataTerminoRealizado": "2025-11-18T03:00:00Z",
+        "Custom.DataAprovacaoProjeto": "2025-11-24T15:29:00Z",
+        "Custom.ConsumoMandaysDezembro": 21.15,
+        "Custom.EquipeResponsavelFQA": "FQA - Atos",
+        "Custom.FlagUAT": false,
+        "Custom.DataInicioPrevisto": "2025-11-13T03:00:00Z",
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.DataInicioPlanejadoUAT": "2025-11-12T03:00:00Z",
+        "Custom.DataTerminoPlanejadoUAT": "2025-11-21T03:00:00Z",
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.AuxCloseDate": "2025-11-24T15:29:56.957Z",
+        "Custom.MandayDevAferidoTR": 21.15,
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaPOs": "4504614557",
+        "Custom.ListaDemandaPag": "251078031 ",
+        "Custom.ValoracaoPPMBRL": 2000.72,
+        "Custom.ListaIDValoracao": "1117168",
+        "Custom.TipoTeste": "UAT",
+        "Custom.ValorPO": 2000.72,
+        "Custom.ListaBOQs": "832868",
+        "Custom.QAChapter": "Não",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/21"
+    },
+    {
+      "id": 1164264,
+      "rev": 22,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Closed",
+        "System.Reason": "Moved to state Closed",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2025-12-04T19:14:13.363Z",
+        "System.ChangedBy": {
+          "displayName": "Carlos Eduardo de Lima Ribeiro",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/ceb816a7-208e-66a7-922b-0199d8e2aecd",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2ViODE2YTctMjA4ZS03NmE3LTkyMmItMDE5OWQ4ZTJhZWNk"
+            }
+          },
+          "id": "ceb816a7-208e-66a7-922b-0199d8e2aecd",
+          "uniqueName": "cribeiro_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2ViODE2YTctMjA4ZS03NmE3LTkyMmItMDE5OWQ4ZTJhZWNk",
+          "descriptor": "aad.Y2ViODE2YTctMjA4ZS03NmE3LTkyMmItMDE5OWQ4ZTJhZWNk"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-11-24T15:29:56.957Z",
+        "Microsoft.VSTS.Common.ClosedDate": "2025-11-24T15:29:56.957Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugOwnerCCC.TIMDM": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.KitsEntregues": "OK",
+        "Custom.CenariosEntregues": "OK",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.MotivoDaConclusao": "Concluída com Sucesso",
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.DTPrevistaKIT": "2025-11-11T03:00:00Z",
+        "Custom.DTPrevistaCenario": "2025-10-27T03:00:00Z",
+        "Custom.DTPrevistaRollOutProd": "2025-11-24T03:00:00Z",
+        "Custom.AnoDoTeste": 2025,
+        "Custom.DataInicioPlanejado": "2025-11-13T03:00:00Z",
+        "Custom.8f947873-0e2f-4c45-9175-dbfdb5a12ec6": "2025-11-21T03:00:00Z",
+        "Custom.DataTerminoPrevisto": "2025-11-21T03:00:00Z",
+        "Custom.DataInicioRealizado": "2025-11-13T03:00:00Z",
+        "Custom.DataTerminoRealizado": "2025-11-18T03:00:00Z",
+        "Custom.DataAprovacaoProjeto": "2025-11-24T15:29:00Z",
+        "Custom.ConsumoMandaysDezembro": 21.15,
+        "Custom.EquipeResponsavelFQA": "FQA - Atos",
+        "Custom.FlagUAT": false,
+        "Custom.DataInicioPrevisto": "2025-11-13T03:00:00Z",
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.DataInicioPlanejadoUAT": "2025-11-12T03:00:00Z",
+        "Custom.DataTerminoPlanejadoUAT": "2025-11-21T03:00:00Z",
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.AuxCloseDate": "2025-11-24T15:29:56.957Z",
+        "Custom.MandayDevAferidoTR": 21.15,
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaPOs": "4504614557",
+        "Custom.ListaDemandaPag": "251078031 ",
+        "Custom.ValoracaoPPMBRL": 2000.72,
+        "Custom.ListaIDValoracao": "1117168",
+        "Custom.TipoTeste": "UAT",
+        "Custom.ValorPO": 2000.72,
+        "Custom.SaldoPO": 0,
+        "Custom.ListaBOQs": "832868",
+        "Custom.QAChapter": "Não",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/22"
+    },
+    {
+      "id": 1164264,
+      "rev": 23,
+      "fields": {
+        "System.WorkItemType": "Test Request",
+        "System.State": "Closed",
+        "System.Reason": "Moved to state Closed",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2026-01-07T17:08:05.617Z",
+        "System.ChangedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-11-24T15:29:56.957Z",
+        "Microsoft.VSTS.Common.ClosedDate": "2025-11-24T15:29:56.957Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugOwnerCCC.TIMDM": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.AmbientesFQA": "UAT 1",
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.KitsEntregues": "OK",
+        "Custom.CenariosEntregues": "OK",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.MotivoDaConclusao": "Concluída com Sucesso",
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.DTPrevistaKIT": "2025-11-11T03:00:00Z",
+        "Custom.DTPrevistaCenario": "2025-10-27T03:00:00Z",
+        "Custom.DTPrevistaRollOutProd": "2025-11-24T03:00:00Z",
+        "Custom.AnoDoTeste": 2025,
+        "Custom.DataInicioPlanejado": "2025-11-13T03:00:00Z",
+        "Custom.8f947873-0e2f-4c45-9175-dbfdb5a12ec6": "2025-11-21T03:00:00Z",
+        "Custom.DataTerminoPrevisto": "2025-11-21T03:00:00Z",
+        "Custom.DataInicioRealizado": "2025-11-13T03:00:00Z",
+        "Custom.DataTerminoRealizado": "2025-11-18T03:00:00Z",
+        "Custom.DataAprovacaoProjeto": "2025-11-24T15:29:00Z",
+        "Custom.ConsumoMandaysDezembro": 21.15,
+        "Custom.EquipeResponsavelFQA": "FQA - Atos",
+        "Custom.FlagUAT": false,
+        "Custom.DataInicioPrevisto": "2025-11-13T03:00:00Z",
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.DataInicioPlanejadoUAT": "2025-11-12T03:00:00Z",
+        "Custom.DataTerminoPlanejadoUAT": "2025-11-21T03:00:00Z",
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.AuxCloseDate": "2025-11-24T15:29:56.957Z",
+        "Custom.MandayDevAferidoTR": 21.15,
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaPOs": "4504614557",
+        "Custom.ListaDemandaPag": "251078031 ",
+        "Custom.ValoracaoPPMBRL": 2000.72,
+        "Custom.ListaIDValoracao": "1117168",
+        "Custom.TipoTeste": "UAT",
+        "Custom.ValorPO": 2000.72,
+        "Custom.SaldoPO": 0,
+        "Custom.ListaBOQs": "832868",
+        "Custom.QAChapter": "Não",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "System.Tags": ""
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/23"
+    },
+    {
+      "id": 1164264,
+      "rev": 24,
+      "fields": {
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.WorkItemType": "Test Request",
+        "System.State": "Closed",
+        "System.Reason": "Moved to state Closed",
+        "System.AssignedTo": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CreatedDate": "2025-10-23T19:55:41.677Z",
+        "System.CreatedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.ChangedDate": "2026-01-07T19:30:30.223Z",
+        "System.ChangedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "System.CommentCount": 1,
+        "System.Title": "Alteração da Fraseologia e Criação do Botão - inFlight",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-11-24T15:29:56.957Z",
+        "Microsoft.VSTS.Common.ClosedDate": "2025-11-24T15:29:56.957Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "CodigoDemanda.TIMDM": "251078031",
+        "CodigoFQA.TIMDM": "TR1164264",
+        "BugOwnerCCC.TIMDM": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "BugCCCGroup.TIMDM": "VAS",
+        "BugVendor.TIMDM": "FQA - ATOS",
+        "TesteCase.ResponsavelFQA.TIMDM": {
+          "displayName": "Anderson Teixeira Abrantes",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+            }
+          },
+          "id": "75f7c81f-4124-6c08-91e9-0e6643e39ba0",
+          "uniqueName": "aabrantes_atos@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw",
+          "descriptor": "aad.NzVmN2M4MWYtNDEyNC03YzA4LTkxZTktMGU2NjQzZTM5YmEw"
+        },
+        "TesteCase.NomeDemanda.TIMDM": "251078031 - Melhorias Resgate Senha inFlight",
+        "QtdeMandaysEstimado.TIMDM": 21.16,
+        "Custom.AmbientesFQA": "UAT 1",
+        "Custom.TipodeRequisicao": "DM",
+        "Custom.KitsEntregues": "OK",
+        "Custom.CenariosEntregues": "OK",
+        "Custom.QtdeReplanejamentos": 0,
+        "Custom.MotivoDaConclusao": "Concluída com Sucesso",
+        "Custom.TipoAlocacao": "Extra",
+        "Custom.FlagRegressao": false,
+        "Custom.FlagIT": false,
+        "Custom.DTPrevistaKIT": "2025-11-11T03:00:00Z",
+        "Custom.DTPrevistaCenario": "2025-10-27T03:00:00Z",
+        "Custom.DTPrevistaRollOutProd": "2025-11-24T03:00:00Z",
+        "Custom.AnoDoTeste": 2025,
+        "Custom.DataInicioPlanejado": "2025-11-13T03:00:00Z",
+        "Custom.8f947873-0e2f-4c45-9175-dbfdb5a12ec6": "2025-11-21T03:00:00Z",
+        "Custom.DataTerminoPrevisto": "2025-11-21T03:00:00Z",
+        "Custom.DataInicioRealizado": "2025-11-13T03:00:00Z",
+        "Custom.DataTerminoRealizado": "2025-11-18T03:00:00Z",
+        "Custom.DataAprovacaoProjeto": "2025-11-24T15:29:00Z",
+        "Custom.ConsumoMandaysDezembro": 21.15,
+        "Custom.EquipeResponsavelFQA": "FQA - Atos",
+        "Custom.FlagUAT": false,
+        "Custom.DataInicioPrevisto": "2025-11-13T03:00:00Z",
+        "Custom.MDHorasExtrasAutorizadas": 0,
+        "Custom.DataInicioPlanejadoUAT": "2025-11-12T03:00:00Z",
+        "Custom.DataTerminoPlanejadoUAT": "2025-11-21T03:00:00Z",
+        "Custom.AnoDemanda": 2025,
+        "Custom.FabricaDeTestes": "FQA - ATOS",
+        "Custom.ChavePowerBI": false,
+        "Custom.AuxCloseDate": "2025-11-24T15:29:56.957Z",
+        "Custom.MandayDevAferidoTR": 21.15,
+        "Custom.MDRetesteTransbordo": 1,
+        "Custom.ListaPOs": "4504614557",
+        "Custom.ListaDemandaPag": "251078031 ",
+        "Custom.ValoracaoPPMBRL": 2000.72,
+        "Custom.ListaIDValoracao": "1117168",
+        "Custom.TipoTeste": "UAT",
+        "Custom.ValorPO": 2000.72,
+        "Custom.SaldoPO": 0,
+        "Custom.ListaBOQs": "832868",
+        "Custom.QAChapter": "Não",
+        "System.Description": "\u003Cdiv\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EExecutar cenárioes de Teste&nbsp;\u003C/b\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EAlteração da Fraseologia e Criação do Botão - inFlight \u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003E\u003Cbr\u003E\u003C/b\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EManual e planilha de teste encaminhada por email\u003C/b\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E",
+        "System.Tags": "Dashboard Criado"
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1164264/revisions/24"
+    }
+  ]
+}

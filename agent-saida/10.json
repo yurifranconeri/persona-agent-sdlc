@@ -1,0 +1,73 @@
+{
+  "id": 10,
+  "rev": 1,
+  "fields": {
+    "System.AreaPath": "PersonaAgents",
+    "System.TeamProject": "PersonaAgents",
+    "System.IterationPath": "PersonaAgents",
+    "System.WorkItemType": "User Story",
+    "System.State": "New",
+    "System.Reason": "New",
+    "System.CreatedDate": "2026-04-22T14:53:47.74Z",
+    "System.CreatedBy": {
+      "displayName": "Alex Wilber",
+      "url": "https://spsprodsbr2.vssps.visualstudio.com/A15dff1ec-8d0a-4622-a696-45514319fea2/_apis/Identities/ab931f59-3259-6171-b986-8ce49cd80148",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+        }
+      },
+      "id": "ab931f59-3259-6171-b986-8ce49cd80148",
+      "uniqueName": "AlexW@M365x29712447.OnMicrosoft.com",
+      "imageUrl": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4",
+      "descriptor": "aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+    },
+    "System.ChangedDate": "2026-04-22T14:53:47.74Z",
+    "System.ChangedBy": {
+      "displayName": "Alex Wilber",
+      "url": "https://spsprodsbr2.vssps.visualstudio.com/A15dff1ec-8d0a-4622-a696-45514319fea2/_apis/Identities/ab931f59-3259-6171-b986-8ce49cd80148",
+      "_links": {
+        "avatar": {
+          "href": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+        }
+      },
+      "id": "ab931f59-3259-6171-b986-8ce49cd80148",
+      "uniqueName": "AlexW@M365x29712447.OnMicrosoft.com",
+      "imageUrl": "https://dev.azure.com/CopilotStudioTests/_apis/GraphProfile/MemberAvatars/aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4",
+      "descriptor": "aad.YWI5MzFmNTktMzI1OS03MTcxLWI5ODYtOGNlNDljZDgwMTQ4"
+    },
+    "System.CommentCount": 0,
+    "System.Title": "RF001 – Ajustar Mensagem Orientativa Inflight para Botão de Reset de Senha",
+    "Microsoft.VSTS.Common.StateChangeDate": "2026-04-22T14:53:47.74Z",
+    "Microsoft.VSTS.Common.Priority": 2,
+    "Microsoft.VSTS.Common.ValueArea": "Business",
+    "System.Description": "## User Story\n\n**Como** cliente TIM utilizando o serviço Inflight (IntelSat),\n**Quero** que a mensagem orientativa do &quot;Esqueci minha senha&quot; seja substituída por um botão funcional,\n**Para que** eu possa iniciar o processo de reset de senha directamente, sem instruções genéricas.\n\n## Detalhamento (RF001)\n\nNo produto Inflight, a atual mensagem orientativa exibida na opção &quot;Esqueci minha senha&quot; deve ser substituída por um **botão** que redirecione o cliente à página de reset de senha da TIM.\n\n### Cenário Atual (AS IS)\n- Ao clicar em &quot;Esqueci minha senha&quot;, é exibida apenas uma mensagem orientativa indicando ao cliente para realizar o procedimento via APP Meu TIM.\n\n### Cenário Desejado (TO BE)\n- Ao clicar em &quot;Esqueci minha senha&quot;, é exibido um botão com texto orientativo:\n  *&quot;Se ainda estiver em solo, desligue seu Wi-Fi, conecte-se a sua rede TIM 5G, e resgate sua senha CLICANDO AQUI.&quot;*\n\n## Regra de Negócio\n- **RN001**: Utilizar serviço de Reset de Senha do IDM\n\n## Critérios de Aceitação\n1. O botão deve ser exibido no lugar da mensagem orientativa atual\n2. O texto do botão deve seguir a redação definida pelo negócio\n3. O botão deve estar visível e clicável na interface da Webview IntelSat\n\n## Parent Feature\nFeature #9 – Integração Reset de Senha na Jornada Inflight IntelSat"
+  },
+  "multilineFieldsFormat": {
+    "System.Description": "html"
+  },
+  "_links": {
+    "self": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/10"
+    },
+    "workItemUpdates": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/10/updates"
+    },
+    "workItemRevisions": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/10/revisions"
+    },
+    "workItemComments": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/10/comments"
+    },
+    "html": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_workitems/edit/10"
+    },
+    "workItemType": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItemTypes/User%20Story"
+    },
+    "fields": {
+      "href": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/fields"
+    }
+  },
+  "url": "https://dev.azure.com/CopilotStudioTests/13071181-82ea-4a80-bdc3-9a33584851cb/_apis/wit/workItems/10"
+}

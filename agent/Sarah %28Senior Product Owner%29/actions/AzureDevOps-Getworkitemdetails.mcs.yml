@@ -1,0 +1,188 @@
+mcs.metadata:
+  componentName: Azure DevOps - Get work item details
+kind: TaskDialog
+inputs:
+  - kind: ManualTaskInput
+    propertyName: account
+    value: CopilotStudioTests
+
+  - kind: ManualTaskInput
+    propertyName: project
+    value: PersonaAgents
+
+modelDisplayName: Ler os detalhes de um Work Item
+modelDescription: Ler os detalhes de um Work Item
+outputs:
+  - propertyName: fields
+    name: fields
+
+  - propertyName: id
+    name: Id
+    description: The unique id of the work item.
+
+  - propertyName: rev
+    name: Revision Count
+    description: The revision count of the work item.
+
+  - propertyName: url
+    name: URL
+    description: The URL of the work item.
+
+action:
+  kind: InvokeConnectorTaskAction
+  connectionReference: pa_sarah.shared_visualstudioteamservices.a68b400fbef4420aa71de1da58ee2175
+  connectionProperties:
+    mode: Maker
+
+  operationId: GetWorkItemDetails
+  dynamicOutputSchema:
+    kind: Record
+    properties:
+      fields:
+        order: 3
+        type:
+          kind: Record
+          properties:
+            Microsoft_VSTS_Common_Priority:
+              displayName: Priority
+              description: The priority of the work item.
+              visibility: Advanced
+              order: 12
+              type: Number
+
+            Microsoft_VSTS_Common_Severity:
+              displayName: Severity
+              description: The severity of the work item.
+              visibility: Advanced
+              order: 13
+              type: String
+
+            Microsoft_VSTS_Common_StateChangeDate:
+              displayName: State Changed Date
+              description: The datetime the work item state was changed.
+              visibility: Advanced
+              order: 11
+              type: String
+
+            Microsoft_VSTS_Common_ValueArea:
+              displayName: Value Area
+              description: The value area of the work item.
+              visibility: Advanced
+              order: 14
+              type: String
+
+            System_AreaPath:
+              displayName: Area Path
+              description: The area path of the work item.
+              visibility: Advanced
+              order: 0
+              type: String
+
+            System_ChangedBy:
+              displayName: Changed By
+              description: The name of the team member who changed the work item.
+              visibility: Advanced
+              order: 9
+              type: String
+
+            System_ChangedDate:
+              displayName: Changed Date
+              description: The datetime the work item was changed.
+              visibility: Advanced
+              order: 8
+              type: String
+
+            System_CreatedBy:
+              displayName: Created By
+              description: The name of the team member who created the work item.
+              visibility: Advanced
+              order: 7
+              type: String
+
+            System_CreatedDate:
+              displayName: Created Date
+              description: The datetime the work item was created.
+              visibility: Advanced
+              order: 6
+              type: String
+
+            System_Description:
+              displayName: Description
+              description: The description of the work item.
+              order: 15
+              type: String
+
+            System_IterationPath:
+              displayName: Iteration Path
+              description: The iteration path of the work item.
+              visibility: Advanced
+              order: 2
+              type: String
+
+            System_Reason:
+              displayName: Reason
+              description: The reason entered for the work item.
+              visibility: Advanced
+              order: 5
+              type: String
+
+            System_State:
+              displayName: State
+              description: The state of the work item.
+              visibility: Advanced
+              order: 4
+              type: String
+
+            System_Tags:
+              displayName: Tags
+              description: The tags of the work item.
+              order: 16
+              type: String
+
+            System_TeamProject:
+              displayName: Team Project
+              description: The team project to which the work item belongs.
+              visibility: Advanced
+              order: 1
+              type: String
+
+            System_Title:
+              displayName: Title
+              description: The title of the work item.
+              order: 10
+              type: String
+
+            System_WorkItemType:
+              displayName: Work Item Type
+              description: The type of the work item.
+              order: 3
+              type: String
+
+            Vsts_WorkItemUrl:
+              displayName: URL
+              description: The URL of the work item.
+              visibility: Advanced
+              order: 17
+              type: String
+
+      id:
+        displayName: Id
+        description: The unique id of the work item.
+        order: 0
+        type: Number
+
+      rev:
+        displayName: Revision Count
+        description: The revision count of the work item.
+        visibility: Advanced
+        order: 1
+        type: Number
+
+      url:
+        displayName: URL
+        description: The URL of the work item.
+        visibility: Advanced
+        order: 2
+        type: String
+
+outputMode: All

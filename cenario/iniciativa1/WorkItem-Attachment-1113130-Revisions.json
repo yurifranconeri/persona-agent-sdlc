@@ -1,0 +1,688 @@
+{
+  "count": 12,
+  "value": [
+    {
+      "id": 1113130,
+      "rev": 1,
+      "fields": {
+        "System.WorkItemType": "Attachment",
+        "System.State": "New",
+        "System.Reason": "Moved to state New",
+        "System.CreatedDate": "2025-09-05T21:28:27.183Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-09-05T21:28:27.183Z",
+        "System.ChangedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Portfolio Tim TI",
+        "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+        "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+        "System.BoardColumn": "Nova História",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:28:27.183Z",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "System.Title": "Anexo II - Jornada Inflight"
+      },
+      "multilineFieldsFormat": {
+
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113130/revisions/1"
+    },
+    {
+      "id": 1113130,
+      "rev": 2,
+      "fields": {
+        "System.WorkItemType": "Attachment",
+        "System.State": "New",
+        "System.Reason": "Moved to state New",
+        "System.CreatedDate": "2025-09-05T21:28:27.183Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-09-05T21:28:52.203Z",
+        "System.ChangedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Portfolio Tim TI",
+        "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+        "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+        "System.BoardColumn": "Nova História",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:28:27.183Z",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "System.Title": "Anexo II - Jornada Inflight"
+      },
+      "multilineFieldsFormat": {
+
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113130/revisions/2"
+    },
+    {
+      "id": 1113130,
+      "rev": 3,
+      "fields": {
+        "System.WorkItemType": "Attachment",
+        "System.State": "New",
+        "System.Reason": "Moved to state New",
+        "System.CreatedDate": "2025-09-05T21:28:27.183Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-09-05T22:05:27.907Z",
+        "System.ChangedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Portfolio Tim TI",
+        "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+        "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+        "System.Title": "Anexo II - Jornada inFlight",
+        "System.BoardColumn": "Nova História",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:28:27.183Z",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false
+      },
+      "multilineFieldsFormat": {
+
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113130/revisions/3"
+    },
+    {
+      "id": 1113130,
+      "rev": 4,
+      "fields": {
+        "System.WorkItemType": "Attachment",
+        "System.State": "New",
+        "System.Reason": "Moved to state New",
+        "System.CreatedDate": "2025-09-05T21:28:27.183Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-09-11T17:59:01.35Z",
+        "System.ChangedBy": {
+          "displayName": "Fabio Prazeres Da Silva",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/96e8c4cb-3cb9-6181-9711-0cf9d3b405ec",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTZlOGM0Y2ItM2NiOS03MTgxLTk3MTEtMGNmOWQzYjQwNWVj"
+            }
+          },
+          "id": "96e8c4cb-3cb9-6181-9711-0cf9d3b405ec",
+          "uniqueName": "fabpdsilva@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTZlOGM0Y2ItM2NiOS03MTgxLTk3MTEtMGNmOWQzYjQwNWVj",
+          "descriptor": "aad.OTZlOGM0Y2ItM2NiOS03MTgxLTk3MTEtMGNmOWQzYjQwNWVj"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Portfolio Tim TI",
+        "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+        "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+        "System.Title": "Anexo II - Jornada inFlight",
+        "System.BoardColumn": "Nova História",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:28:27.183Z",
+        "Microsoft.VSTS.Common.StackRank": 1999997170,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false
+      },
+      "multilineFieldsFormat": {
+
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113130/revisions/4"
+    },
+    {
+      "id": 1113130,
+      "rev": 5,
+      "fields": {
+        "System.WorkItemType": "Attachment",
+        "System.State": "New",
+        "System.Reason": "Moved to state New",
+        "System.CreatedDate": "2025-09-05T21:28:27.183Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-09-12T19:33:00.06Z",
+        "System.ChangedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Portfolio Tim TI",
+        "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+        "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+        "System.Title": "Anexo II - Jornada inFlight",
+        "System.BoardColumn": "Nova História",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:28:27.183Z",
+        "Microsoft.VSTS.Common.StackRank": 1999997170,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false
+      },
+      "multilineFieldsFormat": {
+
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113130/revisions/5"
+    },
+    {
+      "id": 1113130,
+      "rev": 6,
+      "fields": {
+        "System.WorkItemType": "Attachment",
+        "System.State": "New",
+        "System.Reason": "Moved to state New",
+        "System.CreatedDate": "2025-09-05T21:28:27.183Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-10-13T14:03:37.413Z",
+        "System.ChangedBy": {
+          "displayName": "Franco Kaufmann Gaspar Ferreira Junior",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/da8e31eb-7a56-6df5-b42a-2155cf2f5c64",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.ZGE4ZTMxZWItN2E1Ni03ZGY1LWI0MmEtMjE1NWNmMmY1YzY0"
+            }
+          },
+          "id": "da8e31eb-7a56-6df5-b42a-2155cf2f5c64",
+          "uniqueName": "fkgjunior@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.ZGE4ZTMxZWItN2E1Ni03ZGY1LWI0MmEtMjE1NWNmMmY1YzY0",
+          "descriptor": "aad.ZGE4ZTMxZWItN2E1Ni03ZGY1LWI0MmEtMjE1NWNmMmY1YzY0"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Anexo II - Jornada inFlight",
+        "System.BoardColumn": "Nova História",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:28:27.183Z",
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": "Nova História",
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column.Done": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "Microsoft.VSTS.Common.StackRank": 1999997170
+      },
+      "multilineFieldsFormat": {
+
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113130/revisions/6"
+    },
+    {
+      "id": 1113130,
+      "rev": 7,
+      "fields": {
+        "System.WorkItemType": "Attachment",
+        "System.State": "New",
+        "System.Reason": "Moved to state New",
+        "System.CreatedDate": "2025-09-05T21:28:27.183Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-11-17T17:31:49.417Z",
+        "System.ChangedBy": {
+          "displayName": "Carolina Ribeiro Gomes Sundin",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/53f09878-ec6f-6fa3-8cb5-02ff7b452a9f",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm"
+            }
+          },
+          "id": "53f09878-ec6f-6fa3-8cb5-02ff7b452a9f",
+          "uniqueName": "csundin@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm",
+          "descriptor": "aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Anexo II - Jornada inFlight",
+        "System.BoardColumn": "Nova História",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:28:27.183Z",
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": "Nova História",
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column.Done": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "Microsoft.VSTS.Common.StackRank": 1999980583
+      },
+      "multilineFieldsFormat": {
+
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113130/revisions/7"
+    },
+    {
+      "id": 1113130,
+      "rev": 8,
+      "fields": {
+        "System.WorkItemType": "Attachment",
+        "System.State": "New",
+        "System.Reason": "Moved to state New",
+        "System.CreatedDate": "2025-09-05T21:28:27.183Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-11-18T22:34:33.203Z",
+        "System.ChangedBy": {
+          "displayName": "Joanna Maria Haslwanter",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/b7d3fe1c-9804-6b8c-b2ea-d856e28b9b78",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4"
+            }
+          },
+          "id": "b7d3fe1c-9804-6b8c-b2ea-d856e28b9b78",
+          "uniqueName": "jhaslwanter@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4",
+          "descriptor": "aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Anexo II - Jornada inFlight",
+        "System.BoardColumn": "Nova História",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:28:27.183Z",
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": "Nova História",
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column.Done": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "Microsoft.VSTS.Common.StackRank": 1999980284
+      },
+      "multilineFieldsFormat": {
+
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113130/revisions/8"
+    },
+    {
+      "id": 1113130,
+      "rev": 9,
+      "fields": {
+        "System.WorkItemType": "Attachment",
+        "System.State": "New",
+        "System.Reason": "Moved to state New",
+        "System.CreatedDate": "2025-09-05T21:28:27.183Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2026-01-28T14:13:47.723Z",
+        "System.ChangedBy": {
+          "displayName": "Carolina Ribeiro Gomes Sundin",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/53f09878-ec6f-6fa3-8cb5-02ff7b452a9f",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm"
+            }
+          },
+          "id": "53f09878-ec6f-6fa3-8cb5-02ff7b452a9f",
+          "uniqueName": "csundin@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm",
+          "descriptor": "aad.NTNmMDk4NzgtZWM2Zi03ZmEzLThjYjUtMDJmZjdiNDUyYTlm"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Anexo II - Jornada inFlight",
+        "System.BoardColumn": "Nova História",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:28:27.183Z",
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": "Nova História",
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column.Done": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "Microsoft.VSTS.Common.StackRank": 1999975846
+      },
+      "multilineFieldsFormat": {
+
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113130/revisions/9"
+    },
+    {
+      "id": 1113130,
+      "rev": 10,
+      "fields": {
+        "System.WorkItemType": "Attachment",
+        "System.State": "New",
+        "System.Reason": "Moved to state New",
+        "System.CreatedDate": "2025-09-05T21:28:27.183Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2026-02-05T18:21:36.827Z",
+        "System.ChangedBy": {
+          "displayName": "Tamiris Leandro Martins Das Neves.",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/b2ef2449-cf92-682d-b9c9-f87c943424ba",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjJlZjI0NDktY2Y5Mi03ODJkLWI5YzktZjg3Yzk0MzQyNGJh"
+            }
+          },
+          "id": "b2ef2449-cf92-682d-b9c9-f87c943424ba",
+          "uniqueName": "talmdneves@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjJlZjI0NDktY2Y5Mi03ODJkLWI5YzktZjg3Yzk0MzQyNGJh",
+          "descriptor": "aad.YjJlZjI0NDktY2Y5Mi03ODJkLWI5YzktZjg3Yzk0MzQyNGJh"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Anexo II - Jornada inFlight",
+        "System.BoardColumn": "Nova História",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:28:27.183Z",
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": "Nova História",
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column.Done": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "Microsoft.VSTS.Common.StackRank": 1999975168
+      },
+      "multilineFieldsFormat": {
+
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113130/revisions/10"
+    },
+    {
+      "id": 1113130,
+      "rev": 11,
+      "fields": {
+        "System.WorkItemType": "Attachment",
+        "System.State": "New",
+        "System.Reason": "Moved to state New",
+        "System.CreatedDate": "2025-09-05T21:28:27.183Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2026-03-02T19:21:44.997Z",
+        "System.ChangedBy": {
+          "displayName": "Joanna Maria Haslwanter",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/b7d3fe1c-9804-6b8c-b2ea-d856e28b9b78",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4"
+            }
+          },
+          "id": "b7d3fe1c-9804-6b8c-b2ea-d856e28b9b78",
+          "uniqueName": "jhaslwanter@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4",
+          "descriptor": "aad.YjdkM2ZlMWMtOTgwNC03YjhjLWIyZWEtZDg1NmUyOGI5Yjc4"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.Title": "Anexo II - Jornada inFlight",
+        "System.BoardColumn": "Nova História",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:28:27.183Z",
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": "Nova História",
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column.Done": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "Microsoft.VSTS.Common.StackRank": 1999969913
+      },
+      "multilineFieldsFormat": {
+
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113130/revisions/11"
+    },
+    {
+      "id": 1113130,
+      "rev": 12,
+      "fields": {
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.WorkItemType": "Attachment",
+        "System.State": "New",
+        "System.Reason": "Moved to state New",
+        "System.CreatedDate": "2025-09-05T21:28:27.183Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2026-03-10T20:18:22.787Z",
+        "System.ChangedBy": {
+          "displayName": "Karyne Vianna Carmo Gallindo",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/51c4e8bb-e040-6a63-9255-47a18d9f27bb",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTFjNGU4YmItZTA0MC03YTYzLTkyNTUtNDdhMThkOWYyN2Ji"
+            }
+          },
+          "id": "51c4e8bb-e040-6a63-9255-47a18d9f27bb",
+          "uniqueName": "kgallindo@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NTFjNGU4YmItZTA0MC03YTYzLTkyNTUtNDdhMThkOWYyN2Ji",
+          "descriptor": "aad.NTFjNGU4YmItZTA0MC03YTYzLTkyNTUtNDdhMThkOWYyN2Ji"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "Anexo II - Jornada inFlight",
+        "System.BoardColumn": "Nova História",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:28:27.183Z",
+        "Microsoft.VSTS.Common.StackRank": 1999968695,
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": "Nova História",
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column.Done": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false
+      },
+      "multilineFieldsFormat": {
+
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113130/revisions/12"
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+{
+  "count": 4,
+  "value": [
+    {
+      "id": 1,
+      "workItemId": 1178461,
+      "rev": 1,
+      "revisedBy": {
+        "id": "755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+        "name": "Rodrigo Alexandre Oliveira \u003CT3671925@timbrasil.com.br\u003E",
+        "displayName": "Rodrigo Alexandre Oliveira",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+          }
+        },
+        "uniqueName": "T3671925@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw",
+        "descriptor": "aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+      },
+      "revisedDate": "2025-11-05T15:01:06.453Z",
+      "fields": {
+        "System.Id": {
+          "newValue": 1178461
+        },
+        "System.AreaId": {
+          "newValue": 56
+        },
+        "System.NodeName": {
+          "newValue": "Entrega_de_Kits"
+        },
+        "System.AreaLevel1": {
+          "newValue": "Entrega_de_Kits"
+        },
+        "System.Rev": {
+          "newValue": 1
+        },
+        "System.AuthorizedDate": {
+          "newValue": "2025-11-05T14:50:29.793Z"
+        },
+        "System.RevisedDate": {
+          "newValue": "2025-11-05T15:01:06.453Z"
+        },
+        "System.IterationId": {
+          "newValue": 56
+        },
+        "System.IterationLevel1": {
+          "newValue": "Entrega_de_Kits"
+        },
+        "System.WorkItemType": {
+          "newValue": "Entrega"
+        },
+        "System.State": {
+          "newValue": "Armazenada pelo SCM"
+        },
+        "System.Reason": {
+          "newValue": "Moved to state Armazenada pelo SCM"
+        },
+        "System.AssignedTo": {
+
+        },
+        "System.CreatedDate": {
+          "newValue": "2025-11-05T14:50:29.793Z"
+        },
+        "System.CreatedBy": {
+          "newValue": {
+            "displayName": "Rodrigo Alexandre Oliveira",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+              }
+            },
+            "id": "755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+            "uniqueName": "T3671925@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw",
+            "descriptor": "aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+          }
+        },
+        "System.ChangedDate": {
+          "newValue": "2025-11-05T14:50:29.793Z"
+        },
+        "System.ChangedBy": {
+          "newValue": {
+            "displayName": "Rodrigo Alexandre Oliveira",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+              }
+            },
+            "id": "755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+            "uniqueName": "T3671925@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw",
+            "descriptor": "aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+          }
+        },
+        "System.AuthorizedAs": {
+          "newValue": {
+            "displayName": "Rodrigo Alexandre Oliveira",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+              }
+            },
+            "id": "755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+            "uniqueName": "T3671925@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw",
+            "descriptor": "aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+          }
+        },
+        "System.PersonId": {
+          "newValue": 251263134
+        },
+        "System.Watermark": {
+          "newValue": 9494107
+        },
+        "System.IsDeleted": {
+          "newValue": false
+        },
+        "System.CommentCount": {
+          "newValue": 1
+        },
+        "System.TeamProject": {
+          "newValue": "Entrega_de_Kits"
+        },
+        "System.AreaPath": {
+          "newValue": "Entrega_de_Kits"
+        },
+        "System.IterationPath": {
+          "newValue": "Entrega_de_Kits"
+        },
+        "System.Title": {
+          "newValue": "ENTREGA - Alteração da Fraseologia e Criação do Botão - inFlight"
+        },
+        "Microsoft.VSTS.Common.StateChangeDate": {
+          "newValue": "2025-11-05T14:50:29.793Z"
+        },
+        "Microsoft.VSTS.Common.Priority": {
+          "newValue": 4
+        },
+        "CodigoDemanda.TIMDM": {
+          "newValue": "TIR1136722"
+        },
+        "BugOwnerCCC.TIMDM": {
+          "newValue": {
+            "displayName": "Mauricio Valderrama De Oliveira",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/25f32cc8-85a6-677d-a399-6e352177df4d",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MjVmMzJjYzgtODVhNi03NzdkLWEzOTktNmUzNTIxNzdkZjRk"
+              }
+            },
+            "id": "25f32cc8-85a6-677d-a399-6e352177df4d",
+            "uniqueName": "mdoliveira_engineering@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MjVmMzJjYzgtODVhNi03NzdkLWEzOTktNmUzNTIxNzdkZjRk",
+            "descriptor": "aad.MjVmMzJjYzgtODVhNi03NzdkLWEzOTktNmUzNTIxNzdkZjRk"
+          }
+        },
+        "BugVendor.TIMDM": {
+          "newValue": "ENGINEERING"
+        },
+        "TIM20.TFS.Sistemas": {
+          "newValue": "OAMVAS"
+        },
+        "TesteCase.NomeDemanda.TIMDM": {
+          "newValue": "TIR1136722"
+        },
+        "Custom.ShipmentTIM20": {
+          "newValue": "OAM_1136722"
+        },
+        "Custom.DataPlanejada": {
+          "newValue": "2025-11-05T14:50:00Z"
+        },
+        "Custom.DataEntrega": {
+          "newValue": "2025-11-05T14:50:00Z"
+        },
+        "Custom.ChangeForm": {
+          "newValue": "CF_SSO-OneClickToBuy"
+        },
+        "Custom.Patch": {
+          "newValue": "FQA"
+        },
+        "Custom.d0f2a953-eb51-4e6d-97e0-91e3eb233883": {
+          "newValue": "Fellipe Pinheiro Moncayo"
+        },
+        "Custom.VendorGroup": {
+          "newValue": "Engineering - OAM"
+        },
+        "Custom.EvidenciaSystemTest": {
+          "newValue": "Sim"
+        },
+        "Custom.Areas": {
+          "newValue": "VAS"
+        },
+        "Custom.VendorouVendorGroupInvalido": {
+          "newValue": "Valido"
+        },
+        "Custom.dir_structure": {
+          "newValue": "Sim"
+        },
+        "Custom.delivery_changeset": {
+          "newValue": "Sim"
+        },
+        "Custom.delivery_change_form": {
+          "newValue": "Sim"
+        },
+        "Custom.correct_content_cf": {
+          "newValue": "Sim"
+        },
+        "Custom.info_change_form_param": {
+          "newValue": "Sim"
+        },
+        "Custom.last_delivery_change_form_install_env": {
+          "newValue": "Não"
+        },
+        "Custom.change_form_schema_system": {
+          "newValue": "Não"
+        },
+        "Custom.b_change_form_schema_system": {
+          "newValue": "Sim"
+        },
+        "Custom.redelivery_changeform": {
+          "newValue": "Sim"
+        },
+        "Custom.valid_change_form": {
+          "newValue": "Sim"
+        },
+        "Custom.TipoDeploy": {
+          "newValue": "Manual"
+        },
+        "System.Description": {
+          "newValue": "\u003Cdiv\u003E\u003Cspan style=\"font-family:&quot;Segoe UI&quot;, -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;font-size:21px;font-weight:600;letter-spacing:-0.42px;background-color:rgb(248, 248, 248);display:inline !important;\"\u003EOAM_1131975_SSO\u003C/span\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+        },
+        "Custom.4860fe37-04d3-4203-b6c3-ad0f95ab9fcf": {
+          "newValue": "\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E \u003C/div\u003E"
+        },
+        "System.History": {
+          "newValue": "Copied from #1132619"
+        }
+      },
+      "relations": {
+        "added": [
+          {
+            "rel": "System.LinkTypes.Related",
+            "url": "https://dev.azure.com/timbrasil/2b63666a-04a7-404e-84e3-2120197176ef/_apis/wit/workItems/1132619",
+            "attributes": {
+              "isLocked": false,
+              "comment": "Rodrigo Alexandre Oliveira mentioned work item #1132619 in #1178461",
+              "name": "Related"
+            }
+          }
+        ]
+      },
+      "url": "https://dev.azure.com/timbrasil/2b63666a-04a7-404e-84e3-2120197176ef/_apis/wit/workItems/1178461/updates/1"
+    },
+    {
+      "id": 2,
+      "workItemId": 1178461,
+      "rev": 2,
+      "revisedBy": {
+        "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+        "name": "AzDevOpsServ_PRD \u003CAzDevOpsServ_PRD_usr@timbrasil.com.br\u003E",
+        "displayName": "AzDevOpsServ_PRD",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          }
+        },
+        "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+        "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+      },
+      "revisedDate": "2025-11-05T15:01:24.27Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 1,
+          "newValue": 2
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-05T14:50:29.793Z",
+          "newValue": "2025-11-05T15:01:06.453Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-05T15:01:06.453Z",
+          "newValue": "2025-11-05T15:01:24.27Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-05T14:50:29.793Z",
+          "newValue": "2025-11-05T15:01:06.453Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "Rodrigo Alexandre Oliveira",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+              }
+            },
+            "id": "755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+            "uniqueName": "T3671925@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw",
+            "descriptor": "aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+          },
+          "newValue": {
+            "displayName": "AzDevOpsServ_PRD",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+              }
+            },
+            "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+            "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "Rodrigo Alexandre Oliveira",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+              }
+            },
+            "id": "755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+            "uniqueName": "T3671925@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw",
+            "descriptor": "aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+          },
+          "newValue": {
+            "displayName": "AzDevOpsServ_PRD",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+              }
+            },
+            "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+            "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 251263134,
+          "newValue": 124304868
+        },
+        "System.Watermark": {
+          "oldValue": 9494107,
+          "newValue": 9494342
+        },
+        "Custom.Label": {
+          "newValue": "202511051201_OAMVAS_OAM_1136722"
+        }
+      },
+      "url": "https://dev.azure.com/timbrasil/2b63666a-04a7-404e-84e3-2120197176ef/_apis/wit/workItems/1178461/updates/2"
+    },
+    {
+      "id": 3,
+      "workItemId": 1178461,
+      "rev": 3,
+      "revisedBy": {
+        "id": "755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+        "name": "Rodrigo Alexandre Oliveira \u003CT3671925@timbrasil.com.br\u003E",
+        "displayName": "Rodrigo Alexandre Oliveira",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+          }
+        },
+        "uniqueName": "T3671925@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw",
+        "descriptor": "aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+      },
+      "revisedDate": "9999-01-01T00:00:00Z",
+      "fields": {
+        "System.Rev": {
+          "oldValue": 2,
+          "newValue": 3
+        },
+        "System.AuthorizedDate": {
+          "oldValue": "2025-11-05T15:01:06.453Z",
+          "newValue": "2025-11-05T15:01:24.27Z"
+        },
+        "System.RevisedDate": {
+          "oldValue": "2025-11-05T15:01:24.27Z",
+          "newValue": "9999-01-01T00:00:00Z"
+        },
+        "System.ChangedDate": {
+          "oldValue": "2025-11-05T15:01:06.453Z",
+          "newValue": "2025-11-05T15:01:24.27Z"
+        },
+        "System.ChangedBy": {
+          "oldValue": {
+            "displayName": "AzDevOpsServ_PRD",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+              }
+            },
+            "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+            "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          },
+          "newValue": {
+            "displayName": "Rodrigo Alexandre Oliveira",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+              }
+            },
+            "id": "755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+            "uniqueName": "T3671925@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw",
+            "descriptor": "aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+          }
+        },
+        "System.AuthorizedAs": {
+          "oldValue": {
+            "displayName": "AzDevOpsServ_PRD",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+              }
+            },
+            "id": "9572dbc0-ed99-6a0a-8fdc-23bc90e0fbbf",
+            "uniqueName": "AzDevOpsServ_PRD_usr@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm",
+            "descriptor": "aad.OTU3MmRiYzAtZWQ5OS03YTBhLThmZGMtMjNiYzkwZTBmYmJm"
+          },
+          "newValue": {
+            "displayName": "Rodrigo Alexandre Oliveira",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+            "_links": {
+              "avatar": {
+                "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+              }
+            },
+            "id": "755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+            "uniqueName": "T3671925@timbrasil.com.br",
+            "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw",
+            "descriptor": "aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+          }
+        },
+        "System.PersonId": {
+          "oldValue": 124304868,
+          "newValue": 251263134
+        },
+        "System.Watermark": {
+          "oldValue": 9494342,
+          "newValue": 9494347
+        },
+        "System.CommentCount": {
+          "oldValue": 1,
+          "newValue": 2
+        },
+        "System.History": {
+          "newValue": "Associated with changeset 51241."
+        },
+        "System.Parent": {
+          "newValue": 1136722
+        }
+      },
+      "relations": {
+        "added": [
+          {
+            "rel": "ArtifactLink",
+            "url": "vstfs:///VersionControl/Changeset/51241",
+            "attributes": {
+              "authorizedDate": "2025-11-05T15:01:24.27Z",
+              "id": 28506603,
+              "resourceCreatedDate": "2025-11-05T15:01:24.27Z",
+              "resourceModifiedDate": "2025-11-05T15:01:24.27Z",
+              "revisedDate": "9999-01-01T00:00:00Z",
+              "comment": "Label OAM_1136722_QA",
+              "name": "Fixed in Changeset"
+            }
+          }
+        ]
+      },
+      "url": "https://dev.azure.com/timbrasil/2b63666a-04a7-404e-84e3-2120197176ef/_apis/wit/workItems/1178461/updates/3"
+    },
+    {
+      "id": 4,
+      "workItemId": 1178461,
+      "rev": 3,
+      "revisedBy": {
+        "id": "755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+        "name": "Rodrigo Alexandre Oliveira \u003CT3671925@timbrasil.com.br\u003E",
+        "displayName": "Rodrigo Alexandre Oliveira",
+        "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/755a0a2e-62b4-6794-b766-2b2f1e66a9a0",
+        "_links": {
+          "avatar": {
+            "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+          }
+        },
+        "uniqueName": "T3671925@timbrasil.com.br",
+        "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw",
+        "descriptor": "aad.NzU1YTBhMmUtNjJiNC03Nzk0LWI3NjYtMmIyZjFlNjZhOWEw"
+      },
+      "revisedDate": "2025-11-05T19:05:59.787Z",
+      "relations": {
+        "added": [
+          {
+            "rel": "System.LinkTypes.Hierarchy-Reverse",
+            "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1136722",
+            "attributes": {
+              "isLocked": false,
+              "name": "Parent"
+            }
+          }
+        ]
+      },
+      "url": "https://dev.azure.com/timbrasil/2b63666a-04a7-404e-84e3-2120197176ef/_apis/wit/workItems/1178461/updates/4"
+    }
+  ]
+}

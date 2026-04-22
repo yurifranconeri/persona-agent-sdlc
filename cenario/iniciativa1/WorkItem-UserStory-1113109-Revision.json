@@ -1,0 +1,1382 @@
+{
+  "count": 14,
+  "value": [
+    {
+      "id": 1113109,
+      "rev": 1,
+      "fields": {
+        "System.WorkItemType": "User Story",
+        "System.State": "Nova História",
+        "System.Reason": "Moved to state Nova História",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-09-05T21:06:21.88Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-09-05T21:06:21.88Z",
+        "System.ChangedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Portfolio Tim TI",
+        "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+        "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "CodigoDemanda.TIMDM": "251078031",
+        "BugVendor.TIMDM": ".NÃO IDENTIFICADO",
+        "Custom.PercentualAutomacao": "0%",
+        "Custom.AddAprovador2": false,
+        "Custom.AddAprovador3": false,
+        "Custom.AddAprovador4": false,
+        "Custom.AddAprovador5": false,
+        "Custom.AddAprovador6": false,
+        "Custom.AddAprovador7": false,
+        "Custom.AddAprovador8": false,
+        "Custom.AddAprovador9": false,
+        "Custom.AddAprovador10": false,
+        "Custom.AddAprovador11": false,
+        "Custom.AddAprovador12": false,
+        "Custom.AddAprovador13": false,
+        "Custom.AddAprovador14": false,
+        "Custom.AddAprovador15": false,
+        "PercentualAutomacao.TIMDM": "0%",
+        "Custom.UserStoryTestavel": false,
+        "Custom.RevisadaPO": false,
+        "Custom.ObrigaApontamentoFronteira": false,
+        "Custom.SemImpacto": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "System.BoardColumn": "Nova História",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:06:21.88Z",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "System.Title": "Integração com a Intelsat"
+      },
+      "multilineFieldsFormat": {
+
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113109/revisions/1"
+    },
+    {
+      "id": 1113109,
+      "rev": 2,
+      "fields": {
+        "System.WorkItemType": "User Story",
+        "System.State": "Nova História",
+        "System.Reason": "Moved to state Nova História",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-09-05T21:06:21.88Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-09-05T21:14:48.797Z",
+        "System.ChangedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Portfolio Tim TI",
+        "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+        "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "CodigoDemanda.TIMDM": "251078031",
+        "BugVendor.TIMDM": ".NÃO IDENTIFICADO",
+        "Custom.PercentualAutomacao": "0%",
+        "Custom.AddAprovador2": false,
+        "Custom.AddAprovador3": false,
+        "Custom.AddAprovador4": false,
+        "Custom.AddAprovador5": false,
+        "Custom.AddAprovador6": false,
+        "Custom.AddAprovador7": false,
+        "Custom.AddAprovador8": false,
+        "Custom.AddAprovador9": false,
+        "Custom.AddAprovador10": false,
+        "Custom.AddAprovador11": false,
+        "Custom.AddAprovador12": false,
+        "Custom.AddAprovador13": false,
+        "Custom.AddAprovador14": false,
+        "Custom.AddAprovador15": false,
+        "PercentualAutomacao.TIMDM": "0%",
+        "Custom.UserStoryTestavel": false,
+        "Custom.RevisadaPO": false,
+        "Custom.ObrigaApontamentoFronteira": false,
+        "Custom.SemImpacto": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "System.BoardColumn": "Nova História",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:06:21.88Z",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "System.Title": "Integração com a Intelsat",
+        "System.Description": "\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb style=\"box-sizing:border-box;\"\u003EEU COMO\u003Cspan style=\"box-sizing:border-box;\"\u003E&nbsp;\u003C/span\u003E\u003C/b\u003EMarketing \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cspan style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EDESEJO QUE \u003C/b\u003Eseja implementada a i\u003C/span\u003Entegração da página de reset de senha da TIM ao sistema da Intelsat, via Webview, garantindo tráfego seguro de informações (MSISDN, loginType, channel). \u003C/div\u003E\u003Ch3\u003E \u003C/h3\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cstrong style=\"box-sizing:border-box;\"\u003EPARA\u003C/strong\u003E&nbsp;eliminar quebras de jornada, redirecionamentos desnecessários, como a obrigação de acessar o APP Meu TIM. \u003C/div\u003E\u003Cbr\u003E\u003Cbr\u003E"
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113109/revisions/2"
+    },
+    {
+      "id": 1113109,
+      "rev": 3,
+      "fields": {
+        "System.WorkItemType": "User Story",
+        "System.State": "Nova História",
+        "System.Reason": "Moved to state Nova História",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-09-05T21:06:21.88Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-09-05T21:27:20.017Z",
+        "System.ChangedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Portfolio Tim TI",
+        "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+        "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "CodigoDemanda.TIMDM": "251078031",
+        "BugVendor.TIMDM": ".NÃO IDENTIFICADO",
+        "Custom.PercentualAutomacao": "0%",
+        "Custom.AddAprovador2": false,
+        "Custom.AddAprovador3": false,
+        "Custom.AddAprovador4": false,
+        "Custom.AddAprovador5": false,
+        "Custom.AddAprovador6": false,
+        "Custom.AddAprovador7": false,
+        "Custom.AddAprovador8": false,
+        "Custom.AddAprovador9": false,
+        "Custom.AddAprovador10": false,
+        "Custom.AddAprovador11": false,
+        "Custom.AddAprovador12": false,
+        "Custom.AddAprovador13": false,
+        "Custom.AddAprovador14": false,
+        "Custom.AddAprovador15": false,
+        "PercentualAutomacao.TIMDM": "0%",
+        "Custom.UserStoryTestavel": false,
+        "Custom.RevisadaPO": false,
+        "Custom.ObrigaApontamentoFronteira": false,
+        "Custom.SemImpacto": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "System.BoardColumn": "Nova História",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:06:21.88Z",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "System.Title": "Integração com a Intelsat",
+        "System.Description": "\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb style=\"box-sizing:border-box;\"\u003EEU COMO\u003Cspan style=\"box-sizing:border-box;\"\u003E&nbsp;\u003C/span\u003E\u003C/b\u003EMarketing \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cspan style=\"box-sizing:border-box;\"\u003E\u003Cb\u003EDESEJO QUE \u003C/b\u003Eseja implementada a i\u003C/span\u003Entegração da página de reset de senha da TIM ao sistema da Intelsat, via Webview, garantindo tráfego seguro de informações (MSISDN, loginType, channel). \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cp style=\"margin-top:0pt;margin-bottom:0pt;margin-left:0in;text-indent:0in;text-align:left;unicode-bidi:embed;\"\u003E\u003Cspan style=\"font-size:10.0pt;font-family:Calibri;color:black;\"\u003EA página de reset de senha seja integrada\nao sistema da Intelsat, e que seja possível trafegar e resetar a senha através\nda \u003C/span\u003E\u003Cspan style=\"font-size:10.0pt;font-family:Calibri;color:black;\"\u003EWebview\u003C/span\u003E \u003C/p\u003E\u003Cp style=\"margin-top:0pt;margin-bottom:0pt;margin-left:0in;text-indent:0in;text-align:left;unicode-bidi:embed;\"\u003E \u003C/p\u003E\u003Cp style=\"margin-top:0pt;margin-bottom:0pt;margin-left:0in;text-indent:0in;text-align:left;unicode-bidi:embed;\"\u003E\u003Cspan style=\"font-size:10.0pt;font-family:Calibri;color:black;\"\u003EAbaixo segue o exemplo da URL utilizada\npelo APP Beta para Reset de senha, porém, TI precisa nos informar qual será o\nmelhor caminho.:\u003Cspan style=\"\"\u003E&nbsp; \u003C/span\u003E\u003C/span\u003E \u003C/p\u003E\u003Cp style=\"margin-top:0pt;margin-bottom:0pt;margin-left:0in;text-indent:0in;text-align:left;unicode-bidi:embed;\"\u003E \u003C/p\u003E\u003Cp style=\"margin-top:0pt;margin-bottom:0pt;margin-left:0in;text-indent:0in;text-align:left;unicode-bidi:embed;\"\u003E\u003Cspan style=\"font-size:10.0pt;font-family:Calibri;color:#0070C0;\"\u003Ehttps://auth3.tim.com.br/\u003C/span\u003E\u003Cspan style=\"font-size:10.0pt;font-family:Calibri;color:#0070C0;\"\u003Ewebapp-resetSenha\u003C/span\u003E\u003Cspan style=\"font-size:10.0pt;font-family:Calibri;color:#0070C0;\"\u003E/\u003C/span\u003E\u003Cspan style=\"font-size:10.0pt;font-family:Calibri;color:#0070C0;\"\u003EforgotPassword?layout\u003C/span\u003E\u003Cspan style=\"font-size:10.0pt;font-family:Calibri;color:#0070C0;\"\u003E=\u003C/span\u003E\u003Cspan style=\"font-size:10.0pt;font-family:Calibri;color:#0070C0;\"\u003Emeutimapp&amp;loginType\u003C/span\u003E\u003Cspan style=\"font-size:10.0pt;font-family:Calibri;color:#0070C0;\"\u003E=\u003C/span\u003E\u003Cspan style=\"font-size:10.0pt;font-family:Calibri;color:#0070C0;\"\u003EUSER&amp;channel\u003C/span\u003E\u003Cspan style=\"font-size:10.0pt;font-family:Calibri;color:#0070C0;\"\u003E=4&amp;msisdn=\u003C/span\u003E\u003Cspan style=\"font-size:10.0pt;font-family:Calibri;color:black;background:yellow;font-weight:bold;\"\u003EDD\u003C/span\u003E\u003Cspan style=\"font-size:10.0pt;font-family:Calibri;color:#0070C0;\"\u003E%\u003C/span\u003E\u003Cspan style=\"font-size:10.0pt;font-family:Calibri;color:black;background:yellow;font-weight:bold;\"\u003E”MSISDN”\u003C/span\u003E \u003C/p\u003E\u003Cbr\u003E \u003C/div\u003E\u003Ch3\u003E \u003C/h3\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cstrong style=\"box-sizing:border-box;\"\u003EPARA\u003C/strong\u003E&nbsp;eliminar quebras de jornada, redirecionamentos desnecessários, como a obrigação de acessar o APP Meu TIM. \u003C/div\u003E\u003Cbr\u003E\u003Cbr\u003E"
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113109/revisions/3"
+    },
+    {
+      "id": 1113109,
+      "rev": 4,
+      "fields": {
+        "System.WorkItemType": "User Story",
+        "System.State": "Nova História",
+        "System.Reason": "Moved to state Nova História",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-09-05T21:06:21.88Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-09-05T21:55:37.93Z",
+        "System.ChangedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Portfolio Tim TI",
+        "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+        "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "CodigoDemanda.TIMDM": "251078031",
+        "BugVendor.TIMDM": ".NÃO IDENTIFICADO",
+        "Custom.PercentualAutomacao": "0%",
+        "Custom.AddAprovador2": false,
+        "Custom.AddAprovador3": false,
+        "Custom.AddAprovador4": false,
+        "Custom.AddAprovador5": false,
+        "Custom.AddAprovador6": false,
+        "Custom.AddAprovador7": false,
+        "Custom.AddAprovador8": false,
+        "Custom.AddAprovador9": false,
+        "Custom.AddAprovador10": false,
+        "Custom.AddAprovador11": false,
+        "Custom.AddAprovador12": false,
+        "Custom.AddAprovador13": false,
+        "Custom.AddAprovador14": false,
+        "Custom.AddAprovador15": false,
+        "PercentualAutomacao.TIMDM": "0%",
+        "Custom.UserStoryTestavel": false,
+        "Custom.RevisadaPO": false,
+        "Custom.ObrigaApontamentoFronteira": false,
+        "Custom.SemImpacto": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "System.BoardColumn": "Nova História",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:06:21.88Z",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "System.Title": "Integração com a Intelsat",
+        "System.Description": "\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb style=\"box-sizing:border-box;\"\u003EEU COMO\u003Cspan style=\"box-sizing:border-box;\"\u003E&nbsp;\u003C/span\u003E\u003C/b\u003EMarketing \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EDESEJO QUE\u003C/b\u003E seja implementada uma solução técnica para realizar a integração da página de reset de senha da TIM ao sistema da Intelsat, via Webview, garantindo&nbsp;trafegar\ne resetar a senha conforme jornada indicada no&nbsp;\u003Ca href=\"https://dev.azure.com/timbrasil/IT%20Business%20Agility/_workitems/edit/1113130/\" data-vss-mention=\"version:1.0\"\u003E#1113130\u003C/a\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EAbaixo segue o exemplo da URL utilizada\npelo APP Beta para Reset de senha, porém, TI precisa nos informar qual será o\nmelhor caminho:\u003C/span\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E&nbsp;\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003Ehttps://auth3.tim.com.br/webapp-resetSenha/forgotPassword?layout=meutimapp&amp;loginType=USER&amp;channel=4&amp;msisdn=\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EDD\u003C/span\u003E%”\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EMSISDN\u003C/span\u003E” \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Ch3\u003E \u003C/h3\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cstrong\u003EPARA\u003C/strong\u003E&nbsp;eliminar quebras de jornada, redirecionamentos desnecessários, como a obrigação de acessar o APP Meu TIM. Garantindo estabilidade, segurança e compatibilidade da jornada. \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E"
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113109/revisions/4"
+    },
+    {
+      "id": 1113109,
+      "rev": 5,
+      "fields": {
+        "System.WorkItemType": "User Story",
+        "System.State": "Nova História",
+        "System.Reason": "Moved to state Nova História",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-09-05T21:06:21.88Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-09-05T22:05:59.617Z",
+        "System.ChangedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Portfolio Tim TI",
+        "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+        "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "CodigoDemanda.TIMDM": "251078031",
+        "BugVendor.TIMDM": ".NÃO IDENTIFICADO",
+        "Custom.PercentualAutomacao": "0%",
+        "Custom.AddAprovador2": false,
+        "Custom.AddAprovador3": false,
+        "Custom.AddAprovador4": false,
+        "Custom.AddAprovador5": false,
+        "Custom.AddAprovador6": false,
+        "Custom.AddAprovador7": false,
+        "Custom.AddAprovador8": false,
+        "Custom.AddAprovador9": false,
+        "Custom.AddAprovador10": false,
+        "Custom.AddAprovador11": false,
+        "Custom.AddAprovador12": false,
+        "Custom.AddAprovador13": false,
+        "Custom.AddAprovador14": false,
+        "Custom.AddAprovador15": false,
+        "PercentualAutomacao.TIMDM": "0%",
+        "Custom.UserStoryTestavel": false,
+        "Custom.RevisadaPO": false,
+        "Custom.ObrigaApontamentoFronteira": false,
+        "Custom.SemImpacto": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "System.Description": "\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb style=\"box-sizing:border-box;\"\u003EEU COMO\u003Cspan style=\"box-sizing:border-box;\"\u003E&nbsp;\u003C/span\u003E\u003C/b\u003EMarketing \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EDESEJO QUE\u003C/b\u003E seja implementada uma solução técnica para realizar a integração da página de reset de senha da TIM ao sistema da Intelsat, via Webview, garantindo&nbsp;trafegar\ne resetar a senha conforme\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E jornada indicada no&nbsp;\u003C/span\u003E\u003Ca href=\"https://dev.azure.com/timbrasil/IT%20Business%20Agility/_workitems/edit/1113130/\" data-vss-mention=\"version:1.0\"\u003E#1113130\u003C/a\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EAbaixo segue o exemplo da URL utilizada\npelo APP Beta para Reset de senha, porém, TI precisa nos informar qual será o\nmelhor caminho:\u003C/span\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E&nbsp;\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003Ehttps://auth3.tim.com.br/webapp-resetSenha/forgotPassword?layout=meutimapp&amp;loginType=USER&amp;channel=4&amp;msisdn=\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EDD\u003C/span\u003E%”\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EMSISDN\u003C/span\u003E” \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Ch3\u003E \u003C/h3\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cstrong\u003EPARA\u003C/strong\u003E&nbsp;eliminar quebras de jornada, redirecionamentos desnecessários, como a obrigação de acessar o APP Meu TIM. Garantindo estabilidade, segurança e compatibilidade da jornada. \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E",
+        "System.BoardColumn": "Nova História",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:06:21.88Z",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "System.Title": "Integração com a Intelsat"
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113109/revisions/5"
+    },
+    {
+      "id": 1113109,
+      "rev": 6,
+      "fields": {
+        "System.WorkItemType": "User Story",
+        "System.State": "Nova História",
+        "System.Reason": "Moved to state Nova História",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-09-05T21:06:21.88Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-09-09T18:18:03.887Z",
+        "System.ChangedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CommentCount": 0,
+        "System.TeamProject": "Portfolio Tim TI",
+        "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+        "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "CodigoDemanda.TIMDM": "251078031",
+        "BugVendor.TIMDM": ".NÃO IDENTIFICADO",
+        "Custom.PercentualAutomacao": "0%",
+        "Custom.AddAprovador2": false,
+        "Custom.AddAprovador3": false,
+        "Custom.AddAprovador4": false,
+        "Custom.AddAprovador5": false,
+        "Custom.AddAprovador6": false,
+        "Custom.AddAprovador7": false,
+        "Custom.AddAprovador8": false,
+        "Custom.AddAprovador9": false,
+        "Custom.AddAprovador10": false,
+        "Custom.AddAprovador11": false,
+        "Custom.AddAprovador12": false,
+        "Custom.AddAprovador13": false,
+        "Custom.AddAprovador14": false,
+        "Custom.AddAprovador15": false,
+        "PercentualAutomacao.TIMDM": "0%",
+        "Custom.UserStoryTestavel": false,
+        "Custom.RevisadaPO": false,
+        "Custom.ObrigaApontamentoFronteira": false,
+        "Custom.SemImpacto": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "System.Description": "\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb style=\"box-sizing:border-box;\"\u003EEU COMO\u003Cspan style=\"box-sizing:border-box;\"\u003E&nbsp;\u003C/span\u003E\u003C/b\u003EMarketing \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EDESEJO QUE\u003C/b\u003E seja implementada uma solução técnica para realizar a integração da página de reset de senha da TIM ao sistema da Intelsat, via Webview, garantindo&nbsp;trafegar\ne resetar a senha conforme\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E jornada indicada no&nbsp;\u003C/span\u003E\u003Ca href=\"https://dev.azure.com/timbrasil/IT%20Business%20Agility/_workitems/edit/1113130/\" data-vss-mention=\"version:1.0\"\u003E#1113130\u003C/a\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EAbaixo segue o exemplo da URL utilizada\npelo APP Beta para Reset de senha, porém, TI precisa nos informar qual será o\nmelhor caminho:\u003C/span\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E&nbsp;\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003Ehttps://auth3.tim.com.br/webapp-resetSenha/forgotPassword?layout=meutimapp&amp;loginType=USER&amp;channel=4&amp;msisdn=\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EDD\u003C/span\u003E%”\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EMSISDN\u003C/span\u003E” \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Ch3\u003E \u003C/h3\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cstrong\u003EPARA\u003C/strong\u003E&nbsp;eliminar quebras de jornada, redirecionamentos desnecessários, como a obrigação de acessar o APP Meu TIM. Garantindo estabilidade, segurança e compatibilidade da jornada. \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E",
+        "EscopoNegativoStory.TIMDM": "\u003Cspan\u003EA página de reset de senha é inviável na Intelsat, pois a Intelsat não autoriza o captcha que é recomendação de segurança da TIM nesse processo de autenticação do cliente.\u003C/span\u003E\u003Cbr\u003E",
+        "System.BoardColumn": "Nova História",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:06:21.88Z",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "System.Title": "Integração com a Intelsat"
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html",
+        "EscopoNegativoStory.TIMDM": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113109/revisions/6"
+    },
+    {
+      "id": 1113109,
+      "rev": 7,
+      "fields": {
+        "System.WorkItemType": "User Story",
+        "System.State": "Nova História",
+        "System.Reason": "Moved to state Nova História",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-09-05T21:06:21.88Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-09-09T18:19:26.417Z",
+        "System.ChangedBy": {
+          "displayName": "Paulo Ricardo Castellanos Souza",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+            }
+          },
+          "id": "2fac8ab0-73e3-6642-ab35-14a3fe439a8b",
+          "uniqueName": "pcsouza@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi",
+          "descriptor": "aad.MmZhYzhhYjAtNzNlMy03NjQyLWFiMzUtMTRhM2ZlNDM5YThi"
+        },
+        "System.CommentCount": 1,
+        "System.TeamProject": "Portfolio Tim TI",
+        "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+        "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "CodigoDemanda.TIMDM": "251078031",
+        "BugVendor.TIMDM": ".NÃO IDENTIFICADO",
+        "Custom.PercentualAutomacao": "0%",
+        "Custom.AddAprovador2": false,
+        "Custom.AddAprovador3": false,
+        "Custom.AddAprovador4": false,
+        "Custom.AddAprovador5": false,
+        "Custom.AddAprovador6": false,
+        "Custom.AddAprovador7": false,
+        "Custom.AddAprovador8": false,
+        "Custom.AddAprovador9": false,
+        "Custom.AddAprovador10": false,
+        "Custom.AddAprovador11": false,
+        "Custom.AddAprovador12": false,
+        "Custom.AddAprovador13": false,
+        "Custom.AddAprovador14": false,
+        "Custom.AddAprovador15": false,
+        "PercentualAutomacao.TIMDM": "0%",
+        "Custom.UserStoryTestavel": false,
+        "Custom.RevisadaPO": false,
+        "Custom.ObrigaApontamentoFronteira": false,
+        "Custom.SemImpacto": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "System.Description": "\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb style=\"box-sizing:border-box;\"\u003EEU COMO\u003Cspan style=\"box-sizing:border-box;\"\u003E&nbsp;\u003C/span\u003E\u003C/b\u003EMarketing \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EDESEJO QUE\u003C/b\u003E seja implementada uma solução técnica para realizar a integração da página de reset de senha da TIM ao sistema da Intelsat, via Webview, garantindo&nbsp;trafegar\ne resetar a senha conforme\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E jornada indicada no&nbsp;\u003C/span\u003E\u003Ca href=\"https://dev.azure.com/timbrasil/IT%20Business%20Agility/_workitems/edit/1113130/\" data-vss-mention=\"version:1.0\"\u003E#1113130\u003C/a\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EAbaixo segue o exemplo da URL utilizada\npelo APP Beta para Reset de senha, porém, TI precisa nos informar qual será o\nmelhor caminho:\u003C/span\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E&nbsp;\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003Ehttps://auth3.tim.com.br/webapp-resetSenha/forgotPassword?layout=meutimapp&amp;loginType=USER&amp;channel=4&amp;msisdn=\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EDD\u003C/span\u003E%”\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EMSISDN\u003C/span\u003E” \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Ch3\u003E \u003C/h3\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cstrong\u003EPARA\u003C/strong\u003E&nbsp;eliminar quebras de jornada, redirecionamentos desnecessários, como a obrigação de acessar o APP Meu TIM. Garantindo estabilidade, segurança e compatibilidade da jornada. \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E",
+        "EscopoNegativoStory.TIMDM": "\u003Cspan\u003EA página de reset de senha é inviável na Intelsat, pois a Intelsat não autoriza o captcha que é recomendação de segurança da TIM nesse processo de autenticação do cliente.\u003C/span\u003E\u003Cbr\u003E",
+        "System.BoardColumn": "Nova História",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:06:21.88Z",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "System.Title": "Integração com a Intelsat",
+        "System.History": "\u003Cdiv\u003E\u003Ca href=\"#\" data-vss-mention=\"version:2.0,cf2d6f39-3513-6c5a-91dd-773f5a1f3dea\"\u003E@Ana Maria Lopes Moreira\u003C/a\u003E&nbsp;\u003Ca href=\"#\" data-vss-mention=\"version:2.0,b6dce009-805a-6602-aa34-1504b6cc18b3\"\u003E@Danielle Da Fonseca Aguiar\u003C/a\u003E&nbsp;conforme informado em tempo de macro valoração esta US foi classificada como escopo negativo. \u003Ca href=\"#\" data-vss-mention=\"version:2.0,9351430e-67bd-65b5-8507-a88ef15ae180\"\u003E@Fernanda Soares Marelli Leite\u003C/a\u003E&nbsp;\u003Ca href=\"#\" data-vss-mention=\"version:2.0,4c02ac26-64ac-6a76-84a5-a002181da521\"\u003E@PAULO HENRIQUE FERREIRA COSTA\u003C/a\u003E \u003C/div\u003E"
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html",
+        "EscopoNegativoStory.TIMDM": "html",
+        "System.History": "html"
+      },
+      "commentVersionRef": {
+        "commentId": 16659942,
+        "version": 1,
+        "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113109/comments/16659942/versions/1"
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113109/revisions/7"
+    },
+    {
+      "id": 1113109,
+      "rev": 8,
+      "fields": {
+        "System.WorkItemType": "User Story",
+        "System.State": "Nova História",
+        "System.Reason": "Moved to state Nova História",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-09-05T21:06:21.88Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-09-09T22:07:30.813Z",
+        "System.ChangedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CommentCount": 2,
+        "System.TeamProject": "Portfolio Tim TI",
+        "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+        "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+        "System.History": "\u003Cdiv\u003E\u003Ca href=\"#\" data-vss-mention=\"version:2.0,2fac8ab0-73e3-6642-ab35-14a3fe439a8b\"\u003E@Paulo Ricardo Castellanos Souza\u003C/a\u003E&nbsp;\u003Ca href=\"#\" data-vss-mention=\"version:2.0,b6dce009-805a-6602-aa34-1504b6cc18b3\"\u003E@Danielle Da Fonseca Aguiar\u003C/a\u003E&nbsp;\u003Ca href=\"#\" data-vss-mention=\"version:2.0,9351430e-67bd-65b5-8507-a88ef15ae180\"\u003E@Fernanda Soares Marelli Leite\u003C/a\u003E&nbsp;\u003Ca href=\"#\" data-vss-mention=\"version:2.0,4c02ac26-64ac-6a76-84a5-a002181da521\"\u003E@PAULO HENRIQUE FERREIRA COSTA\u003C/a\u003E&nbsp; a não integração com a Intelsat não inviabiliza o redirecionamento do cliente para o reset de senha no Meu TIM, certo?\u003C/div\u003E",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "CodigoDemanda.TIMDM": "251078031",
+        "BugVendor.TIMDM": ".NÃO IDENTIFICADO",
+        "Custom.PercentualAutomacao": "0%",
+        "Custom.AddAprovador2": false,
+        "Custom.AddAprovador3": false,
+        "Custom.AddAprovador4": false,
+        "Custom.AddAprovador5": false,
+        "Custom.AddAprovador6": false,
+        "Custom.AddAprovador7": false,
+        "Custom.AddAprovador8": false,
+        "Custom.AddAprovador9": false,
+        "Custom.AddAprovador10": false,
+        "Custom.AddAprovador11": false,
+        "Custom.AddAprovador12": false,
+        "Custom.AddAprovador13": false,
+        "Custom.AddAprovador14": false,
+        "Custom.AddAprovador15": false,
+        "PercentualAutomacao.TIMDM": "0%",
+        "Custom.UserStoryTestavel": false,
+        "Custom.RevisadaPO": false,
+        "Custom.ObrigaApontamentoFronteira": false,
+        "Custom.SemImpacto": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "System.Description": "\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb style=\"box-sizing:border-box;\"\u003EEU COMO\u003Cspan style=\"box-sizing:border-box;\"\u003E&nbsp;\u003C/span\u003E\u003C/b\u003EMarketing \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EDESEJO QUE\u003C/b\u003E seja implementada uma solução técnica para realizar a integração da página de reset de senha da TIM ao sistema da Intelsat, via Webview, garantindo&nbsp;trafegar\ne resetar a senha conforme\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E jornada indicada no&nbsp;\u003C/span\u003E\u003Ca href=\"https://dev.azure.com/timbrasil/IT%20Business%20Agility/_workitems/edit/1113130/\" data-vss-mention=\"version:1.0\"\u003E#1113130\u003C/a\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EAbaixo segue o exemplo da URL utilizada\npelo APP Beta para Reset de senha, porém, TI precisa nos informar qual será o\nmelhor caminho:\u003C/span\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E&nbsp;\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003Ehttps://auth3.tim.com.br/webapp-resetSenha/forgotPassword?layout=meutimapp&amp;loginType=USER&amp;channel=4&amp;msisdn=\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EDD\u003C/span\u003E%”\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EMSISDN\u003C/span\u003E” \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Ch3\u003E \u003C/h3\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cstrong\u003EPARA\u003C/strong\u003E&nbsp;eliminar quebras de jornada, redirecionamentos desnecessários, como a obrigação de acessar o APP Meu TIM. Garantindo estabilidade, segurança e compatibilidade da jornada. \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E",
+        "EscopoNegativoStory.TIMDM": "\u003Cspan\u003EA página de reset de senha é inviável na Intelsat, pois a Intelsat não autoriza o captcha que é recomendação de segurança da TIM nesse processo de autenticação do cliente.\u003C/span\u003E\u003Cbr\u003E",
+        "System.BoardColumn": "Nova História",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:06:21.88Z",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "System.Title": "Integração com a Intelsat"
+      },
+      "multilineFieldsFormat": {
+        "System.History": "html",
+        "System.Description": "html",
+        "EscopoNegativoStory.TIMDM": "html"
+      },
+      "commentVersionRef": {
+        "commentId": 16661819,
+        "version": 1,
+        "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113109/comments/16661819/versions/1"
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113109/revisions/8"
+    },
+    {
+      "id": 1113109,
+      "rev": 9,
+      "fields": {
+        "System.WorkItemType": "User Story",
+        "System.State": "Nova História",
+        "System.Reason": "Moved to state Nova História",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-09-05T21:06:21.88Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-09-10T21:28:40.463Z",
+        "System.ChangedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CommentCount": 2,
+        "System.TeamProject": "Portfolio Tim TI",
+        "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+        "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "CodigoDemanda.TIMDM": "251078031",
+        "BugVendor.TIMDM": ".NÃO IDENTIFICADO",
+        "Custom.PercentualAutomacao": "0%",
+        "Custom.AddAprovador2": false,
+        "Custom.AddAprovador3": false,
+        "Custom.AddAprovador4": false,
+        "Custom.AddAprovador5": false,
+        "Custom.AddAprovador6": false,
+        "Custom.AddAprovador7": false,
+        "Custom.AddAprovador8": false,
+        "Custom.AddAprovador9": false,
+        "Custom.AddAprovador10": false,
+        "Custom.AddAprovador11": false,
+        "Custom.AddAprovador12": false,
+        "Custom.AddAprovador13": false,
+        "Custom.AddAprovador14": false,
+        "Custom.AddAprovador15": false,
+        "PercentualAutomacao.TIMDM": "0%",
+        "Custom.UserStoryTestavel": false,
+        "Custom.RevisadaPO": false,
+        "Custom.ObrigaApontamentoFronteira": false,
+        "Custom.SemImpacto": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "Custom.IdMacroValoracao": 0,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "System.Description": "\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb style=\"box-sizing:border-box;\"\u003EEU COMO\u003Cspan style=\"box-sizing:border-box;\"\u003E&nbsp;\u003C/span\u003E\u003C/b\u003EMarketing \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EDESEJO QUE\u003C/b\u003E seja implementada uma solução técnica para realizar a integração da página de reset de senha da TIM ao sistema da Intelsat, via Webview, garantindo&nbsp;trafegar\ne resetar a senha conforme\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E jornada indicada no&nbsp;\u003C/span\u003E\u003Ca href=\"https://dev.azure.com/timbrasil/IT%20Business%20Agility/_workitems/edit/1113130/\" data-vss-mention=\"version:1.0\"\u003E#1113130\u003C/a\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EAbaixo segue o exemplo da URL utilizada\npelo APP Beta para Reset de senha, porém, TI precisa nos informar qual será o\nmelhor caminho:\u003C/span\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E&nbsp;\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003Ehttps://auth3.tim.com.br/webapp-resetSenha/forgotPassword?layout=meutimapp&amp;loginType=USER&amp;channel=4&amp;msisdn=\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EDD\u003C/span\u003E%”\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EMSISDN\u003C/span\u003E” \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Ch3\u003E \u003C/h3\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cstrong\u003EPARA\u003C/strong\u003E&nbsp;eliminar quebras de jornada, redirecionamentos desnecessários, como a obrigação de acessar o APP Meu TIM. Garantindo estabilidade, segurança e compatibilidade da jornada. \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E",
+        "EscopoNegativoStory.TIMDM": "\u003Cspan\u003EA página de reset de senha é inviável na Intelsat, pois a Intelsat não autoriza o captcha que é recomendação de segurança da TIM nesse processo de autenticação do cliente.\u003C/span\u003E\u003Cbr\u003E",
+        "System.BoardColumn": "Nova História",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:06:21.88Z",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "System.Title": "Integração com a Intelsat"
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html",
+        "EscopoNegativoStory.TIMDM": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113109/revisions/9"
+    },
+    {
+      "id": 1113109,
+      "rev": 10,
+      "fields": {
+        "System.WorkItemType": "User Story",
+        "System.State": "Nova História",
+        "System.Reason": "Moved to state Nova História",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-09-05T21:06:21.88Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-09-11T17:59:01.35Z",
+        "System.ChangedBy": {
+          "displayName": "Fabio Prazeres Da Silva",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/96e8c4cb-3cb9-6181-9711-0cf9d3b405ec",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTZlOGM0Y2ItM2NiOS03MTgxLTk3MTEtMGNmOWQzYjQwNWVj"
+            }
+          },
+          "id": "96e8c4cb-3cb9-6181-9711-0cf9d3b405ec",
+          "uniqueName": "fabpdsilva@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.OTZlOGM0Y2ItM2NiOS03MTgxLTk3MTEtMGNmOWQzYjQwNWVj",
+          "descriptor": "aad.OTZlOGM0Y2ItM2NiOS03MTgxLTk3MTEtMGNmOWQzYjQwNWVj"
+        },
+        "System.CommentCount": 2,
+        "System.TeamProject": "Portfolio Tim TI",
+        "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+        "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StackRank": 1999996906,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "CodigoDemanda.TIMDM": "251078031",
+        "BugVendor.TIMDM": ".NÃO IDENTIFICADO",
+        "Custom.PercentualAutomacao": "0%",
+        "Custom.AddAprovador2": false,
+        "Custom.AddAprovador3": false,
+        "Custom.AddAprovador4": false,
+        "Custom.AddAprovador5": false,
+        "Custom.AddAprovador6": false,
+        "Custom.AddAprovador7": false,
+        "Custom.AddAprovador8": false,
+        "Custom.AddAprovador9": false,
+        "Custom.AddAprovador10": false,
+        "Custom.AddAprovador11": false,
+        "Custom.AddAprovador12": false,
+        "Custom.AddAprovador13": false,
+        "Custom.AddAprovador14": false,
+        "Custom.AddAprovador15": false,
+        "PercentualAutomacao.TIMDM": "0%",
+        "Custom.UserStoryTestavel": false,
+        "Custom.RevisadaPO": false,
+        "Custom.ObrigaApontamentoFronteira": false,
+        "Custom.SemImpacto": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "Custom.IdMacroValoracao": 0,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "System.Description": "\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb style=\"box-sizing:border-box;\"\u003EEU COMO\u003Cspan style=\"box-sizing:border-box;\"\u003E&nbsp;\u003C/span\u003E\u003C/b\u003EMarketing \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EDESEJO QUE\u003C/b\u003E seja implementada uma solução técnica para realizar a integração da página de reset de senha da TIM ao sistema da Intelsat, via Webview, garantindo&nbsp;trafegar\ne resetar a senha conforme\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E jornada indicada no&nbsp;\u003C/span\u003E\u003Ca href=\"https://dev.azure.com/timbrasil/IT%20Business%20Agility/_workitems/edit/1113130/\" data-vss-mention=\"version:1.0\"\u003E#1113130\u003C/a\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EAbaixo segue o exemplo da URL utilizada\npelo APP Beta para Reset de senha, porém, TI precisa nos informar qual será o\nmelhor caminho:\u003C/span\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E&nbsp;\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003Ehttps://auth3.tim.com.br/webapp-resetSenha/forgotPassword?layout=meutimapp&amp;loginType=USER&amp;channel=4&amp;msisdn=\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EDD\u003C/span\u003E%”\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EMSISDN\u003C/span\u003E” \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Ch3\u003E \u003C/h3\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cstrong\u003EPARA\u003C/strong\u003E&nbsp;eliminar quebras de jornada, redirecionamentos desnecessários, como a obrigação de acessar o APP Meu TIM. Garantindo estabilidade, segurança e compatibilidade da jornada. \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E",
+        "EscopoNegativoStory.TIMDM": "\u003Cspan\u003EA página de reset de senha é inviável na Intelsat, pois a Intelsat não autoriza o captcha que é recomendação de segurança da TIM nesse processo de autenticação do cliente.\u003C/span\u003E\u003Cbr\u003E",
+        "System.BoardColumn": "Nova História",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:06:21.88Z",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História",
+        "System.Title": "Integração com a Intelsat"
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html",
+        "EscopoNegativoStory.TIMDM": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113109/revisions/10"
+    },
+    {
+      "id": 1113109,
+      "rev": 11,
+      "fields": {
+        "System.WorkItemType": "User Story",
+        "System.State": "Nova História",
+        "System.Reason": "Moved to state Nova História",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-09-05T21:06:21.88Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-09-12T19:40:29.47Z",
+        "System.ChangedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CommentCount": 2,
+        "System.TeamProject": "Portfolio Tim TI",
+        "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+        "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StackRank": 1999996906,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "CodigoDemanda.TIMDM": "251078031",
+        "BugVendor.TIMDM": ".NÃO IDENTIFICADO",
+        "Custom.PercentualAutomacao": "0%",
+        "Custom.AddAprovador2": false,
+        "Custom.AddAprovador3": false,
+        "Custom.AddAprovador4": false,
+        "Custom.AddAprovador5": false,
+        "Custom.AddAprovador6": false,
+        "Custom.AddAprovador7": false,
+        "Custom.AddAprovador8": false,
+        "Custom.AddAprovador9": false,
+        "Custom.AddAprovador10": false,
+        "Custom.AddAprovador11": false,
+        "Custom.AddAprovador12": false,
+        "Custom.AddAprovador13": false,
+        "Custom.AddAprovador14": false,
+        "Custom.AddAprovador15": false,
+        "PercentualAutomacao.TIMDM": "0%",
+        "Custom.UserStoryTestavel": false,
+        "Custom.RevisadaPO": false,
+        "Custom.ObrigaApontamentoFronteira": false,
+        "Custom.SemImpacto": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "Custom.IdMacroValoracao": 0,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "System.Description": "\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb style=\"box-sizing:border-box;\"\u003EEU COMO\u003Cspan style=\"box-sizing:border-box;\"\u003E&nbsp;\u003C/span\u003E\u003C/b\u003EMarketing \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EDESEJO QUE\u003C/b\u003E seja implementada uma solução técnica para realizar a integração da página de reset de senha da TIM ao sistema da Intelsat, via Webview, garantindo&nbsp;trafegar\ne resetar a senha conforme\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E jornada indicada no&nbsp;\u003C/span\u003E\u003Ca href=\"https://dev.azure.com/timbrasil/IT%20Business%20Agility/_workitems/edit/1113130/\" data-vss-mention=\"version:1.0\"\u003E#1113130\u003C/a\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EAbaixo segue o exemplo da URL utilizada\npelo APP Beta para Reset de senha, porém, TI precisa nos informar qual será o\nmelhor caminho:\u003C/span\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E&nbsp;\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003Ehttps://auth3.tim.com.br/webapp-resetSenha/forgotPassword?layout=meutimapp&amp;loginType=USER&amp;channel=4&amp;msisdn=\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EDD\u003C/span\u003E%”\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EMSISDN\u003C/span\u003E” \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Ch3\u003E \u003C/h3\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cstrong\u003EPARA\u003C/strong\u003E&nbsp;eliminar quebras de jornada, redirecionamentos desnecessários, como a obrigação de acessar o APP Meu TIM. Garantindo estabilidade, segurança e compatibilidade da jornada. \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E",
+        "EscopoNegativoStory.TIMDM": "\u003Cspan\u003EA página de reset de senha é inviável na Intelsat, pois a Intelsat não autoriza o captcha que é recomendação de segurança da TIM nesse processo de autenticação do cliente.\u003C/span\u003E\u003Cbr\u003E",
+        "System.Title": "Integração com a Intelsat *ESCOPO NEGATIVO*",
+        "System.BoardColumn": "Nova História",
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-09-05T21:06:21.88Z",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "Nova História",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "Nova História",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "Nova História"
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html",
+        "EscopoNegativoStory.TIMDM": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113109/revisions/11"
+    },
+    {
+      "id": 1113109,
+      "rev": 12,
+      "fields": {
+        "System.WorkItemType": "User Story",
+        "System.State": "Concluída",
+        "System.Reason": "Moved out of state Nova História",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-09-05T21:06:21.88Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-10-08T14:57:19.607Z",
+        "System.ChangedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CommentCount": 2,
+        "System.TeamProject": "Portfolio Tim TI",
+        "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+        "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+        "System.BoardColumn": "TIR em Produção",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-10-08T14:57:19.607Z",
+        "Microsoft.VSTS.Common.ClosedDate": "2025-10-08T14:57:19.607Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "Microsoft.VSTS.Common.StackRank": 1999996906,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "Microsoft.VSTS.Scheduling.FinishDate": "2025-10-08T14:57:17.47Z",
+        "CodigoDemanda.TIMDM": "251078031",
+        "BugVendor.TIMDM": ".NÃO IDENTIFICADO",
+        "Custom.PercentualAutomacao": "0%",
+        "Custom.AddAprovador2": false,
+        "Custom.AddAprovador3": false,
+        "Custom.AddAprovador4": false,
+        "Custom.AddAprovador5": false,
+        "Custom.AddAprovador6": false,
+        "Custom.AddAprovador7": false,
+        "Custom.AddAprovador8": false,
+        "Custom.AddAprovador9": false,
+        "Custom.AddAprovador10": false,
+        "Custom.AddAprovador11": false,
+        "Custom.AddAprovador12": false,
+        "Custom.AddAprovador13": false,
+        "Custom.AddAprovador14": false,
+        "Custom.AddAprovador15": false,
+        "PercentualAutomacao.TIMDM": "0%",
+        "Custom.UserStoryTestavel": false,
+        "Custom.RevisadaPO": false,
+        "Custom.ObrigaApontamentoFronteira": false,
+        "Custom.SemImpacto": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "TIR em Produção",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "TIR em Produção",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "Custom.IdMacroValoracao": 0,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "TIR em Produção",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "System.Description": "\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb style=\"box-sizing:border-box;\"\u003EEU COMO\u003Cspan style=\"box-sizing:border-box;\"\u003E&nbsp;\u003C/span\u003E\u003C/b\u003EMarketing \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EDESEJO QUE\u003C/b\u003E seja implementada uma solução técnica para realizar a integração da página de reset de senha da TIM ao sistema da Intelsat, via Webview, garantindo&nbsp;trafegar\ne resetar a senha conforme\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E jornada indicada no&nbsp;\u003C/span\u003E\u003Ca href=\"https://dev.azure.com/timbrasil/IT%20Business%20Agility/_workitems/edit/1113130/\" data-vss-mention=\"version:1.0\"\u003E#1113130\u003C/a\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EAbaixo segue o exemplo da URL utilizada\npelo APP Beta para Reset de senha, porém, TI precisa nos informar qual será o\nmelhor caminho:\u003C/span\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E&nbsp;\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003Ehttps://auth3.tim.com.br/webapp-resetSenha/forgotPassword?layout=meutimapp&amp;loginType=USER&amp;channel=4&amp;msisdn=\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EDD\u003C/span\u003E%”\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EMSISDN\u003C/span\u003E” \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Ch3\u003E \u003C/h3\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cstrong\u003EPARA\u003C/strong\u003E&nbsp;eliminar quebras de jornada, redirecionamentos desnecessários, como a obrigação de acessar o APP Meu TIM. Garantindo estabilidade, segurança e compatibilidade da jornada. \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E",
+        "EscopoNegativoStory.TIMDM": "\u003Cspan\u003EA página de reset de senha é inviável na Intelsat, pois a Intelsat não autoriza o captcha que é recomendação de segurança da TIM nesse processo de autenticação do cliente.\u003C/span\u003E\u003Cbr\u003E",
+        "System.Title": "Integração com a Intelsat *ESCOPO NEGATIVO*"
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html",
+        "EscopoNegativoStory.TIMDM": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113109/revisions/12"
+    },
+    {
+      "id": 1113109,
+      "rev": 13,
+      "fields": {
+        "System.WorkItemType": "User Story",
+        "System.State": "Concluída",
+        "System.Reason": "Moved out of state Nova História",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-09-05T21:06:21.88Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-10-08T14:58:05.373Z",
+        "System.ChangedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CommentCount": 2,
+        "System.TeamProject": "Portfolio Tim TI",
+        "System.AreaPath": "Portfolio Tim TI\\Portfolio Tim 2025\\CRO\\Marketing Consumer e SMB",
+        "System.IterationPath": "Portfolio Tim TI\\Portfolio Tim\\2025\\Q3",
+        "System.Title": "Integração com a Intelsat *Escopo Negativo*",
+        "System.BoardColumn": "TIR em Produção",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-10-08T14:57:19.607Z",
+        "Microsoft.VSTS.Common.ClosedDate": "2025-10-08T14:57:19.607Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "Microsoft.VSTS.Common.StackRank": 1999996906,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "Microsoft.VSTS.Scheduling.FinishDate": "2025-10-08T14:57:17.47Z",
+        "CodigoDemanda.TIMDM": "251078031",
+        "BugVendor.TIMDM": ".NÃO IDENTIFICADO",
+        "Custom.PercentualAutomacao": "0%",
+        "Custom.AddAprovador2": false,
+        "Custom.AddAprovador3": false,
+        "Custom.AddAprovador4": false,
+        "Custom.AddAprovador5": false,
+        "Custom.AddAprovador6": false,
+        "Custom.AddAprovador7": false,
+        "Custom.AddAprovador8": false,
+        "Custom.AddAprovador9": false,
+        "Custom.AddAprovador10": false,
+        "Custom.AddAprovador11": false,
+        "Custom.AddAprovador12": false,
+        "Custom.AddAprovador13": false,
+        "Custom.AddAprovador14": false,
+        "Custom.AddAprovador15": false,
+        "PercentualAutomacao.TIMDM": "0%",
+        "Custom.UserStoryTestavel": false,
+        "Custom.RevisadaPO": false,
+        "Custom.ObrigaApontamentoFronteira": false,
+        "Custom.SemImpacto": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "TIR em Produção",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "TIR em Produção",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "Custom.IdMacroValoracao": 0,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "TIR em Produção",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "System.Description": "\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb style=\"box-sizing:border-box;\"\u003EEU COMO\u003Cspan style=\"box-sizing:border-box;\"\u003E&nbsp;\u003C/span\u003E\u003C/b\u003EMarketing \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EDESEJO QUE\u003C/b\u003E seja implementada uma solução técnica para realizar a integração da página de reset de senha da TIM ao sistema da Intelsat, via Webview, garantindo&nbsp;trafegar\ne resetar a senha conforme\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E jornada indicada no&nbsp;\u003C/span\u003E\u003Ca href=\"https://dev.azure.com/timbrasil/IT%20Business%20Agility/_workitems/edit/1113130/\" data-vss-mention=\"version:1.0\"\u003E#1113130\u003C/a\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EAbaixo segue o exemplo da URL utilizada\npelo APP Beta para Reset de senha, porém, TI precisa nos informar qual será o\nmelhor caminho:\u003C/span\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E&nbsp;\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003Ehttps://auth3.tim.com.br/webapp-resetSenha/forgotPassword?layout=meutimapp&amp;loginType=USER&amp;channel=4&amp;msisdn=\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EDD\u003C/span\u003E%”\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EMSISDN\u003C/span\u003E” \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Ch3\u003E \u003C/h3\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cstrong\u003EPARA\u003C/strong\u003E&nbsp;eliminar quebras de jornada, redirecionamentos desnecessários, como a obrigação de acessar o APP Meu TIM. Garantindo estabilidade, segurança e compatibilidade da jornada. \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E",
+        "EscopoNegativoStory.TIMDM": "\u003Cspan\u003EA página de reset de senha é inviável na Intelsat, pois a Intelsat não autoriza o captcha que é recomendação de segurança da TIM nesse processo de autenticação do cliente.\u003C/span\u003E\u003Cbr\u003E"
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html",
+        "EscopoNegativoStory.TIMDM": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/8ceb2458-7571-460e-876c-10a717558e26/_apis/wit/workItems/1113109/revisions/13"
+    },
+    {
+      "id": 1113109,
+      "rev": 14,
+      "fields": {
+        "System.AreaPath": "Projeto_Service_Creation\\Waterfall",
+        "System.TeamProject": "Projeto_Service_Creation",
+        "System.IterationPath": "Projeto_Service_Creation\\Waterfall",
+        "System.WorkItemType": "User Story",
+        "System.State": "Concluída",
+        "System.Reason": "Moved out of state Nova História",
+        "System.AssignedTo": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.CreatedDate": "2025-09-05T21:06:21.88Z",
+        "System.CreatedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "System.ChangedDate": "2025-10-13T14:03:18.083Z",
+        "System.ChangedBy": {
+          "displayName": "Franco Kaufmann Gaspar Ferreira Junior",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/da8e31eb-7a56-6df5-b42a-2155cf2f5c64",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.ZGE4ZTMxZWItN2E1Ni03ZGY1LWI0MmEtMjE1NWNmMmY1YzY0"
+            }
+          },
+          "id": "da8e31eb-7a56-6df5-b42a-2155cf2f5c64",
+          "uniqueName": "fkgjunior@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.ZGE4ZTMxZWItN2E1Ni03ZGY1LWI0MmEtMjE1NWNmMmY1YzY0",
+          "descriptor": "aad.ZGE4ZTMxZWItN2E1Ni03ZGY1LWI0MmEtMjE1NWNmMmY1YzY0"
+        },
+        "System.CommentCount": 2,
+        "System.Title": "Integração com a Intelsat *Escopo Negativo*",
+        "System.BoardColumn": "TIR em Produção",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2025-10-08T14:57:19.607Z",
+        "Microsoft.VSTS.Common.ClosedDate": "2025-10-08T14:57:19.607Z",
+        "Microsoft.VSTS.Common.ClosedBy": {
+          "displayName": "Ana Maria Lopes Moreira",
+          "url": "https://spsprodsbr1.vssps.visualstudio.com/A1e581137-d9d6-44f9-aae7-08f35e82458a/_apis/Identities/cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "_links": {
+            "avatar": {
+              "href": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+            }
+          },
+          "id": "cf2d6f39-3513-6c5a-91dd-773f5a1f3dea",
+          "uniqueName": "amlmoreira@timbrasil.com.br",
+          "imageUrl": "https://dev.azure.com/timbrasil/_apis/GraphProfile/MemberAvatars/aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh",
+          "descriptor": "aad.Y2YyZDZmMzktMzUxMy03YzVhLTkxZGQtNzczZjVhMWYzZGVh"
+        },
+        "Microsoft.VSTS.Common.StackRank": 1999996906,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "Microsoft.VSTS.Scheduling.FinishDate": "2025-10-08T14:57:17.47Z",
+        "CodigoDemanda.TIMDM": "251078031",
+        "BugVendor.TIMDM": ".NÃO IDENTIFICADO",
+        "Custom.PercentualAutomacao": "0%",
+        "Custom.AddAprovador2": false,
+        "Custom.AddAprovador3": false,
+        "Custom.AddAprovador4": false,
+        "Custom.AddAprovador5": false,
+        "Custom.AddAprovador6": false,
+        "Custom.AddAprovador7": false,
+        "Custom.AddAprovador8": false,
+        "Custom.AddAprovador9": false,
+        "Custom.AddAprovador10": false,
+        "Custom.AddAprovador11": false,
+        "Custom.AddAprovador12": false,
+        "Custom.AddAprovador13": false,
+        "Custom.AddAprovador14": false,
+        "Custom.AddAprovador15": false,
+        "PercentualAutomacao.TIMDM": "0%",
+        "Custom.UserStoryTestavel": false,
+        "Custom.RevisadaPO": false,
+        "Custom.ObrigaApontamentoFronteira": false,
+        "Custom.SemImpacto": false,
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column": "TIR em Produção",
+        "WEF_CFEDC94E897B4E20AF3F453AE95B66C2_Kanban.Column.Done": false,
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column": "TIR em Produção",
+        "WEF_6A90BA7654184152A40A047264929C2B_Kanban.Column.Done": false,
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column": "TIR em Produção",
+        "WEF_9AF75E9B122F4B3D930B1F13DAC87080_Kanban.Column.Done": false,
+        "Custom.IdMacroValoracao": 0,
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column": "TIR em Produção",
+        "WEF_B8F49C4800FF47C8A90FA6B6096F254F_Kanban.Column.Done": false,
+        "System.Description": "\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cb style=\"box-sizing:border-box;\"\u003EEU COMO\u003Cspan style=\"box-sizing:border-box;\"\u003E&nbsp;\u003C/span\u003E\u003C/b\u003EMarketing \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr style=\"box-sizing:border-box;\"\u003E \u003C/div\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cb\u003EDESEJO QUE\u003C/b\u003E seja implementada uma solução técnica para realizar a integração da página de reset de senha da TIM ao sistema da Intelsat, via Webview, garantindo&nbsp;trafegar\ne resetar a senha conforme\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E jornada indicada no&nbsp;\u003C/span\u003E\u003Ca href=\"https://dev.azure.com/timbrasil/IT%20Business%20Agility/_workitems/edit/1113130/\" data-vss-mention=\"version:1.0\"\u003E#1113130\u003C/a\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EAbaixo segue o exemplo da URL utilizada\npelo APP Beta para Reset de senha, porém, TI precisa nos informar qual será o\nmelhor caminho:\u003C/span\u003E\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003E&nbsp;\u003C/span\u003E \u003C/div\u003E\u003Cdiv\u003Ehttps://auth3.tim.com.br/webapp-resetSenha/forgotPassword?layout=meutimapp&amp;loginType=USER&amp;channel=4&amp;msisdn=\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EDD\u003C/span\u003E%”\u003Cspan style=\"background-color:rgb(255, 255, 0);\"\u003EMSISDN\u003C/span\u003E” \u003C/div\u003E\u003Cdiv\u003E\u003Cbr\u003E \u003C/div\u003E\u003Ch3\u003E \u003C/h3\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cstrong\u003EPARA\u003C/strong\u003E&nbsp;eliminar quebras de jornada, redirecionamentos desnecessários, como a obrigação de acessar o APP Meu TIM. Garantindo estabilidade, segurança e compatibilidade da jornada. \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E\u003Cdiv style=\"box-sizing:border-box;\"\u003E\u003Cbr\u003E \u003C/div\u003E",
+        "EscopoNegativoStory.TIMDM": "\u003Cspan\u003EA página de reset de senha é inviável na Intelsat, pois a Intelsat não autoriza o captcha que é recomendação de segurança da TIM nesse processo de autenticação do cliente.\u003C/span\u003E\u003Cbr\u003E"
+      },
+      "multilineFieldsFormat": {
+        "System.Description": "html",
+        "EscopoNegativoStory.TIMDM": "html"
+      },
+      "url": "https://dev.azure.com/timbrasil/3c2b97d5-e545-44fa-a25b-ebc8118e5073/_apis/wit/workItems/1113109/revisions/14"
+    }
+  ]
+}
